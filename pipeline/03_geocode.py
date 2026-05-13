@@ -113,6 +113,24 @@ def main():
 
     cache = load_cache()
 
+    # Seed cache from existing geolocated output — this means even if the cache
+    # file is stale or keys differ slightly, cities already resolved in a previous
+    # run are never re-geocoded via Nominatim.
+    if OUTPUT.exists():
+        with open(OUTPUT) as f:
+            prev = json.load(f)
+        seeded = 0
+        for t in prev:
+            city  = t.get("location_city", "")
+            state = t.get("state", "")          # already normalized in prev run
+            key   = f"{city}||{state}"
+            if key not in cache and t.get("geo_source") == "nominatim" and t.get("coordinates"):
+                cache[key] = t["coordinates"]
+                seeded += 1
+        if seeded:
+            print(f"Seeded {seeded} entries from previous geolocated output.")
+            save_cache(cache)
+
     # Identify which (city, state) pairs need geocoding
     to_geocode: list[tuple[str, str]] = []
     for t in tenders:
