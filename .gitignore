@@ -9,8 +9,7 @@ pipeline/**/__pycache__/
 # Pipeline debug artifacts
 pipeline/debug_*.html
 
-# Geocode cache — large and auto-rebuilds, no need to commit
-pipeline/data/geocode_cache.json
+# (geocode_cache.json is committed — prevents re-geocoding 130+ cities on every run)
 
 # Frontend build output (Vercel builds from source)
 frontend/node_modules/
