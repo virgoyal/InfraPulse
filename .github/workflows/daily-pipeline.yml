@@ -44,20 +44,22 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Pull first while tree is clean, before staging anything
-          git pull --rebase
+
           git add \
             pipeline/data/raw_tenders.json \
             pipeline/data/enriched_tenders.json \
             pipeline/data/geolocated_tenders.json \
             pipeline/data/insights.json \
+            pipeline/data/geocode_cache.json \
             frontend/public/data/tenders.json \
-            frontend/public/data/insights.json \
-            pipeline/data/geocode_cache.json
-          # Only commit + push if there are actual changes
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: daily tender update $(date -u '+%Y-%m-%d')"
-            git push
-          else
+            frontend/public/data/insights.json
+
+          if git diff --cached --quiet; then
             echo "No changes to commit."
+            exit 0
           fi
+
+          # Commit first, THEN rebase on remote — working tree is clean after commit
+          git commit -m "chore: daily tender update $(date -u '+%Y-%m-%d')"
+          git pull --rebase
+          git push
