@@ -40,7 +40,7 @@ jobs:
           python 04_insights.py
           python 05_finalize.py
 
-      - name: Commit updated data
+      - name: Commit and push updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -51,8 +51,11 @@ jobs:
             pipeline/data/insights.json \
             frontend/public/data/tenders.json \
             frontend/public/data/insights.json
-          # Only commit if there are actual changes
-          git diff --cached --quiet || git commit -m "chore: daily tender update $(date -u '+%Y-%m-%d')"
-
-      - name: Push
-        run: git pull --rebase && git push
+          # Only commit + push if there are actual changes
+          if ! git diff --cached --quiet; then
+            git pull --rebase
+            git commit -m "chore: daily tender update $(date -u '+%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit."
+          fi
