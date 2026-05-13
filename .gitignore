@@ -1,0 +1,21 @@
+# Python
+pipeline/.venv/
+pipeline/__pycache__/
+pipeline/**/__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Pipeline debug artifacts
+pipeline/debug_*.html
+
+# Geocode cache — large and auto-rebuilds, no need to commit
+pipeline/data/geocode_cache.json
+
+# Frontend build output (Vercel builds from source)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# macOS
+.DS_Store
