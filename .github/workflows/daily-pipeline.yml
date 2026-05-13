@@ -55,4 +55,4 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: daily tender update $(date -u '+%Y-%m-%d')"
 
       - name: Push
-        run: git push
+        run: git pull --rebase && git push
