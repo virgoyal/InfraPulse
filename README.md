@@ -8,6 +8,10 @@ InfraPulse pulls active road and highway procurement tenders from India's [eProc
 
 A GitHub Actions workflow runs the full pipeline every morning at 7 AM IST and commits the updated data back to the repo — no server required.
 
+## Why
+
+This data is technically public, but good luck using it. It's buried behind a clunky portal with session timeouts, and titles read like "Strengthening from Km 309.960 to Km 336.700 of NH 52 Mastikatta to Baleguli." InfraPulse makes infrastructure spending transparent at a national scale. Contractors can find relevant opportunities without fighting the portal, journalists and RTI activists can compare spending across states, and there's now a public record of how India's highway budget actually gets deployed.
+
 ## Architecture
 
 ```
@@ -106,3 +110,13 @@ Manual runs are also available from the Actions tab via `workflow_dispatch`.
 | Automation | GitHub Actions (daily cron) |
 | Frontend | Next.js 14, React 18, TypeScript, Tailwind CSS |
 | Maps | Leaflet, react-leaflet, GeoJSON (India states) |
+
+## Future work
+
+- Cross-reference tenders against Union Budget allocations to check whether states are spending what was planned
+- Timeline view to track tender activity month to month
+- Expand beyond MoRTH. NHAI, state PWDs, and Railways all post on the same portal, so the pipeline generalizes naturally
+- Email alerts for new tenders matching saved filters
+- Award tracking: which contractors keep winning in which regions. That data exists on eprocure but sits behind CAPTCHAs, and automating past that needs a careful look at the legal implications first
+- Mobile-responsive layout
+- User accounts and saved searches
