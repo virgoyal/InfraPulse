@@ -225,7 +225,7 @@
     "period_of_work": "30",
     "location_city": "NH 727",
     "pincode": "845438",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907785_1",
@@ -282,7 +282,7 @@
     "period_of_work": "180",
     "location_city": "Bidadi",
     "pincode": "562109",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907561_1",
@@ -320,7 +320,7 @@
     "period_of_work": "912",
     "location_city": "Andhra Pradesh",
     "pincode": "520013",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907713_1",
@@ -909,7 +909,7 @@
     "period_of_work": "365",
     "location_city": "Telangana",
     "pincode": "500082",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907275_1",
@@ -1403,7 +1403,7 @@
     "period_of_work": "90",
     "location_city": "Anisabad Golambar to Saristabad",
     "pincode": "800002",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_906070_1",
@@ -1525,7 +1525,7 @@
     "organization": "NH Circle Lucknow",
     "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Circle Lucknow - MoRTH",
     "published_date": "18-Apr-2026 06:00 PM",
-    "closing_date": "18-May-2026 05:00 PM",
+    "closing_date": "28-May-2026 05:00 PM",
     "state": "Uttar Pradesh",
     "value": "82,54,82,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SV2dy%2FGyAt0T6E8yLu51oDw%3D%3D",
@@ -1859,7 +1859,7 @@
     "period_of_work": "540",
     "location_city": "Katra",
     "pincode": "182301",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905192_1",
@@ -2342,7 +2342,7 @@
     "organization": "NH Division-Akola",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Akola - MoRTH",
     "published_date": "08-Apr-2026 09:00 AM",
-    "closing_date": "25-May-2026 05:30 PM",
+    "closing_date": "01-Jun-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "8,64,69,615",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SIGxpB%2FfIrKd5D%2BzQKGqn6Q%3D%3D",
@@ -2494,7 +2494,7 @@
     "organization": "RO Patna",
     "org_chain": "Ministry of Road Transport and Highways||P3 Delhi - MoRTH||RO Patna - MoRTH",
     "published_date": "06-Apr-2026 03:00 PM",
-    "closing_date": "21-May-2026 03:00 PM",
+    "closing_date": "09-Jun-2026 03:00 PM",
     "state": "Bihar",
     "value": "2,23,46,250",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SFp%2FUbMPlm3NHvtISVtLi7A%3D%3D",
@@ -2570,7 +2570,7 @@
     "organization": "RO Lucknow",
     "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH",
     "published_date": "02-Apr-2026 06:00 PM",
-    "closing_date": "14-May-2026 11:00 AM",
+    "closing_date": "21-May-2026 11:00 AM",
     "state": "Uttar Pradesh",
     "value": "3,97,42,500",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SfTfcezHo9nPGjbDzly4oPQ%3D%3D",
@@ -2665,7 +2665,7 @@
     "organization": "NH Division-Hyderabad",
     "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Hyderabad - MoRTH||NH Division-Hyderabad - MoRTH",
     "published_date": "01-Apr-2026 03:00 PM",
-    "closing_date": "14-May-2026 03:00 PM",
+    "closing_date": "21-May-2026 03:00 PM",
     "state": "Telangana",
     "value": "13,86,99,842",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SaDevWhJAqQJWIHx%2BVM7VQA%3D%3D",
@@ -2752,7 +2752,7 @@
     "period_of_work": "180",
     "location_city": "Agra",
     "pincode": "282001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_903952_1",
@@ -2760,7 +2760,7 @@
     "organization": "NH Division-Akola",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Akola - MoRTH",
     "published_date": "30-Mar-2026 09:00 AM",
-    "closing_date": "14-May-2026 05:30 PM",
+    "closing_date": "21-May-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "7,37,50,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SpMsi%2B0L0YtqTQLcYWkltgA%3D%3D",
@@ -2779,7 +2779,7 @@
     "organization": "NH Division-Akola",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Akola - MoRTH",
     "published_date": "30-Mar-2026 09:00 AM",
-    "closing_date": "14-May-2026 05:30 PM",
+    "closing_date": "21-May-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "4,02,88,979",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S%2Bu%2FYH4EctNgVmibYDM2n%2BQ%3D%3D",
@@ -2828,7 +2828,7 @@
     "period_of_work": "1440",
     "location_city": "Armori",
     "pincode": "441208",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_903713_1",
@@ -2904,7 +2904,7 @@
     "period_of_work": "730",
     "location_city": "ratnagiri",
     "pincode": "415612",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_903427_1",
@@ -2942,7 +2942,7 @@
     "period_of_work": "730",
     "location_city": "ratnagiri",
     "pincode": "415612",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_902726_1",
@@ -3170,7 +3170,7 @@
     "period_of_work": "365",
     "location_city": "Pamban",
     "pincode": "623521",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_901933_1",
@@ -3512,7 +3512,7 @@
     "period_of_work": "540",
     "location_city": "Thane",
     "pincode": "400614",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_897910_1",
@@ -3539,7 +3539,7 @@
     "organization": "Circle Shahpur",
     "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Shimla - MoRTH||Circle Shahpur - MoRTH",
     "published_date": "04-Feb-2026 06:00 PM",
-    "closing_date": "14-May-2026 11:00 AM",
+    "closing_date": "16-May-2026 11:00 AM",
     "state": "Himachal Pradesh",
     "value": "74,28,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S8f3rMwMPqZCpByKcnMxQbQ%3D%3D",
@@ -3607,7 +3607,7 @@
     "period_of_work": "365",
     "location_city": "North 24 Parganas",
     "pincode": "700087",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_895665_1",
@@ -3881,7 +3881,7 @@
     "organization": "NH Odisha PWD-Kesinga",
     "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH||RO Bhubaneswar - MoRTH||NH Odisha PWD-Kesinga - MoRTH",
     "published_date": "21-Nov-2025 01:55 PM",
-    "closing_date": "21-May-2026 12:00 PM",
+    "closing_date": "22-Jun-2026 12:00 PM",
     "state": "Odisha",
     "value": "1,82,80,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SZtPyU2yxJCUeQ8DI%2FNtTmA%3D%3D",
@@ -4558,5 +4558,214 @@
     "period_of_work": "NA",
     "location_city": "Nanded",
     "pincode": "431602"
+  },
+  {
+    "tender_id": "2026_MoRTH_908539_1",
+    "title": "Strengthening of newly declared NH-315A alignment from km 4.300 at Laipuli Tinsukia to Km 21.400 at Tingrai Chariali (Total Length 17.1 km) for A.P. 2025-26 under PWD Dibrugarh NH Division in the State of Assam (Job No. 315A/AS/2025-26/292)",
+    "organization": "National Highway ASSAM PWD-Guwahati",
+    "org_chain": "Ministry of Road Transport and Highways||NER and SARDP-NE - MoRTH||RO Guwahati - MoRTH||National Highway ASSAM PWD-Guwahati - MoRTH",
+    "published_date": "13-May-2026 04:00 PM",
+    "closing_date": "12-Jun-2026 02:00 PM",
+    "state": "Assam",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SApZ%2F%2BDJXQi%2BAJsfYFkowjg%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Strengthening of newly declared NH-315A alignment from km 4.300 at Laipuli Tinsukia to Km 21.400 at Tingrai Chariali (Total Length 17.1 km) for A.P. 2025-26 under PWD Dibrugarh NH Division in the State of Assam (Job No. 315A/AS/2025-26/292)",
+    "tender_value": "NA",
+    "product_category": "Civil Works",
+    "period_of_work": "315",
+    "location_city": "Tinsukia",
+    "pincode": "786125"
+  },
+  {
+    "tender_id": "2026_MoRTH_908529_1",
+    "title": "One time improvement with 40 mm thick BC wearing course including Road Safety works from Ch. Km 134.500 to Km 182.000 (Mission Chariali to Jamugurihat) of NH-15 (Length 47.50 Km) (Job. No. 15/AS/2025-26/291)",
+    "organization": "National Highway ASSAM PWD-Guwahati",
+    "org_chain": "Ministry of Road Transport and Highways||NER and SARDP-NE - MoRTH||RO Guwahati - MoRTH||National Highway ASSAM PWD-Guwahati - MoRTH",
+    "published_date": "13-May-2026 04:00 PM",
+    "closing_date": "12-Jun-2026 02:00 PM",
+    "state": "Assam",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S4lsZinl8s4TTc%2BfE8SvPkQ%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "One time improvement with 40 mm thick BC wearing course including Road Safety works from Ch. Km 134.500 to Km 182.000 (Mission Chariali to Jamugurihat) of NH-15 (Length 47.50 Km) (Job. No. 15/AS/2025-26/291)",
+    "tender_value": "NA",
+    "product_category": "Civil Works",
+    "period_of_work": "240",
+    "location_city": "Nagaon",
+    "pincode": "782001"
+  },
+  {
+    "tender_id": "2026_MoRTH_908360_1",
+    "title": "Construction of Diversion Causeway for damaged Bridge at km 72 Nariyana and km 80 Mangobandar of NH 333A for the year 2025_26 Job No NH333A/BHR/2025_26/140.",
+    "organization": "NH Bihar PWD-Bhagalpur",
+    "org_chain": "Ministry of Road Transport and Highways||P3 Delhi - MoRTH||RO Patna - MoRTH||NH Bihar PWD-Bhagalpur - MoRTH",
+    "published_date": "13-May-2026 02:30 PM",
+    "closing_date": "23-May-2026 05:00 PM",
+    "state": "Bihar",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SdrsDA7mJLMpw%2BErf6ysm4g%3D%3D",
+    "status": "active",
+    "contract_type": "Works",
+    "work_description": "Construction of Diversion Causeway for damaged Bridge at km 72 Nariyana and km 80 Mangobandar of NH 333A for the year 2025_26 Job No NH333A/BHR/2025_26/140.",
+    "tender_value": "17,12,00,000",
+    "product_category": "Civil Works",
+    "period_of_work": "270",
+    "location_city": "NH-333A",
+    "pincode": "811307"
+  },
+  {
+    "tender_id": "2026_MoRTH_907689_2",
+    "title": "Restoration Work of 220kv DC line work by KPTCL from Km 327 835 to Km 329 335 on B B section",
+    "organization": "NH Division-Bangalore",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH||NH Division-Bangalore - MoRTH",
+    "published_date": "14-May-2026 05:40 PM",
+    "closing_date": "20-May-2026 04:30 PM",
+    "state": "Karnataka",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S48BsegOHZNQm07OhCsJC9w%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Restoration Work of 220kv DC line work by KPTCL from Km 327 835 to Km 329 335 on B B section",
+    "tender_value": "NA",
+    "product_category": "Civil Works - Roads",
+    "period_of_work": "180",
+    "location_city": "Bidadi",
+    "pincode": "562109"
+  },
+  {
+    "tender_id": "2026_MoRTH_908704_1",
+    "title": "Rehabilitaion and Up gradation of Existing from Adhalgaon to Jamkhed Km 132.600 to km 195.375 to two lanes with Paved Shoulders configuration Section of NH 548 D Package No. Nashik  IV i.e. Nhavra  Inamgaon Kashti Shrigonda Adhalgaon  Jalgaon Jamkhed",
+    "organization": "NH Division-Pune",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Pune - MoRTH",
+    "published_date": "14-May-2026 05:00 PM",
+    "closing_date": "29-Jun-2026 05:30 PM",
+    "state": "Maharashtra",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SQYVpqb%2Fc3CDldDi7XSPIFQ%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Rehabilitaion and Up gradation of Existing from Adhalgaon to Jamkhed Km 132.600 to km 195.375 to two lanes with Paved Shoulders configuration Section of NH 548 D Package No. Nashik  IV i.e. Nhavra  Inamgaon Kashti Shrigonda Adhalgaon  Jalgaon Jamkhed",
+    "tender_value": "1,08,46,00,000",
+    "product_category": "Civil Works",
+    "period_of_work": "545",
+    "location_city": "NH548D",
+    "pincode": "422002"
+  },
+  {
+    "tender_id": "2026_MoRTH_908695_1",
+    "title": "Special repair in stretches and maintenance from Km 25.700 to Km 31.000 of NH12 Old NH34 under NH Division No V in the district of North 24 Parganas West Bengal during the year 2026 27.",
+    "organization": "NH West Bengal PWD-Kolkata Directorate",
+    "org_chain": "Ministry of Road Transport and Highways||P3 Delhi - MoRTH||RO Kolkata - MoRTH||NH West Bengal PWD-Kolkata Directorate - MoRTH",
+    "published_date": "14-May-2026 04:00 PM",
+    "closing_date": "03-Jun-2026 02:00 PM",
+    "state": "West Bengal",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SXtNwIrmfKH7%2B8uOeanlt%2FA%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Special repair in stretches and maintenance from Km 25.700 to Km 31.000 of NH12 Old NH34 under NH Division No V in the district of North 24 Parganas West Bengal during the year 2026 27.",
+    "tender_value": "3,90,39,835",
+    "product_category": "Civil Works - Roads",
+    "period_of_work": "180",
+    "location_city": "North 24 parganas",
+    "pincode": "700086"
+  },
+  {
+    "tender_id": "2026_MoRTH_908638_1",
+    "title": "Upgradation of Chitrod-Rapar-Balasar section of NH-927C to two-lane with paved shoulders from design km 0.00 to km 57.848 in the State of Gujarat on EPC mode.",
+    "organization": "P4 Delhi",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH",
+    "published_date": "14-May-2026 02:30 PM",
+    "closing_date": "01-Jul-2026 11:00 AM",
+    "state": "Gujarat",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SSXemRDxrH3hbonuY8SxP8g%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Upgradation of Chitrod-Rapar-Balasar section of NH-927C to two-lane with paved shoulders from design km 0.00 to km 57.848 in the State of Gujarat on EPC mode.",
+    "tender_value": "4,97,58,00,000",
+    "product_category": "Civil Works",
+    "period_of_work": "730",
+    "location_city": "New Delhi",
+    "pincode": "110001"
+  },
+  {
+    "tender_id": "2026_MoRTH_908645_1",
+    "title": "Upgradation to 2 Lane with Paved Shoulders of Naliya Narayan Sarovar section from design km 220.773 to km 288.987 of NH 41 in the state of Gujarat on EPC mode.",
+    "organization": "P4 Delhi",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH",
+    "published_date": "14-May-2026 02:30 PM",
+    "closing_date": "01-Jul-2026 11:00 AM",
+    "state": "Gujarat",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Snuqt8WI1VlaWP1Yccgq2nA%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Upgradation to 2 Lane with Paved Shoulders of Naliya Narayan Sarovar section from design km 220.773 to km 288.987 of NH 41 in the state of Gujarat on EPC mode.",
+    "tender_value": "3,15,25,00,000",
+    "product_category": "Civil Works",
+    "period_of_work": "730",
+    "location_city": "New Delhi",
+    "pincode": "110001"
+  },
+  {
+    "tender_id": "2026_MoRTH_908658_1",
+    "title": "Upgradation to 4 Lane with Paved Shoulders with Divided Carriageway from Design km 0.000 to km 37.087 of Pardi NH 48 Junction Sukesh Nanapondha Kaprada section of NH 848 in the state of Gujarat on Hybrid Annuity Mode.",
+    "organization": "P4 Delhi",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH",
+    "published_date": "14-May-2026 02:30 PM",
+    "closing_date": "29-Jun-2026 11:00 AM",
+    "state": "Gujarat",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sw%2FAc0DSefiB5%2FcCP5jdxQw%3D%3D",
+    "status": "active",
+    "contract_type": "Lump-sum",
+    "work_description": "Upgradation to 4 Lane with Paved Shoulders with Divided Carriageway from Design km 0.000 to km 37.087 of Pardi NH 48 Junction Sukesh Nanapondha Kaprada section of NH 848 in the state of Gujarat on Hybrid Annuity Mode.",
+    "tender_value": "5,22,71,00,000",
+    "product_category": "Civil Works",
+    "period_of_work": "730",
+    "location_city": "New Delhi",
+    "pincode": "110001"
+  },
+  {
+    "tender_id": "2026_MoRTH_908628_1",
+    "title": "Consultancy Services for AE for Supervision of Improvement Construction of Existing Class 5 road to Intermediate Lane from existing Km 00.000 to Km 75.991 Design Km 00.000 to Km 73.830 of NH 505 Sumdo Kaza Gramphoo Road in the State of HP.",
+    "organization": "RO Shimla",
+    "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Shimla - MoRTH",
+    "published_date": "14-May-2026 01:00 PM",
+    "closing_date": "30-Jun-2026 03:00 PM",
+    "state": "Himachal Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sr1b8lKk0mLEFYgdOFM7VfA%3D%3D",
+    "status": "active",
+    "contract_type": "Works",
+    "work_description": "Consultancy Services for AE for Supervision of Improvement Construction of Existing Class 5 road to Intermediate Lane from existing Km 00.000 to Km 75.991 Design Km 00.000 to Km 73.830 of NH 505 Sumdo Kaza Gramphoo Road in the State of HP.",
+    "tender_value": "10,93,00,000",
+    "product_category": "Consultancy",
+    "period_of_work": "2920",
+    "location_city": "Sumdo- Kaza",
+    "pincode": "172111"
+  },
+  {
+    "tender_id": "2026_MoRTH_908639_1",
+    "title": "Construction of Cement Concrete Pavement between Km. 61/800 to Km. 64/300 (Chalala City Portion) of NH-351G in the State of Gujarat.",
+    "organization": "NH Division-Rajkot",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
+    "published_date": "14-May-2026 12:40 PM",
+    "closing_date": "29-Jun-2026 02:00 PM",
+    "state": "Gujarat",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SswhxzC6ZTBX94mxltPWyxA%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Construction of Cement Concrete Pavement between Km. 61/800 to Km. 64/300 (Chalala City Portion) of NH-351G in the State of Gujarat.",
+    "tender_value": "21,18,07,000",
+    "product_category": "Civil Works - Bridges",
+    "period_of_work": "365",
+    "location_city": "Chalala",
+    "pincode": "365630"
   }
 ]
