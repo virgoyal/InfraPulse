@@ -10,7 +10,7 @@ A GitHub Actions workflow runs the full pipeline every morning at 7 AM IST and c
 
 ## Why
 
-This data is technically public, but good luck using it. It's buried behind a clunky portal with session timeouts, and titles read like "Strengthening from Km 309.960 to Km 336.700 of NH 52 Mastikatta to Baleguli." InfraPulse makes infrastructure spending transparent at a national scale. Contractors can find relevant opportunities without fighting the portal, journalists and RTI activists can compare spending across states, and there's now a public record of how India's highway budget actually gets deployed.
+This data is technically public, but it's buried behind a clunky portal with session timeouts, and indecipherable titles. InfraPulse makes infrastructure spending transparent at a national scale. MSMEs can find relevant opportunities without fighting the portal, journalists and RTI activists can compare spending across states, and there's now a public record of how India's highway budget actually gets deployed.
 
 ## Architecture
 
