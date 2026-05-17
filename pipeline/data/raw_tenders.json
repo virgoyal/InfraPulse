@@ -985,7 +985,7 @@
     "period_of_work": "730",
     "location_city": "Manakondur / Karimnagar",
     "pincode": "505001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907204_1",
@@ -2513,7 +2513,7 @@
     "organization": "NH Uttarakhand PWD-NH-Section-Dehradun",
     "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Dehradun - MoRTH||NH Uttarakhand PWD-NH-Section-Dehradun - MoRTH",
     "published_date": "04-Apr-2026 09:00 AM",
-    "closing_date": "16-May-2026 05:00 PM",
+    "closing_date": "20-May-2026 04:00 PM",
     "state": "Uttarakhand",
     "value": "2,20,44,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S8n07QOc%2B2Cec%2B6s2A7ZalA%3D%3D",
@@ -3550,7 +3550,7 @@
     "period_of_work": "548",
     "location_city": "Chamba",
     "pincode": "176310",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_896726_1",
