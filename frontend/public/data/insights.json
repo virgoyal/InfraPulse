@@ -183,5 +183,13 @@
     "top_categories": [
       "Maintenance"
     ]
+  },
+  "Jharkhand": {
+    "text": "These tenders reveal a dominant infrastructure focus on road development, specifically the expansion and improvement of National Highways across Jharkhand. A notable pattern is the heavy investment in detailed project report (DPR) consultancies, signaling an active planning phase for numerous projects including 4-laning, new bypasses, and realignments. This data-backed observation highlights regional priorities centered on enhancing connectivity and upgrading the state's arterial road network.",
+    "tender_count": 4,
+    "total_value_crore": 0.0,
+    "top_categories": [
+      "Consultancy"
+    ]
   }
 }
