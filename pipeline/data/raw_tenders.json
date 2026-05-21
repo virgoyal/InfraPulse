@@ -529,7 +529,7 @@
     "period_of_work": "122",
     "location_city": "Gulabghati",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907577_1",
@@ -548,7 +548,7 @@
     "period_of_work": "122",
     "location_city": "Baldiyakhan",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907568_1",
@@ -567,7 +567,7 @@
     "period_of_work": "122",
     "location_city": "ramnagar",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907565_1",
@@ -586,7 +586,7 @@
     "period_of_work": "122",
     "location_city": "Jyolikot",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907542_1",
@@ -624,7 +624,7 @@
     "period_of_work": "122",
     "location_city": "bawali",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907524_1",
@@ -643,7 +643,7 @@
     "period_of_work": "122",
     "location_city": "Kherina",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907535_1",
@@ -662,7 +662,7 @@
     "period_of_work": "122",
     "location_city": "chara",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907533_1",
@@ -681,7 +681,7 @@
     "period_of_work": "122",
     "location_city": "kathgodam",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907485_1",
@@ -700,7 +700,7 @@
     "period_of_work": "122",
     "location_city": "Rathighat",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907518_1",
@@ -719,7 +719,7 @@
     "period_of_work": "122",
     "location_city": "Kherina",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907508_1",
@@ -738,7 +738,7 @@
     "period_of_work": "122",
     "location_city": "Stadium Chilkiya",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907512_1",
@@ -757,7 +757,7 @@
     "period_of_work": "122",
     "location_city": "Garjiya Mata",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907500_1",
@@ -776,7 +776,7 @@
     "period_of_work": "122",
     "location_city": "Stadium Chauraha",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907498_1",
@@ -795,7 +795,7 @@
     "period_of_work": "122",
     "location_city": "Baldiyakhan",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907492_1",
@@ -814,7 +814,7 @@
     "period_of_work": "122",
     "location_city": "Gulabghati",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907489_1",
@@ -833,7 +833,7 @@
     "period_of_work": "122",
     "location_city": "Chhara",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907480_1",
@@ -852,7 +852,7 @@
     "period_of_work": "122",
     "location_city": "Gethiya",
     "pincode": "263139",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907449_1",
@@ -1183,7 +1183,7 @@
     "organization": "NH Division-Nagpur",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Nagpur - MoRTH",
     "published_date": "28-Apr-2026 05:00 PM",
-    "closing_date": "10-Jun-2026 05:00 PM",
+    "closing_date": "26-Jun-2026 05:00 PM",
     "state": "Maharashtra",
     "value": "52,97,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sm7b6zOo%2Ft1j5K7dAhaZHPg%3D%3D",
@@ -1753,7 +1753,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "15-Apr-2026 04:30 PM",
-    "closing_date": "21-May-2026 02:00 PM",
+    "closing_date": "25-May-2026 02:00 PM",
     "state": "Gujarat",
     "value": "59,79,880",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SU2bpss6YCcFS3jmUmvFP0w%3D%3D",
@@ -1886,7 +1886,7 @@
     "organization": "NH Maharashtra PWD-Pen",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Maharashtra PWD-Pen - MoRTH",
     "published_date": "10-Apr-2026 02:00 PM",
-    "closing_date": "25-May-2026 05:30 PM",
+    "closing_date": "29-May-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "15,11,86,116",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S9P4d6lEgWF7rkA5kVXxsqA%3D%3D",
@@ -2152,7 +2152,7 @@
     "organization": "NH Uttar Pradesh PWD-NH-Section-Allahabad",
     "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Uttar Pradesh PWD-NH-Section-Allahabad - MoRTH",
     "published_date": "10-Apr-2026 10:00 AM",
-    "closing_date": "23-May-2026 11:00 AM",
+    "closing_date": "01-Jun-2026 11:00 AM",
     "state": "Uttar Pradesh",
     "value": "5,27,51,103",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=ST49CMKeAoBuHGsQkXXTOGg%3D%3D",
@@ -2190,7 +2190,7 @@
     "organization": "NH Uttar Pradesh PWD-NH-Section-Allahabad",
     "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Uttar Pradesh PWD-NH-Section-Allahabad - MoRTH",
     "published_date": "09-Apr-2026 06:30 PM",
-    "closing_date": "23-May-2026 11:00 AM",
+    "closing_date": "01-Jun-2026 11:00 AM",
     "state": "Uttar Pradesh",
     "value": "10,58,49,048",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SN2Ka3aDQ5w5kmtjEzv0CGg%3D%3D",
@@ -2399,7 +2399,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Apr-2026 06:00 PM",
-    "closing_date": "22-May-2026 02:00 PM",
+    "closing_date": "29-May-2026 02:00 PM",
     "state": "Gujarat",
     "value": "42,95,60,070",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SlTj597iCvZKk6Ef7nKR9gg%3D%3D",
@@ -2448,7 +2448,7 @@
     "period_of_work": "365",
     "location_city": "GONDA",
     "pincode": "271001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_904666_1",
@@ -2467,7 +2467,7 @@
     "period_of_work": "365",
     "location_city": "GONDA",
     "pincode": "271001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_904641_1",
@@ -2513,7 +2513,7 @@
     "organization": "NH Uttarakhand PWD-NH-Section-Dehradun",
     "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Dehradun - MoRTH||NH Uttarakhand PWD-NH-Section-Dehradun - MoRTH",
     "published_date": "04-Apr-2026 09:00 AM",
-    "closing_date": "20-May-2026 04:00 PM",
+    "closing_date": "22-May-2026 04:00 PM",
     "state": "Uttarakhand",
     "value": "2,20,44,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S8n07QOc%2B2Cec%2B6s2A7ZalA%3D%3D",
@@ -2581,7 +2581,7 @@
     "period_of_work": "210",
     "location_city": "Jewar",
     "pincode": "203135",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_904400_1",
@@ -3235,7 +3235,7 @@
     "organization": "NH Uttarakhand PWD-NH-Section-Dehradun",
     "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Dehradun - MoRTH||NH Uttarakhand PWD-NH-Section-Dehradun - MoRTH",
     "published_date": "07-Mar-2026 06:55 PM",
-    "closing_date": "21-May-2026 05:00 PM",
+    "closing_date": "05-Jun-2026 05:00 PM",
     "state": "Uttarakhand",
     "value": "0.00",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SvRrOsToIgCwB9Jx5h%2Fkspg%3D%3D",
@@ -4014,7 +4014,7 @@
     "organization": "RO Mumbai",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH",
     "published_date": "29-Sep-2025 05:00 PM",
-    "closing_date": "21-May-2026 05:00 PM",
+    "closing_date": "28-May-2026 05:00 PM",
     "state": "Maharashtra",
     "value": "7,94,27,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SyPOaTUQzi%2BIaNvD3nE748g%3D%3D",
@@ -4033,7 +4033,7 @@
     "organization": "RO Mumbai",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH",
     "published_date": "29-Sep-2025 05:00 PM",
-    "closing_date": "21-May-2026 05:00 PM",
+    "closing_date": "29-May-2026 05:00 PM",
     "state": "Maharashtra",
     "value": "11,87,21,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SwTSZMTFvxQFaI%2F1greDskg%3D%3D",
@@ -4626,7 +4626,7 @@
     "state": "Karnataka",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S48BsegOHZNQm07OhCsJC9w%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Restoration Work of 220kv DC line work by KPTCL from Km 327 835 to Km 329 335 on B B section",
     "tender_value": "NA",
@@ -5166,5 +5166,157 @@
     "period_of_work": "300",
     "location_city": "Works",
     "pincode": "416502"
+  },
+  {
+    "tender_id": "2026_MoRTH_909548_1",
+    "title": "Construction of Head Wall of distressed HPC at Km 432.25 (Kakawadi Village)  on Vita-Mahisal  section of NH 160 in the State of Maharashtra",
+    "organization": "NH Division-Kolhapur",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Kolhapur - MoRTH",
+    "published_date": "21-May-2026 10:00 AM",
+    "closing_date": "29-May-2026 05:30 PM",
+    "state": "Maharashtra",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SgEMHdi2Iz92LCC4gAWTqhg%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Construction of Head Wall of distressed HPC at Km 432.25 (Kakawadi Village)\r\n on Vita-Mahisal  section of NH 160 in the State of Maharashtra",
+    "tender_value": "14,95,226",
+    "product_category": "Civil Works",
+    "period_of_work": "90",
+    "location_city": "Works",
+    "pincode": "416409"
+  },
+  {
+    "tender_id": "2026_MoRTH_909594_1",
+    "title": "IRQP of NH-234 Old NH-91A Ch. 142.00 to 158.400 District Kannauj in the State of Uttar Pradesh",
+    "organization": "NH Circle Kanpur",
+    "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Circle Kanpur - MoRTH",
+    "published_date": "21-May-2026 09:00 AM",
+    "closing_date": "07-Jul-2026 03:00 PM",
+    "state": "Uttar Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SGy1xvLx1yeUkEobPTSOuZQ%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "IRQP of NH-234 Old NH-91A Ch. 142.00 to 158.400 District Kannauj in the State of Uttar Pradesh",
+    "tender_value": "48,44,00,000",
+    "product_category": "Civil Works",
+    "period_of_work": "300",
+    "location_city": "Kannauj",
+    "pincode": "209725"
+  },
+  {
+    "tender_id": "2026_MoRTH_909569_1",
+    "title": "Resurfacing of Takatuka Budheli Road Km.0/00 to 18/00 (CIRF-2025-26) Taluka Bhiloda District Arvalli",
+    "organization": "R.and B. State Circle No.1 Ahmedabad",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||R.and B. State Circle No.1 Ahmedabad - MoRTH",
+    "published_date": "20-May-2026 06:30 PM",
+    "closing_date": "19-Jun-2026 12:00 PM",
+    "state": "",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SCzdoyoyTp3O6ICLK5wFN2w%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Resurfacing of Takatuka Budheli Road Km.0/00 to 18/00 (CIRF-2025-26) Taluka Bhiloda District Arvalli",
+    "tender_value": "20,41,36,681",
+    "product_category": "Civil Works",
+    "period_of_work": "330",
+    "location_city": "MODASA",
+    "pincode": "383315"
+  },
+  {
+    "tender_id": "2026_MoRTH_909562_1",
+    "title": "Resurfacing of Idar Bhiloda Shamlaji Road Km. 139/300 to 141/800 (CRF Work) Taluka  hiloda District  Arvalli",
+    "organization": "R.and B. State Circle No.1 Ahmedabad",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||R.and B. State Circle No.1 Ahmedabad - MoRTH",
+    "published_date": "20-May-2026 06:30 PM",
+    "closing_date": "11-Jun-2026 12:00 PM",
+    "state": "",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=So6prCJPXzKkHr%2BMGWGuPog%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Resurfacing of Idar Bhiloda Shamlaji Road Km. 139/300 to 141/800 (CRF Work) Taluka  hiloda\r\nDistrict  Arvalli",
+    "tender_value": "2,89,11,271",
+    "product_category": "Civil Works",
+    "period_of_work": "180",
+    "location_city": "MODASA",
+    "pincode": "383315"
+  },
+  {
+    "tender_id": "2026_MoRTH_909577_1",
+    "title": "STMC work of NH 91 Ch. 421.300 to 422.200 Ch. 423.100 to 424.000  Ch. 425.500 to 427.460  Ch. 428.250 to 430.000 and  Ch. 430.500 to 432.200 at district Kanpur Nagar in the State of Uttar Pradesh.",
+    "organization": "NH Circle Kanpur",
+    "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Circle Kanpur - MoRTH",
+    "published_date": "20-May-2026 06:30 PM",
+    "closing_date": "07-Jul-2026 03:00 PM",
+    "state": "Uttar Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SWR%2B0AjA3Di0KY4B61HNp9A%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "STMC work of NH 91 Ch. 421.300 to 422.200 Ch. 423.100 to 424.000  Ch. 425.500 to 427.460  Ch. 428.250 to 430.000 and  Ch. 430.500 to 432.200 at district Kanpur Nagar in the State of Uttar Pradesh.",
+    "tender_value": "5,63,80,365",
+    "product_category": "Civil Works",
+    "period_of_work": "365",
+    "location_city": "Kanpur Nagar",
+    "pincode": "208001"
+  },
+  {
+    "tender_id": "2026_MoRTH_909559_1",
+    "title": "Consultancy Services for DPR Preparation for 2 Lane Paved Shoulder / 4 lane road including junction improvements and bypasses between Baranikkavu (km 0/000) to Mundakkayam (Km 116/800) of entire NH 183 A in the state of Kerala",
+    "organization": "RO Thiruvananthapuram",
+    "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Thiruvananthapuram - MoRTH",
+    "published_date": "20-May-2026 05:30 PM",
+    "closing_date": "03-Jul-2026 05:00 PM",
+    "state": "Kerala",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sh8Rogb11oy%2FqmWd5yrvIxg%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Consultancy Services for DPR Preparation for 2 Lane Paved Shoulder / 4 lane road including junction improvements and bypasses between Baranikkavu (km 0/000) to Mundakkayam (Km 116/800) of entire NH 183 A in the state of Kerala",
+    "tender_value": "6,47,90,000",
+    "product_category": "Civil Works",
+    "period_of_work": "365",
+    "location_city": "Thiruvananthapuram",
+    "pincode": "695033"
+  },
+  {
+    "tender_id": "2026_MoRTH_909494_1",
+    "title": "Providing Gl barbed wire fencing for proposed CA land of 5.2429 Ha at Sy.No.23  Venkatapur v Mahabubnagar Rural M  Mahabubnagar District",
+    "organization": "NH Division-Hyderabad",
+    "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Hyderabad - MoRTH||NH Division-Hyderabad - MoRTH",
+    "published_date": "20-May-2026 03:00 PM",
+    "closing_date": "26-May-2026 03:00 PM",
+    "state": "Telangana",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SLhmAg8Z5DJcQuMF4IVuolg%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Providing Gl barbed wire fencing for proposed CA land of 5.2429 Ha at Sy.No.23  Venkatapur v Mahabubnagar Rural M  Mahabubnagar District",
+    "tender_value": "10,82,109",
+    "product_category": "Civil Works - Others",
+    "period_of_work": "30",
+    "location_city": "Telangana",
+    "pincode": "500082"
+  },
+  {
+    "tender_id": "2026_MoRTH_909381_1",
+    "title": "Widening to 4-lane with Paved Shoulder from Existing Km 19.840 to Existing Km 20.150 (BC road) of Mangalore-Mudigere-Tumkur Section of NH-73 in the State of Karnataka on EPC mode under NH(O) Annual Plan 2025-26 (Job No. NH-73-KNT-2025-26-03)",
+    "organization": "NH Division-Mangalore",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH||NH Division-Mangalore - MoRTH",
+    "published_date": "20-May-2026 12:00 PM",
+    "closing_date": "03-Jul-2026 03:00 PM",
+    "state": "Karnataka",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SQVKO220pF7jC45CcQGGMTw%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Widening to 4-lane with Paved Shoulder from Existing Km 19.840 to Existing Km 20.150 (BC road) of Mangalore-Mudigere-Tumkur Section of NH-73 in the State of Karnataka on EPC mode under NH(O) Annual Plan 2025-26 (Job No. NH-73-KNT-2025-26-03)",
+    "tender_value": "NA",
+    "product_category": "Civil Works - Roads",
+    "period_of_work": "330",
+    "location_city": "NH 73 B C Road Junction",
+    "pincode": "574211"
   }
 ]
