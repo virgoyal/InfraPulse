@@ -5645,5 +5645,26 @@
     "pincode": "574211",
     "category": "Road Expansion",
     "summary": "Widening a section of NH-73 to a 4-lane highway with paved shoulders in Karnataka."
+  },
+  {
+    "tender_id": "2026_MoRTH_909762_1",
+    "title": "Construction of 2-Lane ROB in Lieu of LC No 32 at Railway Km 56/4-5 of Pagidipalli-Nadikudi section and at Road Km 1/0-2 on Narketpally-Munugode Road in Nalgonda District",
+    "organization": "Telangana State R and B",
+    "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Hyderabad - MoRTH||Telangana State R and B - MoRTH",
+    "published_date": "22-May-2026 11:00 AM",
+    "closing_date": "05-Jun-2026 11:00 AM",
+    "state": "Telangana",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S2wuWsuGs5tlCwGMxprPHxw%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Construction of 2-Lane ROB in Lieu of LC No 32 at Railway Km 56/4-5 of Pagidipalli-Nadikudi section and at Road Km 1/0-2 on Narketpally-Munugode Road in Nalgonda District",
+    "tender_value": "39,60,57,310",
+    "product_category": "Civil Works - Bridges",
+    "period_of_work": "730",
+    "location_city": "Telangana",
+    "pincode": "508001",
+    "category": "Bridge",
+    "summary": "Construction of a 2-lane Road Over Bridge replacing LC No 32 on the Narketpally-Munugode Road in Nalgonda District."
   }
 ]

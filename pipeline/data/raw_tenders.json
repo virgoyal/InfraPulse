@@ -1517,7 +1517,7 @@
     "period_of_work": "244",
     "location_city": "NH6 Champhai to Zokhawthar",
     "pincode": "796321",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905833_1",
@@ -2676,7 +2676,7 @@
     "period_of_work": "270",
     "location_city": "Telangana",
     "pincode": "500035",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_904223_1",
@@ -2771,7 +2771,7 @@
     "period_of_work": "365",
     "location_city": "Darwha",
     "pincode": "445202",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_903954_1",
@@ -2790,7 +2790,7 @@
     "period_of_work": "365",
     "location_city": "Darwha",
     "pincode": "445202",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_904019_1",
@@ -3102,7 +3102,7 @@
     "organization": "NH Division-Pune",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Pune - MoRTH",
     "published_date": "12-Mar-2026 05:30 PM",
-    "closing_date": "01-Jun-2026 05:30 PM",
+    "closing_date": "12-Jun-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "59,72,16,913",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SV8daK39hY2CuxaNzSpOYwQ%3D%3D",
@@ -3140,7 +3140,7 @@
     "organization": "NH Division-Gandhidham",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Gandhidham - MoRTH",
     "published_date": "12-Mar-2026 05:00 PM",
-    "closing_date": "21-May-2026 04:00 PM",
+    "closing_date": "11-Jun-2026 04:00 PM",
     "state": "",
     "value": "77,88,30,159",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S0lItQoeDPodCdGAIesTVqA%3D%3D",
@@ -3273,7 +3273,7 @@
     "organization": "National Highway Rajasthan PWD-CHURU",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Jaipur - MoRTH||National Highway Rajasthan PWD-CHURU - MoRTH",
     "published_date": "06-Mar-2026 06:15 PM",
-    "closing_date": "26-May-2026 04:00 PM",
+    "closing_date": "11-Jun-2026 04:00 PM",
     "state": "Rajasthan",
     "value": "1,48,81,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SJF52jN%2BNbzKrxzEcZjdKaQ%3D%3D",
@@ -3520,7 +3520,7 @@
     "organization": "RO Bangalore",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH",
     "published_date": "10-Feb-2026 04:00 PM",
-    "closing_date": "28-May-2026 03:00 PM",
+    "closing_date": "29-Jun-2026 03:00 PM",
     "state": "Karnataka",
     "value": "2,33,79,340",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SjeJpk6UeVMO09zDYv%2F2J%2Bw%3D%3D",
@@ -3615,7 +3615,7 @@
     "organization": "RO Bangalore",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH",
     "published_date": "28-Jan-2026 09:00 AM",
-    "closing_date": "28-May-2026 03:00 PM",
+    "closing_date": "29-Jun-2026 03:00 PM",
     "state": "Karnataka",
     "value": "4,30,68,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SCo%2BJJt6asuVIEKw8b30jMA%3D%3D",
@@ -3634,7 +3634,7 @@
     "organization": "RO Bangalore",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH",
     "published_date": "28-Jan-2026 09:00 AM",
-    "closing_date": "28-May-2026 03:00 PM",
+    "closing_date": "29-Jun-2026 03:00 PM",
     "state": "Karnataka",
     "value": "2,52,53,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SieEeLpFQY5j%2B%2B%2Fb9R9AYJg%3D%3D",
@@ -5006,7 +5006,7 @@
     "state": "Telangana",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SnMrtGqgc55gkZ5daeVPqFA%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Percentage",
     "work_description": "Construction of 2-Lane ROB in Lieu of LC No 32 at Railway Km 56/4-5 of Pagidipalli-Nadikudi section and at Road Km 1/0-2 on Narketpally - Munugode Road in Nalgonda District",
     "tender_value": "41,44,70,794",
@@ -5318,5 +5318,24 @@
     "period_of_work": "330",
     "location_city": "NH 73 B C Road Junction",
     "pincode": "574211"
+  },
+  {
+    "tender_id": "2026_MoRTH_909762_1",
+    "title": "Construction of 2-Lane ROB in Lieu of LC No 32 at Railway Km 56/4-5 of Pagidipalli-Nadikudi section and at Road Km 1/0-2 on Narketpally-Munugode Road in Nalgonda District",
+    "organization": "Telangana State R and B",
+    "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Hyderabad - MoRTH||Telangana State R and B - MoRTH",
+    "published_date": "22-May-2026 11:00 AM",
+    "closing_date": "05-Jun-2026 11:00 AM",
+    "state": "Telangana",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S2wuWsuGs5tlCwGMxprPHxw%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Construction of 2-Lane ROB in Lieu of LC No 32 at Railway Km 56/4-5 of Pagidipalli-Nadikudi section and at Road Km 1/0-2 on Narketpally-Munugode Road in Nalgonda District",
+    "tender_value": "39,60,57,310",
+    "product_category": "Civil Works - Bridges",
+    "period_of_work": "730",
+    "location_city": "Telangana",
+    "pincode": "508001"
   }
 ]
