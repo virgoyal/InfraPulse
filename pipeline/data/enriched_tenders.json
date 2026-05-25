@@ -5855,5 +5855,26 @@
     "pincode": "246174",
     "category": "Maintenance",
     "summary": "Short-term maintenance work on a 49 km section of NH-707 A."
+  },
+  {
+    "tender_id": "2026_MoRTH_910052_1",
+    "title": "Widening and Strengthening of Gurajala to Chollaramaram (via) Manayakunta, Addagudur, Chinnapadishala in Yadadri Bhongir District (Balance work).",
+    "organization": "Telangana State R and B",
+    "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Hyderabad - MoRTH||Telangana State R and B - MoRTH",
+    "published_date": "25-May-2026 10:00 AM",
+    "closing_date": "01-Jun-2026 10:00 AM",
+    "state": "Telangana",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SFA%2F8bls4Ek%2F2uEyZYm6nbA%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Widening and Strengthening of Gurajala to Chollaramaram (via) Manayakunta, Addagudur, Chinnapadishala in Yadadri Bhongir District (Balance work).",
+    "tender_value": "14,92,87,339",
+    "product_category": "Civil Works",
+    "period_of_work": "365",
+    "location_city": "Addaguduru, Bhuvanagiri",
+    "pincode": "508277",
+    "category": "Road Expansion",
+    "summary": "Widening and strengthening existing road network in Yadadri Bhongir District, Telangana (balance work)."
   }
 ]
