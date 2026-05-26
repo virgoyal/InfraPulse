@@ -16,7 +16,7 @@
     "period_of_work": "180",
     "location_city": "NH-07",
     "pincode": "248001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907859_1",
@@ -301,7 +301,7 @@
     "period_of_work": "180",
     "location_city": "Akola",
     "pincode": "444001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_907700_1",
@@ -1479,7 +1479,7 @@
     "period_of_work": "90",
     "location_city": "Chhatrapati Sambhajinagar",
     "pincode": "431005",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905890_1",
@@ -1498,7 +1498,7 @@
     "period_of_work": "90",
     "location_city": "Chhatrapati Sambhajinagar",
     "pincode": "431005",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905924_1",
@@ -1764,7 +1764,7 @@
     "period_of_work": "183",
     "location_city": "jamjodhpur kalawad road",
     "pincode": "360530",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905361_1",
@@ -2182,7 +2182,7 @@
     "period_of_work": "365",
     "location_city": "NH-122A",
     "pincode": "843302",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905044_1",
@@ -2722,7 +2722,7 @@
     "organization": "NH Division-Hyderabad",
     "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Hyderabad - MoRTH||NH Division-Hyderabad - MoRTH",
     "published_date": "31-Mar-2026 06:45 PM",
-    "closing_date": "25-May-2026 03:00 PM",
+    "closing_date": "01-Jun-2026 03:00 PM",
     "state": "Telangana",
     "value": "9,70,63,727",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SJh%2FhGujhH%2F%2FtKnfoZoJXLw%3D%3D",
@@ -2809,7 +2809,7 @@
     "period_of_work": "1440",
     "location_city": "Patur",
     "pincode": "444501",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_903804_1",
@@ -2836,7 +2836,7 @@
     "organization": "NH Uttarakhand PWD-NH-Section-Dehradun",
     "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Dehradun - MoRTH||NH Uttarakhand PWD-NH-Section-Dehradun - MoRTH",
     "published_date": "25-Mar-2026 06:00 PM",
-    "closing_date": "26-May-2026 05:00 PM",
+    "closing_date": "10-Jun-2026 05:00 PM",
     "state": "Uttarakhand",
     "value": "2,31,03,900",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S6q056DaXTfR4ePBgkPLC6A%3D%3D",
@@ -3007,7 +3007,7 @@
     "organization": "RO Chennai",
     "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Chennai - MoRTH",
     "published_date": "16-Mar-2026 09:00 AM",
-    "closing_date": "26-May-2026 03:00 PM",
+    "closing_date": "10-Jun-2026 03:00 PM",
     "state": "Tamil Nadu",
     "value": "5,13,63,580",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SXZtKG9aW3hivep37LqQJpA%3D%3D",
@@ -3026,7 +3026,7 @@
     "organization": "RO Chennai",
     "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Chennai - MoRTH",
     "published_date": "14-Mar-2026 05:00 PM",
-    "closing_date": "26-May-2026 03:00 PM",
+    "closing_date": "10-Jun-2026 03:00 PM",
     "state": "Tamil Nadu",
     "value": "2,52,48,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SuDnFEQk1ho8LDHwkgPXNJA%3D%3D",
@@ -4158,7 +4158,7 @@
     "period_of_work": "335",
     "location_city": "Chhatrapati Sambhajinagar",
     "pincode": "431005",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2025_MoRTH_871262_1",
@@ -5527,5 +5527,43 @@
     "period_of_work": "365",
     "location_city": "Addaguduru, Bhuvanagiri",
     "pincode": "508277"
+  },
+  {
+    "tender_id": "2026_MoRTH_910136_1",
+    "title": "Reconstruction of Bridges Major Bridge at Takera at Ch 184.200 and four Minor Bridge at Ch189.400, 190.600,191.400 and 193.200 on NH-57 in the state of Odisha on EPC mode",
+    "organization": "NH Odisha PWD-Kesinga",
+    "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH||RO Bhubaneswar - MoRTH||NH Odisha PWD-Kesinga - MoRTH",
+    "published_date": "25-May-2026 06:55 PM",
+    "closing_date": "08-Jul-2026 12:00 PM",
+    "state": "Odisha",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SgqUbMXSU%2BR058YmYWXIlKA%3D%3D",
+    "status": "active",
+    "contract_type": "EPC Contract",
+    "work_description": "Reconstruction of Bridges Major Bridge at Takera at Ch 184.200 and four Minor Bridge at Ch189.400, 190.600,191.400 and 193.200 on NH-57 in the state of Odisha on EPC mode",
+    "tender_value": "54,56,00,000",
+    "product_category": "Civil Works - Bridges",
+    "period_of_work": "365",
+    "location_city": "Nayagarh",
+    "pincode": "751001"
+  },
+  {
+    "tender_id": "2026_MoRTH_910164_1",
+    "title": "Consultancy Services for feasibility study and preparation of (DPR) Upgradation and development of Mirzapur Bhadohi section of NH 135A to 4/6 lane in the State of Uttar Pradesh.",
+    "organization": "RO Lucknow",
+    "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH",
+    "published_date": "25-May-2026 06:00 PM",
+    "closing_date": "09-Jul-2026 11:00 AM",
+    "state": "Uttar Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SfgM04FKOcy5gU68nWJqerQ%3D%3D",
+    "status": "active",
+    "contract_type": "Lump-sum",
+    "work_description": "Consultancy Services for feasibility study and preparation of (DPR) Upgradation and development of Mirzapur Bhadohi section of NH 135A to 4/6 lane in the State of Uttar Pradesh.",
+    "tender_value": "NA",
+    "product_category": "Consultancy",
+    "period_of_work": "150",
+    "location_city": "MIRZAPUR-BHADOHI",
+    "pincode": "231001"
   }
 ]
