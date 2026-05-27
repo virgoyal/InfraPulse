@@ -470,5 +470,17 @@
     20.23937,
     85.05073
   ],
-  "MIRZAPUR-BHADOHI||Uttar Pradesh": null
+  "MIRZAPUR-BHADOHI||Uttar Pradesh": null,
+  "Rampur||Himachal Pradesh": [
+    31.50914,
+    77.77097
+  ],
+  "Bhavnagar||Gujarat": [
+    21.77188,
+    72.14164
+  ],
+  "Farrukhabad||Uttar Pradesh": [
+    27.4362,
+    79.48948
+  ]
 }
