@@ -40,6 +40,10 @@ from utils.rate_limiter import GeminiRateLimiter, QuotaExhausted
 # At most this many rate-limit backoffs per tender before giving up on it.
 MAX_RATE_LIMIT_WAITS = 2
 
+# The fields this step derives. Everything else on a tender belongs to the
+# scraper and is re-read from raw_tenders.json on every run.
+AI_FIELDS = ("category", "summary", "state", "enrichment_source")
+
 INPUT = DATA_DIR / "raw_tenders.json"
 OUTPUT = DATA_DIR / "enriched_tenders.json"
 
@@ -263,6 +267,27 @@ def main():
             enriched_map: dict[str, dict] = {t["tender_id"]: t for t in json.load(f)}
     else:
         enriched_map = {}
+
+    # Refresh listing fields on tenders that are already enriched.
+    #
+    # 01_scrape updates status/dates in raw_tenders.json, but a previously
+    # enriched tender used to be carried forward from this file verbatim — so
+    # those updates never reached the frontend and every archived tender still
+    # looked active downstream. raw_tenders.json is the source of truth for
+    # everything except the AI-derived fields, which are what we carry over.
+    refreshed = 0
+    for t in tenders:
+        prev = enriched_map.get(t["tender_id"])
+        if prev is None:
+            continue
+        carried = {k: prev[k] for k in AI_FIELDS if k in prev}
+        merged = {**t, **carried}
+        if merged != prev:
+            refreshed += 1
+        enriched_map[t["tender_id"]] = merged
+    if refreshed:
+        print(f"Refreshed listing fields on {refreshed} already-enriched tender(s).",
+              flush=True)
 
     # Never enriched — these come first.
     pending = [t for t in tenders
