@@ -13,7 +13,16 @@ PAGE_SIZE = 20
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.5-flash"
+# Bulk enrichment is a trivial classify-and-summarise task, so it runs on the
+# cheaper model — flash-lite has a noticeably larger free-tier daily allowance,
+# which is what the ~200-call enrichment pass actually needs.
+GEMINI_ENRICH_MODEL = os.environ.get("GEMINI_ENRICH_MODEL", "gemini-2.5-flash-lite")
 GEMINI_RPM_LIMIT = 10  # Gemini 2.5 Flash free tier: 10 RPM
+
+# Hard ceiling on Gemini calls per run, so one run can never drain the whole
+# free-tier daily quota. Leftover tenders are picked up by the next day's run.
+GEMINI_ENRICH_BUDGET = int(os.environ.get("GEMINI_ENRICH_BUDGET", "200"))
+GEMINI_INSIGHTS_BUDGET = int(os.environ.get("GEMINI_INSIGHTS_BUDGET", "30"))
 
 CATEGORIES = [
     "Bridge",

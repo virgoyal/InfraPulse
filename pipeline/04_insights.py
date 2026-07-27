@@ -14,13 +14,19 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-from google import genai
 from tqdm import tqdm
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from config import DATA_DIR, GEMINI_API_KEY, GEMINI_MODEL, GEMINI_RPM_LIMIT
-from utils.rate_limiter import GeminiRateLimiter
+from config import (
+    DATA_DIR,
+    GEMINI_API_KEY,
+    GEMINI_INSIGHTS_BUDGET,
+    GEMINI_MODEL,
+    GEMINI_RPM_LIMIT,
+)
+from utils import gemini
+from utils.rate_limiter import GeminiRateLimiter, QuotaExhausted
 
 INPUT = DATA_DIR / "geolocated_tenders.json"
 OUTPUT = DATA_DIR / "insights.json"
@@ -76,12 +82,20 @@ def generate_insight(state: str, tenders: list[dict], client, limiter: GeminiRat
                 "total_value_crore": round(sum(parse_value_crore(t.get("value", "")) for t in tenders), 2),
                 "top_categories": _top_categories(tenders),
             }
+        except QuotaExhausted:
+            raise
         except Exception as exc:
-            print(f"\n  Gemini error for {state} ({type(exc).__name__}): {exc}")
+            fatal = gemini.classify(exc)
+            if fatal is not None:
+                raise fatal from exc
+
+            print(f"\n  Gemini error for {state} ({type(exc).__name__}): {exc}", flush=True)
             if attempt == 2:
                 break
             import time
-            time.sleep(2 ** attempt)
+            # A per-minute 429 needs a real backoff, not 1-2 seconds.
+            time.sleep(gemini.retry_delay_seconds(str(exc)) if gemini.is_rate_limit(str(exc))
+                       else 2 ** attempt)
 
     return {
         "text": f"{state} has {len(tenders)} active infrastructure tenders from MoRTH.",
@@ -104,8 +118,8 @@ def main():
         print("ERROR: GEMINI_API_KEY environment variable not set.")
         sys.exit(1)
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
-    limiter = GeminiRateLimiter(rpm=GEMINI_RPM_LIMIT)
+    client = gemini.make_client(GEMINI_API_KEY)
+    limiter = GeminiRateLimiter(rpm=GEMINI_RPM_LIMIT, budget=GEMINI_INSIGHTS_BUDGET)
 
     with open(INPUT) as f:
         tenders = json.load(f)
@@ -129,12 +143,18 @@ def main():
     for state, state_tenders in tqdm(eligible.items(), desc="Insights"):
         if state in insights:
             continue  # already generated
-        insights[state] = generate_insight(state, state_tenders, client, limiter)
+        try:
+            insights[state] = generate_insight(state, state_tenders, client, limiter)
+        except QuotaExhausted as exc:
+            # Keep whatever we already have; the rest is picked up next run.
+            print(f"\nStopping Gemini calls: {exc}", flush=True)
+            break
 
     with open(OUTPUT, "w") as f:
         json.dump(insights, f, indent=2, ensure_ascii=False)
 
-    print(f"\nInsights generated for {len(insights)} states → {OUTPUT}")
+    print(f"\nGemini calls used: {limiter.calls_made}", flush=True)
+    print(f"Insights generated for {len(insights)} states → {OUTPUT}", flush=True)
 
 
 if __name__ == "__main__":

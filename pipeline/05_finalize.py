@@ -28,6 +28,12 @@ INSIGHTS_INPUT = DATA_DIR / "insights.json"
 
 REQUIRED_FIELDS = ["tender_id", "title", "state", "coordinates", "category", "summary"]
 
+# Sanity bounds. The archive grows indefinitely by design, so MAX_TOTAL_TENDERS is
+# a "something is badly wrong" tripwire, not a real expectation.
+MIN_TOTAL_TENDERS = 100
+MAX_TOTAL_TENDERS = 5000
+MIN_ACTIVE_TENDERS = 10
+
 # Approximate India bounding box
 LAT_MIN, LAT_MAX = 6.0, 37.5
 LNG_MIN, LNG_MAX = 68.0, 97.5
@@ -57,20 +63,37 @@ def main():
     valid: list[dict] = []
     rejected = 0
 
+    MAX_SKIP_LINES = 25
     for t in tenders:
         errors = validate_tender(t)
         if errors:
-            print(f"  SKIP {t.get('tender_id', '?')}: {', '.join(errors)}")
+            if rejected < MAX_SKIP_LINES:
+                print(f"  SKIP {t.get('tender_id', '?')}: {', '.join(errors)}")
+            elif rejected == MAX_SKIP_LINES:
+                print("  … further skips suppressed")
             rejected += 1
         else:
             valid.append(t)
 
-    print(f"\nValid: {len(valid)}  |  Rejected: {rejected}")
+    active = [t for t in valid if t.get("status") != "archived"]
+    print(f"\nValid: {len(valid)}  |  Rejected: {rejected}  |  Active: {len(active)}")
 
-    # Assertions
-    assert 100 <= len(valid) <= 300, (
-        f"Expected 100–300 valid tenders, got {len(valid)}. "
+    # Assertions.
+    #
+    # The dataset grows over time: tenders that drop off the eProcure listing are
+    # kept as "archived" so the frontend can still show them behind the "show
+    # closed" filter. So the total has no meaningful upper bound — only sanity
+    # bounds on the total floor and on how much of it is currently live.
+    assert len(valid) >= MIN_TOTAL_TENDERS, (
+        f"Expected at least {MIN_TOTAL_TENDERS} valid tenders, got {len(valid)}. "
         "Run more scrape/enrich steps first."
+    )
+    assert len(valid) <= MAX_TOTAL_TENDERS, (
+        f"Got {len(valid)} valid tenders, above the {MAX_TOTAL_TENDERS} sanity cap — "
+        "archived tenders are probably never being pruned."
+    )
+    assert len(active) >= MIN_ACTIVE_TENDERS, (
+        f"Only {len(active)} active tenders — the scrape probably returned a bad page."
     )
 
     distinct_states = {t["state"] for t in valid}

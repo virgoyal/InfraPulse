@@ -8,18 +8,29 @@ on:
 permissions:
   contents: write
 
+# Never let a slow run overlap the next day's run.
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: false
+
 jobs:
   update-tenders:
     runs-on: ubuntu-latest
+    # Hard ceiling. Without this a stalled network call sits until GitHub's
+    # 6-hour job limit kills it, which is what used to happen every night.
+    timeout-minutes: 45
+
+    env:
+      PYTHONUNBUFFERED: "1"   # otherwise diagnostics are lost when a step is killed
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
@@ -28,19 +39,44 @@ jobs:
       - name: Install dependencies
         run: pip install -r pipeline/requirements.txt
 
-      - name: Run pipeline
+      - name: Scrape listings
+        timeout-minutes: 10
+        working-directory: pipeline
+        run: python 01_scrape.py
+
+      - name: Scrape detail pages
+        timeout-minutes: 15
+        working-directory: pipeline
+        run: python 01b_scrape_details.py
+
+      - name: Enrich (Gemini)
+        timeout-minutes: 25
+        working-directory: pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          cd pipeline
-          python 01_scrape.py
-          python 01b_scrape_details.py
-          python 02_enrich.py
-          python 03_geocode.py
-          python 04_insights.py
-          python 05_finalize.py
+        run: python 02_enrich.py
 
+      - name: Geocode
+        timeout-minutes: 15
+        working-directory: pipeline
+        run: python 03_geocode.py
+
+      - name: Generate insights (Gemini)
+        timeout-minutes: 10
+        working-directory: pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python 04_insights.py
+
+      - name: Finalize
+        timeout-minutes: 5
+        working-directory: pipeline
+        run: python 05_finalize.py
+
+      # Runs even if a step above failed, so partial progress (e.g. tenders
+      # enriched before the quota ran out) is never thrown away.
       - name: Commit and push updated data
+        if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
