@@ -264,10 +264,23 @@ def main():
     else:
         enriched_map = {}
 
-    to_enrich = [t for t in tenders if t["tender_id"] not in enriched_map or "category" not in enriched_map[t["tender_id"]]]
+    # Never enriched — these come first.
+    pending = [t for t in tenders
+               if t["tender_id"] not in enriched_map
+               or "category" not in enriched_map[t["tender_id"]]]
+
+    # Enriched by the local keyword rules because Gemini was unavailable at the
+    # time. They are already on the site and usable, just lower quality, so they
+    # get whatever quota is left over after the genuinely new tenders.
+    upgradable = [t for t in tenders
+                  if t["tender_id"] in enriched_map
+                  and enriched_map[t["tender_id"]].get("enrichment_source") == "rules"]
+
+    to_enrich = pending + upgradable
     batches = [to_enrich[i:i + GEMINI_BATCH_SIZE]
                for i in range(0, len(to_enrich), GEMINI_BATCH_SIZE)]
-    print(f"Total tenders: {len(tenders)}  |  To enrich: {len(to_enrich)}  "
+    print(f"Total tenders: {len(tenders)}  |  New: {len(pending)}  "
+          f"|  Rules-labelled to upgrade: {len(upgradable)}  "
           f"|  Batches of {GEMINI_BATCH_SIZE}: {len(batches)}  "
           f"|  Call budget: {GEMINI_ENRICH_BUDGET}", flush=True)
 
