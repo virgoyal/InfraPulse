@@ -28,6 +28,24 @@ _DAILY_QUOTA_MARKERS = (
 )
 
 
+def json_config(max_output_tokens: int = 8192):
+    """Config forcing a raw-JSON response with no thinking budget.
+
+    Thinking tokens add nothing to a bulk classification task and only make the
+    free-tier quota run out faster. Returns None on SDKs that lack these knobs.
+    """
+    try:
+        from google.genai import types
+
+        return types.GenerateContentConfig(
+            response_mime_type="application/json",
+            max_output_tokens=max_output_tokens,
+            thinking_config=types.ThinkingConfig(thinking_budget=0),
+        )
+    except Exception:  # pragma: no cover - depends on installed SDK
+        return None
+
+
 def make_client(api_key: str):
     """Build a genai client with a hard request timeout.
 
@@ -81,5 +99,7 @@ def classify(exc: Exception) -> Exception | None:
             retry_tomorrow=False,
         )
     if is_rate_limit(msg) and is_daily_quota(msg):
-        return QuotaExhausted(f"Gemini daily quota exhausted: {msg[:200]}")
+        # Keep plenty of the payload: the quota metric and limit value in the
+        # error details are the only way to tell which ceiling was hit.
+        return QuotaExhausted(f"Gemini daily quota exhausted: {msg[:1200]}")
     return None

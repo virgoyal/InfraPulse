@@ -29,6 +29,7 @@ from config import (
     CATEGORIES,
     DATA_DIR,
     GEMINI_API_KEY,
+    GEMINI_BATCH_SIZE,
     GEMINI_ENRICH_BUDGET,
     GEMINI_ENRICH_MODEL,
     GEMINI_RPM_LIMIT,
@@ -45,39 +46,62 @@ OUTPUT = DATA_DIR / "enriched_tenders.json"
 ENRICH_PROMPT = """\
 You are analysing Indian government road/infrastructure procurement tenders.
 
-Given the information below, respond with a single JSON object (no markdown, no extra text) containing exactly these three fields:
+For EACH numbered tender below, produce one JSON object with exactly these fields:
 
+"index": the tender's number, copied exactly
 "category": one of [{categories}]
 "summary": one sentence (max 20 words) describing what this project does
 "state": the Indian state or UT where this project is located (use "Unknown" if genuinely unclear)
 
-Tender title: {title}
+Respond with a JSON array of exactly {count} objects, in the same order.
+No markdown, no commentary.
+
+{tenders}
+""".strip()
+
+TENDER_BLOCK = """\
+--- TENDER {index} ---
+Title: {title}
 Work description: {work_description}
 Product category (from site): {product_category}
 Organisation chain: {org_chain}
-Location: {location_city}
-""".strip()
+Location: {location_city}"""
 
 
-def build_prompt(tender: dict) -> str:
+def build_prompt(batch: list[dict]) -> str:
+    blocks = [
+        TENDER_BLOCK.format(
+            index=i,
+            title=t.get("title", ""),
+            work_description=t.get("work_description", t.get("title", "")),
+            product_category=t.get("product_category", ""),
+            org_chain=t.get("org_chain", t.get("organization", "")),
+            location_city=t.get("location_city", ""),
+        )
+        for i, t in enumerate(batch)
+    ]
     return ENRICH_PROMPT.format(
         categories=", ".join(CATEGORIES),
-        title=tender.get("title", ""),
-        work_description=tender.get("work_description", tender.get("title", "")),
-        product_category=tender.get("product_category", ""),
-        org_chain=tender.get("org_chain", tender.get("organization", "")),
-        location_city=tender.get("location_city", ""),
+        count=len(batch),
+        tenders="\n\n".join(blocks),
     )
 
 
-def parse_response(text: str) -> dict:
-    """Extract the JSON object from the model response."""
+def parse_response(text: str) -> list[dict]:
+    """Extract the JSON array from the model response."""
     text = text.strip()
     # Strip markdown code fences if present
     if text.startswith("```"):
         lines = text.splitlines()
         text = "\n".join(lines[1:-1] if lines[-1].strip() == "```" else lines[1:])
-    return json.loads(text)
+    parsed = json.loads(text)
+    if isinstance(parsed, dict):
+        # Tolerate a single object, or an array wrapped in a key.
+        for value in parsed.values():
+            if isinstance(value, list):
+                return value
+        return [parsed]
+    return parsed
 
 
 # Keyword rules used when Gemini can't be reached at all. Order matters —
@@ -131,28 +155,63 @@ def fallback_enrichment(tender: dict) -> dict:
     }
 
 
-def enrich_tender(tender: dict, client, limiter: GeminiRateLimiter) -> dict:
-    """Enrich one tender.
+def _merge(tender: dict, item: dict) -> dict:
+    """Apply one model result to one tender, validating the category."""
+    category = item.get("category")
+    if category not in CATEGORIES:
+        category = fallback_enrichment(tender)["category"]
 
-    Raises QuotaExhausted if the daily quota is gone — the caller must stop
-    the whole pass rather than retrying per tender.
+    summary = str(item.get("summary") or "").strip()
+    state = str(item.get("state") or "").strip()
+    local = fallback_enrichment(tender)
+
+    return {
+        **tender,
+        "category": category,
+        "summary": summary or local["summary"],
+        # Trust the scraper's state over a model "Unknown".
+        "state": tender.get("state") or (state if state and state != "Unknown" else local["state"]),
+        "enrichment_source": "gemini",
+    }
+
+
+def enrich_batch(batch: list[dict], client, limiter: GeminiRateLimiter) -> list[dict]:
+    """Enrich a batch of tenders in a single Gemini call.
+
+    Always returns one result per input tender, in order — any tender the model
+    skipped or mangled gets the local rule-based enrichment instead.
+
+    Raises QuotaExhausted if the daily quota is gone; the caller must stop the
+    whole pass rather than retrying.
     """
-    prompt = build_prompt(tender)
+    prompt = build_prompt(batch)
+    config = gemini.json_config()
     rate_limit_waits = 0
 
     for attempt in range(3):
         try:
             limiter.wait()
             response = client.models.generate_content(
-                model=GEMINI_ENRICH_MODEL, contents=prompt
+                model=GEMINI_ENRICH_MODEL, contents=prompt, config=config
             )
-            enrichment = parse_response(response.text)
+            items = parse_response(response.text)
 
-            # Validate category
-            if enrichment.get("category") not in CATEGORIES:
-                enrichment["category"] = fallback_enrichment(tender)["category"]
+            # Match on the echoed index, falling back to positional order.
+            by_index: dict[int, dict] = {}
+            for pos, item in enumerate(items):
+                if not isinstance(item, dict):
+                    continue
+                try:
+                    idx = int(item.get("index", pos))
+                except (TypeError, ValueError):
+                    idx = pos
+                by_index.setdefault(idx, item)
 
-            return {**tender, **enrichment, "enrichment_source": "gemini"}
+            results = []
+            for i, tender in enumerate(batch):
+                item = by_index.get(i)
+                results.append(_merge(tender, item) if item else fallback_enrichment(tender))
+            return results
         except json.JSONDecodeError:
             if attempt == 2:
                 break
@@ -184,7 +243,8 @@ def enrich_tender(tender: dict, client, limiter: GeminiRateLimiter) -> dict:
                 break
             time.sleep(2 ** attempt)
 
-    return fallback_enrichment(tender)
+    return [fallback_enrichment(t) for t in batch]
+
 
 def main():
     if not GEMINI_API_KEY:
@@ -205,15 +265,18 @@ def main():
         enriched_map = {}
 
     to_enrich = [t for t in tenders if t["tender_id"] not in enriched_map or "category" not in enriched_map[t["tender_id"]]]
+    batches = [to_enrich[i:i + GEMINI_BATCH_SIZE]
+               for i in range(0, len(to_enrich), GEMINI_BATCH_SIZE)]
     print(f"Total tenders: {len(tenders)}  |  To enrich: {len(to_enrich)}  "
+          f"|  Batches of {GEMINI_BATCH_SIZE}: {len(batches)}  "
           f"|  Call budget: {GEMINI_ENRICH_BUDGET}", flush=True)
 
     deferred = 0
-    for i, tender in enumerate(tqdm(to_enrich, desc="Enriching")):
+    for b, batch in enumerate(tqdm(batches, desc="Enriching")):
         try:
-            enriched = enrich_tender(tender, client, limiter)
+            results = enrich_batch(batch, client, limiter)
         except QuotaExhausted as exc:
-            remaining = to_enrich[i:]
+            remaining = [t for later in batches[b:] for t in later]
             print(f"\nStopping Gemini calls: {exc}", flush=True)
 
             if exc.retry_tomorrow:
@@ -230,7 +293,8 @@ def main():
                 for t in remaining:
                     enriched_map[t["tender_id"]] = fallback_enrichment(t)
             break
-        enriched_map[enriched["tender_id"]] = enriched
+        for enriched in results:
+            enriched_map[enriched["tender_id"]] = enriched
 
     result = list(enriched_map.values())
     with open(OUTPUT, "w") as f:

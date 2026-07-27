@@ -22,6 +22,9 @@ GEMINI_RPM_LIMIT = 10  # Gemini 2.5 Flash free tier: 10 RPM
 # Hard ceiling on Gemini calls per run, so one run can never drain the whole
 # free-tier daily quota. Leftover tenders are picked up by the next day's run.
 GEMINI_ENRICH_BUDGET = int(os.environ.get("GEMINI_ENRICH_BUDGET", "200"))
+# Tenders classified per Gemini call. Batching is what keeps enrichment inside
+# the free tier: ~200 pending tenders costs ~10 calls instead of ~200.
+GEMINI_BATCH_SIZE = int(os.environ.get("GEMINI_BATCH_SIZE", "20"))
 GEMINI_INSIGHTS_BUDGET = int(os.environ.get("GEMINI_INSIGHTS_BUDGET", "30"))
 
 CATEGORIES = [
