@@ -17,7 +17,10 @@ GEMINI_MODEL = "gemini-2.5-flash"
 # cheaper model — flash-lite has a noticeably larger free-tier daily allowance,
 # which is what the ~200-call enrichment pass actually needs.
 GEMINI_ENRICH_MODEL = os.environ.get("GEMINI_ENRICH_MODEL", "gemini-2.5-flash-lite")
-GEMINI_RPM_LIMIT = 10  # Gemini 2.5 Flash free tier: 10 RPM
+# Free tier is 5 requests/minute per model (observed quotaId
+# GenerateRequestsPerMinutePerProjectPerModel-FreeTier, value 5). Pacing to that
+# avoids the 429s entirely; at ~11 calls a day the extra wall time is trivial.
+GEMINI_RPM_LIMIT = int(os.environ.get("GEMINI_RPM_LIMIT", "5"))
 
 # Hard ceiling on Gemini calls per run, so one run can never drain the whole
 # free-tier daily quota. Leftover tenders are picked up by the next day's run.

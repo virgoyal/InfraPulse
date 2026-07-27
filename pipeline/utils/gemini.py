@@ -6,6 +6,7 @@ sit for 6 hours before the runner killed it.
 """
 from __future__ import annotations
 
+import math
 import re
 
 from google import genai
@@ -14,18 +15,13 @@ from utils.rate_limiter import QuotaExhausted
 
 REQUEST_TIMEOUT_MS = 60_000
 
-# A 429 that names a *daily* limit will not clear until midnight Pacific —
-# retrying within the same run is pointless.
-_DAILY_QUOTA_MARKERS = (
-    "perday",
-    "per_day",
-    "per day",
-    "requests_per_day",
-    "generaterequestsperdayperproject",
-    "quota_exceeded",
-    "free_tier",
-    "billing",
-)
+# A 429 carries a quotaId naming which ceiling was hit, e.g.
+#   GenerateRequestsPerDayPerProjectPerModel-FreeTier     (until midnight Pacific)
+#   GenerateRequestsPerMinutePerProjectPerModel-FreeTier  (clears in seconds)
+# Only the first is worth abandoning the run over. Matching on softer markers
+# like "free_tier" is wrong — they appear in both.
+_DAILY_MARKERS = ("perday", "requestsperday")
+_PER_MINUTE_MARKERS = ("perminute", "requestsperminute")
 
 
 def json_config(max_output_tokens: int = 8192):
@@ -68,9 +64,18 @@ def is_rate_limit(msg: str) -> bool:
 
 
 def is_daily_quota(msg: str) -> bool:
-    """True when the error looks like an exhausted daily/free-tier quota."""
-    lowered = msg.lower().replace("-", "").replace(" ", "")
-    return any(marker.replace(" ", "") in lowered for marker in _DAILY_QUOTA_MARKERS)
+    """True only for an exhausted *daily* quota.
+
+    Anything unrecognised is treated as per-minute throttling, i.e. worth
+    retrying — callers bound their retries, so guessing wrong here costs a
+    short backoff rather than a stalled run.
+    """
+    lowered = msg.lower().replace("-", "").replace("_", "").replace(" ", "")
+    if any(m in lowered for m in _DAILY_MARKERS):
+        return True
+    if any(m in lowered for m in _PER_MINUTE_MARKERS):
+        return False
+    return False
 
 
 def is_auth_error(msg: str) -> bool:
@@ -84,9 +89,13 @@ def is_auth_error(msg: str) -> bool:
 
 
 def retry_delay_seconds(msg: str, default: int = 30, cap: int = 65) -> int:
-    """Parse the server-suggested retry delay from a 429, clamped to `cap`."""
-    match = re.search(r"retry.*?(\d+)\s*s", msg, re.I)
-    delay = int(match.group(1)) + 2 if match else default
+    """Parse the server-suggested retry delay from a 429, clamped to `cap`.
+
+    The delay may be fractional ("Please retry in 30.2s"), so the whole number
+    has to be captured — matching bare digits picks up the ".2" and waits 2s.
+    """
+    match = re.search(r"retry[^0-9]*(\d+(?:\.\d+)?)\s*s", msg, re.I)
+    delay = math.ceil(float(match.group(1))) + 2 if match else default
     return min(delay, cap)
 
 
