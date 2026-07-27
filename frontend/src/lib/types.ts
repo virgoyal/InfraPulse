@@ -35,6 +35,8 @@ export interface StateInsight {
   tender_count: number;
   total_value_crore: number;
   top_categories: string[];
+  source_hash?: string; // digest of the tender IDs the text was written from
+  generated_at?: string; // YYYY-MM-DD the text was last regenerated
 }
 
 export type InsightsData = Record<string, StateInsight>;

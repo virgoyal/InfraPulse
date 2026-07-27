@@ -25,7 +25,11 @@ GEMINI_ENRICH_BUDGET = int(os.environ.get("GEMINI_ENRICH_BUDGET", "200"))
 # Tenders classified per Gemini call. Batching is what keeps enrichment inside
 # the free tier: ~200 pending tenders costs ~10 calls instead of ~200.
 GEMINI_BATCH_SIZE = int(os.environ.get("GEMINI_BATCH_SIZE", "20"))
-GEMINI_INSIGHTS_BUDGET = int(os.environ.get("GEMINI_INSIGHTS_BUDGET", "30"))
+GEMINI_INSIGHTS_BUDGET = int(os.environ.get("GEMINI_INSIGHTS_BUDGET", "18"))
+# Insights are rewritten only for states whose tender set changed. This caps how
+# many of those a single run will do, so a mass re-archive can't drain the day's
+# quota — the rest carry over to the next run.
+INSIGHTS_REFRESH_PER_RUN = int(os.environ.get("INSIGHTS_REFRESH_PER_RUN", "8"))
 
 CATEGORIES = [
     "Bridge",
