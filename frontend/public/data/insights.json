@@ -108,16 +108,16 @@
     "generated_at": "2026-07-27"
   },
   "Gujarat": {
-    "text": "The dominant infrastructure focus in Gujarat is the extensive upgrading, maintenance, and construction of national highways, with a significant emphasis on increasing road capacity to two, four, and six lanes with paved shoulders for improved safety and efficiency. This robust investment prioritizes the modernization of the state's arterial road network across multiple National Highway corridors like NH-151K, NH-351G, and NH-927D, rather than concentrating solely on specific regions, while also including targeted projects like the Bhavnagar-Bharuch high-speed corridor and numerous bridge rehabilitations.",
-    "tender_count": 37,
-    "total_value_crore": 252535.36,
+    "text": "Gujarat's infrastructure focus is predominantly dual, with a significant majority of tenders dedicated to short-term maintenance and repair of existing National Highways and bridges across the state. This notable pattern of numerous routine upkeep projects is complemented by strategic investments in upgrading and widening key corridors to two or four lanes, alongside consultancy for new high-speed expressways. This indicates a regional priority on both sustaining the vast existing road network and strategically enhancing connectivity and capacity for future economic growth.",
+    "tender_count": 25,
+    "total_value_crore": 191422.0,
     "top_categories": [
       "Maintenance",
       "Road Expansion",
-      "Bridge"
+      "Consultancy"
     ],
-    "source_hash": "d295ff4183cd07b2",
-    "generated_at": "2026-07-27"
+    "source_hash": "f991d53a2497ddea",
+    "generated_at": "2026-07-28"
   },
   "Rajasthan": {
     "text": "The dominant infrastructure focus in these tenders is clearly on the expansion and upgrading of National Highways, with a majority of projects aimed at widening existing roads, predominantly to four lanes, and improving connectivity. A notable pattern is the heavy investment in enhancing road capacity and ensuring the upkeep and safety of key transportation corridors through direct upgrades, maintenance contracts, and specialized consultancy services. This indicates Rajasthan's regional priority towards modernizing its inter-city road network and integrating smart highway solutions.",
