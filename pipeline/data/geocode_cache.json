@@ -798,5 +798,13 @@
   "Sharavathi Backwaters||Karnataka": null,
   "New Delhi||Tamil Nadu": null,
   "Bhagalpur  to Kharhara||Bihar": null,
-  "Chikkodi Gotur section||Karnataka": null
+  "Chikkodi Gotur section||Karnataka": null,
+  "Chitradurga||Karnataka": [
+    14.30492,
+    76.52967
+  ],
+  "Yemmiganur||Andhra Pradesh": [
+    15.7681,
+    77.4819
+  ]
 }
