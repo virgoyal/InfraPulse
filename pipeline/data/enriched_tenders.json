@@ -11713,5 +11713,27 @@
     "category": "Safety",
     "summary": "Providing Short Term measures (RSI) (Illumination) for Rectification of Blackspot locations at AP-(06)-249 (Chilakaladona village),…",
     "enrichment_source": "rules"
+  },
+  {
+    "tender_id": "2026_MoRTH_920234_1",
+    "title": "Strengthening and Repairs to N.H. Division site office building at Ratnagiri, Tal.Dist Ratnagir2nd  call",
+    "organization": "NH Division-Ratnagiri",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Ratnagiri - MoRTH",
+    "published_date": "03-Aug-2026 10:00 AM",
+    "closing_date": "11-Aug-2026 05:30 PM",
+    "state": "Maharashtra",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S5VeWO0HbkiNPMLlk8tOlBw%3D%3D",
+    "status": "active",
+    "contract_type": "Works",
+    "work_description": "Strengthening and Repairs to N.H. Division site office building at Ratnagiri, Tal.Dist Ratnagir2nd  call",
+    "tender_value": "27,26,077",
+    "product_category": "Civil Works",
+    "period_of_work": "180",
+    "location_city": "ratnagiri",
+    "pincode": "415612",
+    "category": "Maintenance",
+    "summary": "Strengthening and Repairs to N.H. Division site office building at Ratnagiri, Tal.Dist Ratnagir2nd  call",
+    "enrichment_source": "rules"
   }
 ]

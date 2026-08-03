@@ -48,16 +48,16 @@
     "generated_at": "2026-07-30"
   },
   "Maharashtra": {
-    "text": "The dominant infrastructure focus in Maharashtra is on the comprehensive development and maintenance of its National Highway network. A notable pattern is the heavy investment in upgrading existing highways to multi-lane configurations, primarily 2-lane with paved shoulders or 4-lane, alongside the construction of crucial structures like Road Over Bridges and bypasses to enhance connectivity. This data reveals a strong regional priority to modernize and significantly expand the capacity of arterial road infrastructure across various districts within the state.",
-    "tender_count": 37,
+    "text": "The dominant infrastructure focus in Maharashtra is on the extensive upgrading, widening, and rehabilitation of road networks, particularly National Highways, to two, four, or six lanes with paved shoulders. A notable pattern is the frequent inclusion of new or upgraded Road Over Bridges (ROBs), underpasses, and flyovers within these projects to enhance traffic flow and safety. This indicates a strong regional priority towards modernizing major transport corridors for improved connectivity and capacity across the state.",
+    "tender_count": 38,
     "total_value_crore": 109441.57,
     "top_categories": [
       "Road Expansion",
       "Maintenance",
       "Safety"
     ],
-    "source_hash": "3e43f9b4243d816c",
-    "generated_at": "2026-08-01"
+    "source_hash": "8e8771b96d8f252c",
+    "generated_at": "2026-08-03"
   },
   "Uttar Pradesh": {
     "text": "The dominant infrastructure focus in these tenders is the maintenance and upgrading of National Highways, with a notable pattern of heavy investment in immediate upkeep through short-term and special repair contracts, totaling seven tenders. Concurrently, a significant number of consultancy services, comprising five tenders, are dedicated to planning future widening and new construction projects. This highlights a clear regional priority on both sustaining the current highway network and strategically enhancing its capacity for the future.",
