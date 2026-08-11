@@ -12,28 +12,28 @@
     "generated_at": "2026-08-06"
   },
   "Odisha": {
-    "text": "The dominant infrastructure focus in Odisha's tenders is on enhancing road network capacity and connectivity, primarily through the construction of new bridges and the widening and strengthening of existing national highways. This reflects a notable pattern of heavy investment in critical infrastructure, with 9 out of 22 tenders explicitly for new bridge construction and 5 for road widening, complemented by 4 consultancy contracts for future road improvements. A clear regional priority is observed for National Highway 26, appearing in nine distinct tenders that span new bridge projects, road upgrades, and maintenance across multiple districts including Balangir, Bargarh, Kalahandi, Nabarangpur, and Koraput.",
-    "tender_count": 22,
+    "text": "The dominant infrastructure focus in Odisha's tenders is clearly on improving road connectivity, with a strong emphasis on constructing new bridges and widening/strengthening existing National Highways. A notable pattern is the heavy investment in building new major high-level bridges, particularly along NH-26, and upgrading several two-lane sections to include paved shoulders. This collectively highlights a regional priority towards modernizing and expanding the core national highway network across districts like Balangir, Bargarh, Kalahandi, and Nabarangpur to address existing infrastructure gaps and support future growth.",
+    "tender_count": 21,
     "total_value_crore": 96347.0,
     "top_categories": [
       "Bridge",
       "Road Expansion",
       "Consultancy"
     ],
-    "source_hash": "1e6d8754f926cf65",
-    "generated_at": "2026-08-08"
+    "source_hash": "45be7b437295c0cc",
+    "generated_at": "2026-08-11"
   },
   "Madhya Pradesh": {
-    "text": "The dominant infrastructure focus in Madhya Pradesh, as observed from these tenders, is the short-term maintenance of existing National Highway road sections. A notable pattern is the heavy investment in preserving current road networks, with a significant number of projects also dedicated to widening and upgrading key segments to a 2-lane configuration with paved shoulders. This highlights a regional priority on enhancing and sustaining connectivity, especially along inter-state routes near the Madhya Pradesh borders with Uttar Pradesh and Maharashtra.",
-    "tender_count": 33,
+    "text": "The dominant infrastructure focus in Madhya Pradesh is clearly on the short-term maintenance of existing National Highways, comprising the vast majority of active tenders. This notable pattern suggests a heavy investment in preserving current road quality and ensuring operational efficiency through targeted repairs and upgrades of specific sections. Regional priorities are evident in the frequent mention of inter-state border roads (like those connecting to MP/UP and MP/MH) and key corridors such as NH-543 and NH-552 Ext, emphasizing strategic connectivity and traffic flow across the state's boundaries.",
+    "tender_count": 31,
     "total_value_crore": 115191.77,
     "top_categories": [
       "Maintenance",
       "Road Expansion",
       "Consultancy"
     ],
-    "source_hash": "06e229124d5360ca",
-    "generated_at": "2026-08-05"
+    "source_hash": "78b9bfa2bb4852e5",
+    "generated_at": "2026-08-11"
   },
   "Telangana": {
     "text": "The procurement data overwhelmingly indicates that road infrastructure is the dominant focus in Telangana, with eight out of nine tenders dedicated to this sector. A notable pattern is the heavy investment in upgrading, rehabilitating, and expanding existing road networks, particularly National Highways, through projects like 4-laning and bypass improvements. This strong emphasis on road development, including critical upgrades and new constructions like bridges, suggests that enhancing inter-city connectivity, improving road safety, and boosting overall transport efficiency are key regional priorities for Telangana.",
@@ -48,7 +48,7 @@
     "generated_at": "2026-08-07"
   },
   "Maharashtra": {
-    "text": "Maharashtra's infrastructure tenders primarily focus on the comprehensive rehabilitation, upgrading, and widening of its National Highways, consistently aiming for multi-lane configurations with paved shoulders. A notable pattern is the heavy investment in constructing new Road Over Bridges (ROBs) and flyovers to enhance connectivity and safety, alongside general road strengthening. This data reveals a strategic statewide priority to modernize and expand the entire national highway network across various districts within Maharashtra, also integrating advanced control and monitoring systems.",
+    "text": "The procurement data overwhelmingly indicates a dominant infrastructure focus on the **upgradation, widening, and rehabilitation of National Highways** across Maharashtra, frequently involving the construction of new multi-lane sections and associated structures like Road Over Bridges. A clear pattern emerges of sustained investment in **enhancing road capacity and safety**, transforming existing routes into two, four, or six-lane configurations with paved shoulders. This highlights a strategic regional priority towards **modernizing and expanding the National Highway network** to bolster connectivity and improve traffic management throughout the state.",
     "tender_count": 39,
     "total_value_crore": 103124.93,
     "top_categories": [
@@ -56,8 +56,8 @@
       "Maintenance",
       "Safety"
     ],
-    "source_hash": "99376096c5a2753f",
-    "generated_at": "2026-08-09"
+    "source_hash": "31c9b41460971969",
+    "generated_at": "2026-08-11"
   },
   "Uttar Pradesh": {
     "text": "The dominant infrastructure focus in these Uttar Pradesh tenders is road development, with projects for widening, strengthening, and upgrading National Highways to 2-lane or 4-lane configurations. A notable pattern is the heavy and balanced investment across both capacity enhancement (7 tenders for widening/upgradation) and extensive maintenance work (6 tenders) on various existing NH routes. This indicates a clear regional priority on improving connectivity and ensuring the sustained operational quality of Uttar Pradesh's extensive National Highway system.",
@@ -72,16 +72,16 @@
     "generated_at": "2026-08-07"
   },
   "Karnataka": {
-    "text": "The procurement data highlights a dominant focus on enhancing National Highway infrastructure across Karnataka, with a significant emphasis on the preparatory and oversight phases. A notable pattern is the heavy investment in planning, design, and supervision, evidenced by 13 out of 25 tenders being for consultancy services (DPR, Authority Engineer, Independent Engineer) related to road widening, strengthening, and bypass construction. This indicates a clear regional priority towards strategically expanding highway capacity, improving connectivity, and addressing traffic congestion across the state.",
-    "tender_count": 25,
+    "text": "The dominant infrastructure focus in Karnataka is clearly on road development, with a strong emphasis on widening existing National Highways to two or four lanes with paved shoulders, and constructing bypass roads around towns. A notable pattern is the significant investment in associated consultancy and supervision services, indicating a robust pipeline of major highway upgrade projects. This data suggests a regional priority on enhancing road connectivity and capacity across various National Highways throughout the state.",
+    "tender_count": 22,
     "total_value_crore": 97825.79,
     "top_categories": [
-      "Consultancy",
       "Maintenance",
+      "Consultancy",
       "Road Expansion"
     ],
-    "source_hash": "009971c15b79374a",
-    "generated_at": "2026-08-08"
+    "source_hash": "fff584eb0b51ef4a",
+    "generated_at": "2026-08-11"
   },
   "Bihar": {
     "text": "The dominant infrastructure focus in Bihar's recent tenders is broadly on road development, encompassing both new construction and major upgrades like four-lane roads and bypasses, alongside substantial investment in short-term maintenance and strengthening of existing National Highways. A notable pattern is the heavy emphasis on bypass construction, appearing in multiple tenders, indicating a strategic effort to improve traffic flow and decongest urban areas. This data-backed observation suggests regional priorities are centered on expanding road capacity and connectivity while diligently maintaining the current extensive highway network.",
@@ -120,16 +120,16 @@
     "generated_at": "2026-08-08"
   },
   "Rajasthan": {
-    "text": "The dominant infrastructure focus in Rajasthan's recent tenders is on road and highway development, specifically upgrading and widening existing two-lane national highways to four-lane carriageways. This reveals a strong regional priority toward enhancing road network capacity and efficiency, with several tenders focused on consultancy services for such expansion projects. The inclusion of road safety services and a centralized control system for highways further highlights an integrated approach to modernizing and improving the overall quality and safety of the state's arterial road infrastructure.",
-    "tender_count": 6,
+    "text": "These Rajasthan tenders overwhelmingly focus on road infrastructure, with a clear pattern of heavy investment in upgrading and widening existing two-lane highways to four-lane carriageways, including the construction of new bypasses. This is evidenced by multiple projects for 4-laning sections like Jhunjhunu-Chirawa and Suratgarh-Sri Ganganagar, alongside upgradation of NH-62, highlighting a regional priority towards enhancing inter-city connectivity and transportation capacity across the state.",
+    "tender_count": 7,
     "total_value_crore": 0.0,
     "top_categories": [
-      "Consultancy",
       "Road Expansion",
+      "Consultancy",
       "Safety"
     ],
-    "source_hash": "2c9dd3c40b24899a",
-    "generated_at": "2026-08-08"
+    "source_hash": "149a866f640f4a57",
+    "generated_at": "2026-08-11"
   },
   "Arunachal Pradesh": {
     "text": "The overwhelming majority of active infrastructure tenders from Arunachal Pradesh focus on road construction, with 12 out of 13 specifically seeking supervision and consultancy services. A notable pattern is the exclusive concentration on the Frontier Highway NH 913, indicating a significant and coordinated effort towards developing this singular arterial route. This data clearly highlights that improving connectivity and border infrastructure through the extensive development of the Frontier Highway NH 913 is a paramount regional priority for Arunachal Pradesh.",
@@ -155,28 +155,28 @@
     "generated_at": "2026-07-31"
   },
   "Jharkhand": {
-    "text": "The dominant infrastructure focus in these Jharkhand tenders is unequivocally on National Highways, revealing a notable pattern of heavy investment in upgrading, expanding, and maintaining the existing road network. A significant portion of the work involves planning, widening to 4-lanes, and ensuring the long-term upkeep and operational efficiency of these crucial routes, including new control systems and ancillary constructions. This data-backed observation clearly highlights a regional priority on enhancing road connectivity and improving the overall transport infrastructure across the state.",
-    "tender_count": 7,
+    "text": "The dominant infrastructure focus across these Jharkhand tenders is undeniably on the comprehensive development and enhancement of the National Highway network. A significant pattern reveals heavy investment in the preparatory and supervisory phases, with four out of eight tenders dedicated to consultancy services for Detailed Project Report (DPR) preparation or independent engineering. This highlights a clear regional priority towards strategic planning and systematic upgrades to improve road connectivity and infrastructure efficiency throughout the state.",
+    "tender_count": 8,
     "total_value_crore": 0.0,
     "top_categories": [
       "Consultancy",
       "Maintenance",
       "Road Expansion"
     ],
-    "source_hash": "e5908f61eed8258f",
-    "generated_at": "2026-08-08"
+    "source_hash": "c923f5ce6fa90c36",
+    "generated_at": "2026-08-11"
   },
   "Assam": {
-    "text": "The dominant infrastructure focus evident in these tenders is on roads and bridges, encompassing planning, new construction, widening, and extensive repair work. A notable pattern is the significant investment in the maintenance, rehabilitation, and upgrade of existing National Highways (NHs). This data-backed observation highlights a clear regional priority towards improving connectivity and ensuring the structural integrity of Assam's primary road network.",
-    "tender_count": 13,
+    "text": "The available tenders from Assam clearly indicate a dominant infrastructure focus on roads and bridges. A notable pattern is the significant investment in the repair, rehabilitation, and widening of national highways and their associated bridges across the state. This data suggests a key regional priority is enhancing transportation connectivity and ensuring the structural integrity and longevity of the existing road and bridge network.",
+    "tender_count": 10,
     "total_value_crore": 0.0,
     "top_categories": [
       "Bridge",
       "Maintenance",
       "Consultancy"
     ],
-    "source_hash": "f97199c9f55121bb",
-    "generated_at": "2026-08-09"
+    "source_hash": "30d0571974406a68",
+    "generated_at": "2026-08-11"
   },
   "West Bengal": {
     "text": "The dominant infrastructure focus among these tenders is clearly on highways, with a notable pattern of heavy investment in the expansion and upgrading of National Highways through 4-laning projects and associated maintenance. This data indicates that West Bengal's regional priorities are centered around enhancing road connectivity, capacity, and management, with significant attention given to specific routes like NH-512.",
@@ -201,17 +201,5 @@
     ],
     "source_hash": "2061aaaf5ac4714b",
     "generated_at": "2026-08-07"
-  },
-  "Chhattisgarh": {
-    "text": "These Chhattisgarh tenders reveal a dominant infrastructure focus on highway development, with significant investment in both physical road safety features like crash barriers and the modernization of existing routes through advanced control systems. The inclusion of consultancy services for a 2-lane to 4-lane upgrade further highlights a clear regional priority for expanding and improving the overall capacity and efficiency of its road network.",
-    "tender_count": 3,
-    "total_value_crore": 0.0,
-    "top_categories": [
-      "Safety",
-      "Consultancy",
-      "Maintenance"
-    ],
-    "source_hash": "89e0b604331eb90a",
-    "generated_at": "2026-08-09"
   }
 }
