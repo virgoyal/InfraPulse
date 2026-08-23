@@ -60,16 +60,16 @@
     "generated_at": "2026-08-22"
   },
   "Uttar Pradesh": {
-    "text": "The dominant infrastructure focus in Uttar Pradesh is clearly road development, with tenders heavily skewed towards both widening/upgradation and routine maintenance of National Highways. A notable pattern is the significant investment in enhancing existing NH capacity, evidenced by numerous detailed project report (DPR) tenders for widening and short-term maintenance contracts for various segments. This data-backed observation reveals a strong regional priority on improving connectivity and ensuring the longevity and efficiency of the state's critical highway network.",
-    "tender_count": 15,
+    "text": "The dominant infrastructure focus in Uttar Pradesh is clearly on the widening, strengthening, and maintenance of existing National Highways, with a significant number of tenders also dedicated to consultancy services for preparing Detailed Project Reports for future upgrades. A notable pattern is the heavy investment in enhancing existing highway networks to 2-lane with paved shoulders or 4-lane configurations, indicating a strategic effort to improve connectivity and road quality. This data reveals a regional priority on sustained development and upkeep of key transport arteries, particularly with a noticeable concentration of maintenance and improvement projects along NH-730.",
+    "tender_count": 14,
     "total_value_crore": 34770.0,
     "top_categories": [
       "Maintenance",
       "Bridge",
       "Consultancy"
     ],
-    "source_hash": "d6f298404f0a9101",
-    "generated_at": "2026-08-19"
+    "source_hash": "e8026b80ccb82d7e",
+    "generated_at": "2026-08-23"
   },
   "Karnataka": {
     "text": "The dominant infrastructure focus in Karnataka's recent tenders is the significant upgrade and expansion of its National Highway network, primarily involving widening existing roads to two-lane or four-lane configurations and constructing bypasses for improved connectivity. A notable pattern is the heavy investment in ensuring quality and oversight, evidenced by numerous tenders for Authority Engineer, Independent Engineer, feasibility studies, and FWD/NSV testing services. This widespread activity across multiple districts like Belagavi, Shivamogga, and Tumkur indicates a statewide priority for enhancing road infrastructure efficiency and project management rigor.",
@@ -108,16 +108,16 @@
     "generated_at": "2026-08-15"
   },
   "Gujarat": {
-    "text": "The dominant infrastructure focus in Gujarat is the routine upkeep and incremental upgrading of its extensive National Highway network. A notable pattern indicates a heavy investment in \"Short Term Maintenance\" and \"Routine Maintenance\" activities, accounting for 16 out of 26 tenders. This suggests a primary regional priority on preserving and enhancing existing road assets, often by widening them to two or four lanes with paved shoulders, rather than constructing entirely new routes.",
-    "tender_count": 26,
+    "text": "The dominant infrastructure focus in Gujarat's recent tenders is on the short-term maintenance and routine improvement of its extensive national highway network, with 15 out of 25 tenders explicitly detailing such work including pavement repairs. This indicates a notable pattern of heavy investment in preserving and enhancing the operational condition and longevity of existing road infrastructure. The high volume of maintenance tenders reflects Gujarat's regional priority to ensure the continuous usability and safety of its current road assets, complementing strategic projects for widening and upgrading specific highway sections.",
+    "tender_count": 27,
     "total_value_crore": 131279.0,
     "top_categories": [
       "Maintenance",
       "Road Expansion",
       "Consultancy"
     ],
-    "source_hash": "ed4cfde420cc061e",
-    "generated_at": "2026-08-21"
+    "source_hash": "9d5514b5954d3858",
+    "generated_at": "2026-08-23"
   },
   "Rajasthan": {
     "text": "The dominant infrastructure focus across these Rajasthan tenders is entirely on road and highway development, with a clear emphasis on enhancing existing networks. A notable pattern shows significant investment in upgrading existing two-lane roads to four-lane carriageways and comprehensive maintenance, alongside strategic safety and technological improvements, strongly indicating a regional priority to boost capacity and efficiency specifically across its National Highway system.",
