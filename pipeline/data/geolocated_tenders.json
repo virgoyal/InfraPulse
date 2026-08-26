@@ -20,8 +20,8 @@
     "category": "Bridge",
     "summary": "Strengthening Mohkampur Road Over Bridges and service lanes on NH-07 using DBM and BC materials.",
     "coordinates": [
-      29.969,
-      78.88
+      30.0634,
+      79.0032
     ],
     "geo_source": "centroid"
   },
@@ -124,8 +124,8 @@
     "category": "Road Expansion",
     "summary": "Widening and strengthening an existing road to 4 lanes from Km 4.200 to 9.900 on NH 765, Hyderabad to Srisailam.",
     "coordinates": [
-      18.2848,
-      78.8305
+      17.9702,
+      78.8122
     ],
     "geo_source": "centroid"
   },
@@ -150,8 +150,8 @@
     "category": "Bridge",
     "summary": "Construction of a high-level bridge across the Kinnerasani River on NH 30 in Telangana.",
     "coordinates": [
-      17.7777,
-      79.1737
+      17.749,
+      78.9207
     ],
     "geo_source": "centroid"
   },
@@ -176,8 +176,8 @@
     "category": "Road Expansion",
     "summary": "Rehabilitating and upgrading NH 548D from Jamkhed to Sautada to a four-lane rigid pavement highway in Maharashtra.",
     "coordinates": [
-      19.3558,
-      75.803
+      19.9017,
+      75.8017
     ],
     "geo_source": "centroid"
   },
@@ -202,8 +202,8 @@
     "category": "Road Expansion",
     "summary": "Installing barbed wire fencing for 5.2429 Ha of proposed land in Mahabubnagar District.",
     "coordinates": [
-      18.3967,
-      78.9097
+      18.4985,
+      78.7713
     ],
     "geo_source": "centroid"
   },
@@ -254,8 +254,8 @@
     "category": "Safety",
     "summary": "Supply of laboratory equipment for testing materials like epoxy, thermoplastic, signboards, and metal beam crash barriers.",
     "coordinates": [
-      26.7841,
-      81.1532
+      26.5246,
+      80.5956
     ],
     "geo_source": "centroid"
   },
@@ -280,8 +280,8 @@
     "category": "Maintenance",
     "summary": "Conducting special repair work on a 29.775 km stretch of NH-367 between Pattadkal and Shirur Cross.",
     "coordinates": [
-      15.7054,
-      75.3925
+      15.5795,
+      75.9723
     ],
     "geo_source": "centroid"
   },
@@ -306,8 +306,8 @@
     "category": "Safety",
     "summary": "Repair work for road safety and traffic regulation, including median extension, on NH-727 at Bettiah.",
     "coordinates": [
-      25.0006,
-      85.0469
+      24.7582,
+      84.9715
     ],
     "geo_source": "centroid"
   },
@@ -332,8 +332,8 @@
     "category": "Maintenance",
     "summary": "Improvement of 63km of existing damaged pavement on NH 702D.",
     "coordinates": [
-      26.0817,
-      94.4954
+      26.0344,
+      94.7984
     ],
     "geo_source": "centroid"
   },
@@ -358,8 +358,8 @@
     "category": "Consultancy",
     "summary": "Consultancy services for supervising construction of a six-lane external port connectivity road.",
     "coordinates": [
-      15.8454,
-      79.5042
+      15.7968,
+      79.38
     ],
     "geo_source": "centroid"
   },
@@ -436,8 +436,8 @@
     "category": "Road Expansion",
     "summary": "Constructing a six-lane port connectivity road from NH 65/216 to Machilipatnam Port via NH 216 bypass in Andhra Pradesh.",
     "coordinates": [
-      16.3054,
-      79.899
+      16.171,
+      79.3601
     ],
     "geo_source": "centroid"
   },
@@ -462,8 +462,8 @@
     "category": "Consultancy",
     "summary": "Consultancy services for feasibility study and DPR preparation for widening NH 26 to 4L road.",
     "coordinates": [
-      21.0917,
-      85.0641
+      21.1737,
+      85.0267
     ],
     "geo_source": "centroid"
   },
@@ -488,8 +488,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility study and DPR preparation for widening and strengthening NH 326 and NH 326A.",
     "coordinates": [
-      21.2094,
-      85.3442
+      20.8995,
+      84.7619
     ],
     "geo_source": "centroid"
   },
@@ -514,8 +514,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility study and DPR preparation for 240 km 4-lane road expansion of NH-57 from Balangir to Nayagarh.",
     "coordinates": [
-      20.9505,
-      85.3751
+      21.0648,
+      84.8247
     ],
     "geo_source": "centroid"
   },
@@ -566,8 +566,8 @@
     "category": "Road Expansion",
     "summary": "One-time improvement and realignment of bypassed stretches of NH 365B in Telangana.",
     "coordinates": [
-      17.948,
-      78.8258
+      17.7917,
+      79.2617
     ],
     "geo_source": "centroid"
   },
@@ -592,8 +592,8 @@
     "category": "Road Expansion",
     "summary": "Widening to 2L and realignment of specific sections of NH-63 in Telangana.",
     "coordinates": [
-      18.4375,
-      79.081
+      18.3043,
+      78.7355
     ],
     "geo_source": "centroid"
   },
@@ -644,8 +644,8 @@
     "category": "Maintenance",
     "summary": "Performance-based maintenance contract for a 72.6 km section of NH 365 with two lanes and paved shoulders.",
     "coordinates": [
-      18.0657,
-      79.093
+      18.4487,
+      79.048
     ],
     "geo_source": "centroid"
   },
@@ -670,8 +670,8 @@
     "category": "Maintenance",
     "summary": "Short-term maintenance of NH 167 section and a 320m link road in Miryalaguda town, Telangana.",
     "coordinates": [
-      18.3835,
-      78.8318
+      18.3791,
+      78.8968
     ],
     "geo_source": "centroid"
   },
@@ -696,8 +696,8 @@
     "category": "Maintenance",
     "summary": "Short term maintenance of specified sections of NH-61 and NH-63 roads.",
     "coordinates": [
-      17.9245,
-      78.8195
+      17.9158,
+      79.0022
     ],
     "geo_source": "centroid"
   },
@@ -722,8 +722,8 @@
     "category": "Maintenance",
     "summary": "Procurement of tipper for clearing road surface of NH-87 (NH-109) from slips and trees for maintenance.",
     "coordinates": [
-      30.3687,
-      79.1307
+      30.2638,
+      78.8899
     ],
     "geo_source": "centroid"
   },
@@ -748,8 +748,8 @@
     "category": "Maintenance",
     "summary": "Procurement of tippers for removing slips and trees from NH-87 (New NH-109) road surface.",
     "coordinates": [
-      29.8356,
-      79.2201
+      30.4509,
+      79.2858
     ],
     "geo_source": "centroid"
   },
@@ -800,8 +800,8 @@
     "category": "Maintenance",
     "summary": "Cleaning chocked scupper and hillside drains along NH-87 (Km 107-123) for improved functionality.",
     "coordinates": [
-      29.896,
-      78.9791
+      30.2952,
+      79.1601
     ],
     "geo_source": "centroid"
   },
@@ -878,8 +878,8 @@
     "category": "Maintenance",
     "summary": "Supply tippers to remove slips and trees from NH-87 Extn (NH-109) road surface for routine maintenance.",
     "coordinates": [
-      29.9131,
-      79.3476
+      30.1857,
+      78.7695
     ],
     "geo_source": "centroid"
   },
@@ -904,8 +904,8 @@
     "category": "Drainage",
     "summary": "Cleaning of chocked scuppers and hillside drains along NH-87 Extn (New-109) from Km 31 to 45.",
     "coordinates": [
-      29.888,
-      78.8717
+      29.9148,
+      78.6736
     ],
     "geo_source": "centroid"
   },
@@ -956,8 +956,8 @@
     "category": "Maintenance",
     "summary": "Supply JCB machines to clear slips and trees from NH-87 Extn (NH-109) road surface for communication.",
     "coordinates": [
-      30.029,
-      78.8188
+      29.8838,
+      78.6914
     ],
     "geo_source": "centroid"
   },
@@ -982,8 +982,8 @@
     "category": "Maintenance",
     "summary": "Supply tipper trucks for removing slips and trees from NH-87 Extn (New NH-109) road surface.",
     "coordinates": [
-      30.1126,
-      78.6592
+      30.3362,
+      79.2121
     ],
     "geo_source": "centroid"
   },
@@ -1008,8 +1008,8 @@
     "category": "Maintenance",
     "summary": "Supply JCB machines for cleaning drains and removing trees from NH-121 road surface (Km.11-30) near Stadium Chilkiya.",
     "coordinates": [
-      30.0382,
-      78.9347
+      30.4611,
+      78.7932
     ],
     "geo_source": "centroid"
   },
@@ -1060,8 +1060,8 @@
     "category": "Maintenance",
     "summary": "Supply JCB machines for cleaning drains and clearing trees from NH-121 road surface at Stadium Chauraha.",
     "coordinates": [
-      29.7365,
-      78.7832
+      30.361,
+      79.0004
     ],
     "geo_source": "centroid"
   },
@@ -1086,8 +1086,8 @@
     "category": "Maintenance",
     "summary": "Supply JCB machines for clearing slips and trees from NH-87 (NH-109) road surface to maintain communication.",
     "coordinates": [
-      29.7616,
-      78.9951
+      30.0218,
+      79.2289
     ],
     "geo_source": "centroid"
   },
@@ -1112,8 +1112,8 @@
     "category": "Maintenance",
     "summary": "Procurement of JCB machines for clearing road obstructions and debris on NH-87 (New NH-109).",
     "coordinates": [
-      29.6832,
-      78.7017
+      30.3148,
+      78.738
     ],
     "geo_source": "centroid"
   },
@@ -1242,8 +1242,8 @@
     "category": "Bridge",
     "summary": "Reconstruction of an existing narrow culvert into a minor bridge with approaches on NH 163.",
     "coordinates": [
-      18.033,
-      79.3574
+      18.455,
+      79.0115
     ],
     "geo_source": "centroid"
   },
@@ -1268,8 +1268,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for supervision of rehabilitation and upgrading of Kotdwar-Pauri-Srinagar road to two lanes with paved shoulders.",
     "coordinates": [
-      30.3857,
-      79.0404
+      29.874,
+      78.9262
     ],
     "geo_source": "centroid"
   },
@@ -1294,8 +1294,8 @@
     "category": "Maintenance",
     "summary": "Short-term maintenance for specific stretches of the Hyderabad-Srisailam road is required.",
     "coordinates": [
-      18.086,
-      78.9293
+      17.9948,
+      78.8799
     ],
     "geo_source": "centroid"
   },
@@ -1372,8 +1372,8 @@
     "category": "Maintenance",
     "summary": "Repair and construct damaged sections of NH 09 from Km 122.00 to 128.00 under road cutting charges.",
     "coordinates": [
-      30.433,
-      78.9736
+      30.2433,
+      79.0374
     ],
     "geo_source": "centroid"
   },
@@ -1476,8 +1476,8 @@
     "category": "Road Expansion",
     "summary": "Construction of service roads and improvement of junctions/curves along Canacona bypass section of NH-66 in Goa.",
     "coordinates": [
-      15.0179,
-      73.8406
+      15.4278,
+      74.4241
     ],
     "geo_source": "centroid"
   },
@@ -1554,8 +1554,8 @@
     "category": "Safety",
     "summary": "Undertaking landslide treatment work on NH-07 (old NH-58) near Totaghati, Uttarakhand.",
     "coordinates": [
-      30.4121,
-      79.1241
+      29.8232,
+      79.1564
     ],
     "geo_source": "centroid"
   },
@@ -1580,8 +1580,8 @@
     "category": "Bridge",
     "summary": "Construction of a major bridge, approach road, and RCC gutter on Sina River in Maharashtra.",
     "coordinates": [
-      19.3649,
-      75.8046
+      20.1321,
+      75.5869
     ],
     "geo_source": "centroid"
   },
@@ -1606,8 +1606,8 @@
     "category": "Road Expansion",
     "summary": "Widening existing carriageway and constructing service roads to achieve continuous four-lane on NH-66 in Goa, including a cattle underpass.",
     "coordinates": [
-      15.0914,
-      74.0921
+      15.3269,
+      74.1411
     ],
     "geo_source": "centroid"
   },
@@ -1710,8 +1710,8 @@
     "category": "Road Expansion",
     "summary": "One-time improvement project for a bypassed 7.3 km section of NH-66 in Margao City.",
     "coordinates": [
-      15.3321,
-      74.0966
+      15.3717,
+      73.8393
     ],
     "geo_source": "centroid"
   },
@@ -1762,8 +1762,8 @@
     "category": "Road Expansion",
     "summary": "Construction of a service road and improvement of Khareband junction with safety measures on NH-66 in Goa.",
     "coordinates": [
-      15.3296,
-      74.3432
+      15.514,
+      74.5038
     ],
     "geo_source": "centroid"
   },
@@ -1788,8 +1788,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility study, DPR, and pre-construction services for upgrading Zojila-Kargil-Leh Road NH-01.",
     "coordinates": [
-      34.3909,
-      77.7544
+      34.0494,
+      77.9141
     ],
     "geo_source": "centroid"
   },
@@ -1814,8 +1814,8 @@
     "category": "Bridge",
     "summary": "Constructing a temporary diversion causeway for a damaged bridge on NH 333A.",
     "coordinates": [
-      25.1318,
-      85.0364
+      24.9918,
+      84.9592
     ],
     "geo_source": "centroid"
   },
@@ -1866,8 +1866,8 @@
     "category": "Flood Mitigation",
     "summary": "This project treats a landslide location near Gulabghati on NH-109 in Uttarakhand to ensure road stability.",
     "coordinates": [
-      30.1999,
-      79.0353
+      30.4588,
+      78.741
     ],
     "geo_source": "centroid"
   },
@@ -1892,8 +1892,8 @@
     "category": "Maintenance",
     "summary": "Performs maintenance work on the Patthalgaon to Kunkuri section of NH-43.",
     "coordinates": [
-      21.5004,
-      82.0591
+      21.0862,
+      81.9587
     ],
     "geo_source": "centroid"
   },
@@ -1918,8 +1918,8 @@
     "category": "Maintenance",
     "summary": "Special repair work for a 2.7 km stretch of NH_139 between Anisabad Golambar and Saristabad for the year 2025-26.",
     "coordinates": [
-      25.354,
-      85.5304
+      25.45,
+      85.2952
     ],
     "geo_source": "centroid"
   },
@@ -1944,8 +1944,8 @@
     "category": "Road Expansion",
     "summary": "Improve Shahdol city road section of NH-43 to 2 lanes with paved shoulders for 8.80 km.",
     "coordinates": [
-      22.7159,
-      78.9303
+      23.3361,
+      78.7265
     ],
     "geo_source": "centroid"
   },
@@ -1970,8 +1970,8 @@
     "category": "Flood Mitigation",
     "summary": "Treatment of 16 landslide locations on NH-134 in Uttarakhand under EPC mode for the Annual Plan 2025-26.",
     "coordinates": [
-      29.8077,
-      79.0554
+      29.7613,
+      78.7811
     ],
     "geo_source": "centroid"
   },
@@ -1996,8 +1996,8 @@
     "category": "Maintenance",
     "summary": "Periodic renewals of NH-563 section from Jagtial to Karimnagar in Telangana, including the Kondagattu area.",
     "coordinates": [
-      18.4486,
-      78.7534
+      18.2347,
+      79.4052
     ],
     "geo_source": "centroid"
   },
@@ -2074,8 +2074,8 @@
     "category": "Road Expansion",
     "summary": "One-time improvement of bypassed NH6 road sections in Champhai, Mualkawi, and Melbuk villages, Mizoram.",
     "coordinates": [
-      23.151,
-      92.6545
+      23.2705,
+      93.1989
     ],
     "geo_source": "centroid"
   },
@@ -2152,8 +2152,8 @@
     "category": "Safety",
     "summary": "Enhancing road curves, infrastructure, and safety on NH-01 for heavy equipment transport in specific sections.",
     "coordinates": [
-      33.5124,
-      76.4606
+      33.6427,
+      76.7292
     ],
     "geo_source": "centroid"
   },
@@ -2282,8 +2282,8 @@
     "category": "Bridge",
     "summary": "Construct a 85.68M 2-lane steel girder bridge on NH-107 in Belni, Uttarakhand.",
     "coordinates": [
-      30.4649,
-      79.11
+      29.735,
+      78.9485
     ],
     "geo_source": "centroid"
   },
@@ -2308,8 +2308,8 @@
     "category": "Bridge",
     "summary": "Rehabilitation of existing bridges on NH-07 from Rishikesh to Srinagar under the annual plan.",
     "coordinates": [
-      30.2372,
-      78.7363
+      29.7868,
+      79.3032
     ],
     "geo_source": "centroid"
   },
@@ -2334,8 +2334,8 @@
     "category": "Maintenance",
     "summary": "Short term maintenance contract for sections of NH-66 in Goa during FY 2025-26.",
     "coordinates": [
-      15.1338,
-      74.322
+      15.5496,
+      74.3015
     ],
     "geo_source": "centroid"
   },
@@ -2386,8 +2386,8 @@
     "category": "Road Expansion",
     "summary": "Improvement of a 7 km stretch of NH-07 from Rishikesh to Brahmpuri in Uttarakhand.",
     "coordinates": [
-      30.3391,
-      78.9216
+      29.8543,
+      79.2782
     ],
     "geo_source": "centroid"
   },
@@ -2412,8 +2412,8 @@
     "category": "Flood Mitigation",
     "summary": "Repairing various flood-damaged slab drains on NH 151K in Gujarat.",
     "coordinates": [
-      22.5098,
-      71.2676
+      21.9539,
+      71.4047
     ],
     "geo_source": "centroid"
   },
@@ -2438,8 +2438,8 @@
     "category": "Maintenance",
     "summary": "Special repair work on NH-248A Shahpura-Thanagazi-Alwar-RamgarhNuh Road in the state of Rajasthan.",
     "coordinates": [
-      26.8194,
-      74.5059
+      26.8696,
+      74.3661
     ],
     "geo_source": "centroid"
   },
@@ -2464,8 +2464,8 @@
     "category": "Road Expansion",
     "summary": "Constructing a toll plaza, bus bay, and bus shelter on NH 461 B, Malegaon to Risod section in Maharashtra.",
     "coordinates": [
-      19.9593,
-      75.9165
+      19.9775,
+      76.0353
     ],
     "geo_source": "centroid"
   },
@@ -2516,8 +2516,8 @@
     "category": "Safety",
     "summary": "This project involves treating 11 landslide locations on NH-534 (Kotdwar to Dugadda) to enhance road safety.",
     "coordinates": [
-      29.6698,
-      79.2244
+      29.673,
+      78.8159
     ],
     "geo_source": "centroid"
   },
@@ -2984,8 +2984,8 @@
     "category": "Maintenance",
     "summary": "This project involves short-term maintenance of NH-122A in Sitamarhi for the year 2025-26.",
     "coordinates": [
-      25.2985,
-      85.2168
+      25.4835,
+      85.383
     ],
     "geo_source": "centroid"
   },
@@ -3426,8 +3426,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility studies and DPR preparation for 2-lane road improvement and new 4-lane ROB construction.",
     "coordinates": [
-      25.3874,
-      85.6304
+      24.9153,
+      85.4216
     ],
     "geo_source": "centroid"
   },
@@ -3452,8 +3452,8 @@
     "category": "Safety",
     "summary": "Treatment of four landslide locations on Pithoragarh Tawaghat Road and NH 09 sections in Uttarakhand.",
     "coordinates": [
-      30.3884,
-      79.1677
+      29.6944,
+      78.8298
     ],
     "geo_source": "centroid"
   },
@@ -3478,8 +3478,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility study and DPR for 4/6-laning NH216 from Kathipudi to Ongole stretch.",
     "coordinates": [
-      15.5254,
-      80.0139
+      16.1122,
+      79.9787
     ],
     "geo_source": "centroid"
   },
@@ -3504,8 +3504,8 @@
     "category": "Consultancy",
     "summary": "Consultancy services for supervising the construction of a 2-lane bypass with paved shoulders for Narsapuram town on NH216.",
     "coordinates": [
-      15.7937,
-      79.95
+      16.1353,
+      79.8538
     ],
     "geo_source": "centroid"
   },
@@ -3556,8 +3556,8 @@
     "category": "Road Expansion",
     "summary": "Widening and strengthening NH-543K from Km 0 to 51 with paved shoulder in Madhya Pradesh.",
     "coordinates": [
-      23.1555,
-      78.9711
+      22.7949,
+      78.4939
     ],
     "geo_source": "centroid"
   },
@@ -3582,8 +3582,8 @@
     "category": "Road Expansion",
     "summary": "Constructing a 2-lane bypass with paved shoulders for Narsapuram town on NH 216.",
     "coordinates": [
-      16.2643,
-      79.9435
+      16.2209,
+      79.5388
     ],
     "geo_source": "centroid"
   },
@@ -3634,8 +3634,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR preparation to upgrade NH30 from 2-lane to 4-lane with paved shoulders.",
     "coordinates": [
-      21.4224,
-      81.5894
+      20.9981,
+      81.582
     ],
     "geo_source": "centroid"
   },
@@ -3660,8 +3660,8 @@
     "category": "Maintenance",
     "summary": "Improving the riding surface with black topping on a section of NH 565 in Nalgonda Town, Telangana.",
     "coordinates": [
-      18.1071,
-      78.9641
+      17.8507,
+      79.0986
     ],
     "geo_source": "centroid"
   },
@@ -3738,8 +3738,8 @@
     "category": "Bridge",
     "summary": "Construction of three Foot over Bridges and road safety interventions on NH 44 in Telangana.",
     "coordinates": [
-      18.0735,
-      78.9566
+      17.7466,
+      78.8676
     ],
     "geo_source": "centroid"
   },
@@ -3946,8 +3946,8 @@
     "category": "Consultancy",
     "summary": "Providing consultancy for traffic simulation, road safety audit, and city logistic planning for Navi Mumbai and Thane.",
     "coordinates": [
-      19.6538,
-      75.9402
+      19.7143,
+      76.0117
     ],
     "geo_source": "centroid"
   },
@@ -4076,8 +4076,8 @@
     "category": "Bridge",
     "summary": "Constructing a 2-lane Rail Over Bridge and Limited Height Subway on NH-248A in Alwar-Nuh section.",
     "coordinates": [
-      27.2578,
-      74.3742
+      27.3656,
+      73.9965
     ],
     "geo_source": "centroid"
   },
@@ -4128,8 +4128,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR preparation for capacity augmentation of NH-181 and NH-381 road stretches.",
     "coordinates": [
-      11.1251,
-      78.6893
+      10.7686,
+      78.7561
     ],
     "geo_source": "centroid"
   },
@@ -4154,8 +4154,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR to augment capacity of NH-179A and NH-532 highway stretches in Tamil Nadu.",
     "coordinates": [
-      11.2068,
-      78.948
+      11.1267,
+      78.2901
     ],
     "geo_source": "centroid"
   },
@@ -4180,8 +4180,8 @@
     "category": "Consultancy",
     "summary": "Consultancy services for supervising the widening of NH-534 from Dugadda to Gumkhal in Uttarakhand.",
     "coordinates": [
-      29.7964,
-      79.1144
+      30.1085,
+      79.0236
     ],
     "geo_source": "centroid"
   },
@@ -4258,8 +4258,8 @@
     "category": "Bridge",
     "summary": "Construction of two new Road Over Bridges (ROBs) over Daund Manmad railway line near Limpangaon, Ahmednagar.",
     "coordinates": [
-      19.3565,
-      75.8756
+      19.5771,
+      75.4203
     ],
     "geo_source": "centroid"
   },
@@ -4284,8 +4284,8 @@
     "category": "Flood Mitigation",
     "summary": "Construction of a bund weir and allied works at Ramanna Cheruvu water tank near NH216 in Andhra Pradesh.",
     "coordinates": [
-      16.2496,
-      79.7473
+      15.7122,
+      79.4418
     ],
     "geo_source": "centroid"
   },
@@ -4310,8 +4310,8 @@
     "category": "Bridge",
     "summary": "Upgrading NH 141 to 6 lanes with paved shoulders and constructing a new 6-lane major bridge over Nakti Creek.",
     "coordinates": [
-      21.9981,
-      71.2877
+      22.3546,
+      71.362
     ],
     "geo_source": "centroid"
   },
@@ -4414,8 +4414,8 @@
     "category": "Road Expansion",
     "summary": "Consultancy services for supervising rehabilitation, upgrading to two lanes, and strengthening of the Kotdwar-Pauri-Srinagar road section.",
     "coordinates": [
-      30.4122,
-      78.6724
+      30.3185,
+      79.2255
     ],
     "geo_source": "centroid"
   },
@@ -4440,8 +4440,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for supervision of rehabilitation and 2-lane up-gradation of NH-309A in Uttarakhand.",
     "coordinates": [
-      30.1519,
-      78.9577
+      29.9806,
+      79.162
     ],
     "geo_source": "centroid"
   },
@@ -4544,8 +4544,8 @@
     "category": "Bridge",
     "summary": "Reconstruction of minor bridges near Samruddhi Mahamarg on NH 752H in Chh.Sambhajinagar district.",
     "coordinates": [
-      19.937,
-      75.852
+      19.7038,
+      75.844
     ],
     "geo_source": "centroid"
   },
@@ -4633,7 +4633,7 @@
     "organization": "NH Odisha PWD-Kesinga",
     "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH||RO Bhubaneswar - MoRTH||NH Odisha PWD-Kesinga - MoRTH",
     "published_date": "26-Feb-2026 06:55 PM",
-    "closing_date": "31-Aug-2026 12:00 PM",
+    "closing_date": "30-Sep-2026 12:00 PM",
     "state": "Odisha",
     "value": "1,52,28,00,000",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SsxTZ264bmoLGwEi%2F99c%2F6g%3D%3D",
@@ -4726,8 +4726,8 @@
     "category": "Bridge",
     "summary": "Construction of a Limited Height Subway (LHS) near Kowlepalli village on NH205 in Satya Sai District, Andhra Pradesh.",
     "coordinates": [
-      16.0174,
-      79.6758
+      15.9001,
+      79.7888
     ],
     "geo_source": "centroid"
   },
@@ -4830,8 +4830,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility study and DPR for widening NH 169A to two lanes with paved shoulder.",
     "coordinates": [
-      15.0588,
-      76.0337
+      15.4987,
+      75.5636
     ],
     "geo_source": "centroid"
   },
@@ -4882,8 +4882,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR of 15.3 km 4-lane road expansion of NH 503A from Punjab border to Jhalera.",
     "coordinates": [
-      31.5012,
-      77.1505
+      31.1056,
+      77.3593
     ],
     "geo_source": "centroid"
   },
@@ -4908,8 +4908,8 @@
     "category": "Road Expansion",
     "summary": "Widening and upgrading NH-135BD section (25.85 km) to 2-Lane with paved shoulder configuration.",
     "coordinates": [
-      23.0276,
-      78.3529
+      23.0916,
+      78.8711
     ],
     "geo_source": "centroid"
   },
@@ -4960,8 +4960,8 @@
     "category": "Road Expansion",
     "summary": "Construction of a bypass road for Holenarasipura town on NH 373 in Karnataka, under the EPC mode.",
     "coordinates": [
-      15.0268,
-      75.4426
+      15.1492,
+      75.74
     ],
     "geo_source": "centroid"
   },
@@ -4986,8 +4986,8 @@
     "category": "Road Expansion",
     "summary": "Project involves widening and reconstructing 15.87 km of NH 167N to a four-lane road near Miriyan-Chincholi section.",
     "coordinates": [
-      15.4525,
-      76.0
+      15.4698,
+      75.9203
     ],
     "geo_source": "centroid"
   },
@@ -5012,8 +5012,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for pre-construction and DPR for a 2-lane alternate route to bypass the Dabarkot Landslide Zone on NH-134.",
     "coordinates": [
-      30.0663,
-      78.959
+      30.0535,
+      79.0042
     ],
     "geo_source": "centroid"
   },
@@ -5038,8 +5038,8 @@
     "category": "Road Expansion",
     "summary": "Widening of NH-62 from two to four lanes between Suratgarh and Sri Ganganagar.",
     "coordinates": [
-      27.3437,
-      74.4862
+      27.3924,
+      74.0926
     ],
     "geo_source": "centroid"
   },
@@ -5064,8 +5064,8 @@
     "category": "Road Expansion",
     "summary": "Upgrade NH-921 to 4 lanes with paved shoulders and construct a flyover on NH-21 near its junction.",
     "coordinates": [
-      26.9763,
-      74.2065
+      26.7151,
+      73.9599
     ],
     "geo_source": "centroid"
   },
@@ -5090,8 +5090,8 @@
     "category": "Road Expansion",
     "summary": "Four-laning of NH11 section (66.7 km) and construction of 10.26 km Chirawa Northern Bypass.",
     "coordinates": [
-      26.6425,
-      74.2744
+      26.9378,
+      73.9518
     ],
     "geo_source": "centroid"
   },
@@ -5142,8 +5142,8 @@
     "category": "Bridge",
     "summary": "Construction of an iconic hybrid cable-stayed and suspension bridge across the Krishna River on NH-167K.",
     "coordinates": [
-      15.7276,
-      79.9629
+      15.8332,
+      79.6653
     ],
     "geo_source": "centroid"
   },
@@ -5194,8 +5194,8 @@
     "category": "Road Expansion",
     "summary": "Constructing a new 4-lane bypass for Sri Muktsar Sahib connecting NH-354 and NH-754 in Punjab.",
     "coordinates": [
-      30.9421,
-      74.9617
+      30.8382,
+      75.6431
     ],
     "geo_source": "centroid"
   },
@@ -5272,8 +5272,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR preparation to rehabilitate and upgrade the Jhala to Heena road to double lane.",
     "coordinates": [
-      29.8961,
-      79.048
+      29.7333,
+      79.3371
     ],
     "geo_source": "centroid"
   },
@@ -5454,8 +5454,8 @@
     "category": "Road Expansion",
     "summary": "Widening and strengthening NH-322 from Musrigharari to Darbhanga to a 2-lane road with paved shoulders.",
     "coordinates": [
-      25.1753,
-      85.5392
+      24.9282,
+      85.6486
     ],
     "geo_source": "centroid"
   },
@@ -5480,8 +5480,8 @@
     "category": "Road Expansion",
     "summary": "Construction of Maski and Sindhanur bypasses on NH 150A in Karnataka, covering specific kilometer stretches.",
     "coordinates": [
-      14.9364,
-      75.7779
+      15.4991,
+      75.5375
     ],
     "geo_source": "centroid"
   },
@@ -5662,8 +5662,8 @@
     "category": "Road Expansion",
     "summary": "Upgrading and reconstructing the Sirmaur - Dabhaura section of NH-135B to a two-lane configuration with paved shoulders.",
     "coordinates": [
-      22.5987,
-      78.4441
+      23.3635,
+      78.7197
     ],
     "geo_source": "centroid"
   },
@@ -5792,8 +5792,8 @@
     "category": "Road Expansion",
     "summary": "Upgrade NH-34 section from Ch 113/00 to Ch 176/500 to a 2-LPS road in Madhya Pradesh.",
     "coordinates": [
-      22.6467,
-      78.6928
+      23.2034,
+      78.614
     ],
     "geo_source": "centroid"
   },
@@ -5844,8 +5844,8 @@
     "category": "Consultancy",
     "summary": "DPR consultancy for 4/6-lane Ring Road/Bypass (180 Km) to decongest NH-66 in Goa.",
     "coordinates": [
-      14.9537,
-      73.8783
+      15.6553,
+      73.977
     ],
     "geo_source": "centroid"
   },
@@ -5870,8 +5870,8 @@
     "category": "Road Expansion",
     "summary": "Upgrade existing road to two-lane with paved shoulder on NH-539 in Madhya Pradesh via Hybrid Annuity Mode.",
     "coordinates": [
-      22.9245,
-      78.3586
+      23.1382,
+      78.9589
     ],
     "geo_source": "centroid"
   },
@@ -5896,8 +5896,8 @@
     "category": "Road Expansion",
     "summary": "Upgrading 75km of existing intermediate lane flexible pavement to 2-lane with paved shoulders on NH-539.",
     "coordinates": [
-      23.1499,
-      78.8014
+      23.3215,
+      78.6424
     ],
     "geo_source": "centroid"
   },
@@ -5922,8 +5922,8 @@
     "category": "Road Expansion",
     "summary": "Widening and strengthening the Daringbadi ghat portion of NH-59 in Odisha via Hybrid Annuity Mode.",
     "coordinates": [
-      21.1608,
-      85.4075
+      21.1999,
+      85.3562
     ],
     "geo_source": "centroid"
   },
@@ -5948,8 +5948,8 @@
     "category": "Road Expansion",
     "summary": "Rehabilitation and upgradation of NH 167K bridge approaches to 4-lane with paved shoulders in Telangana and Andhra Pradesh.",
     "coordinates": [
-      15.6481,
-      79.781
+      16.1248,
+      79.4948
     ],
     "geo_source": "centroid"
   },
@@ -5974,8 +5974,8 @@
     "category": "Road Expansion",
     "summary": "Rehabilitate and upgrade NH 930P section (Nehru Nagar to Kothagudem) to two/four lane with paved shoulders.",
     "coordinates": [
-      18.2185,
-      79.093
+      18.1675,
+      78.8202
     ],
     "geo_source": "centroid"
   },
@@ -6026,8 +6026,8 @@
     "category": "Road Expansion",
     "summary": "Rehabilitation and upgradation of NH 752G section from Kopargaon to Savli Vihir in Maharashtra, including bad patch repairs.",
     "coordinates": [
-      19.5404,
-      75.786
+      19.5289,
+      75.9406
     ],
     "geo_source": "centroid"
   },
@@ -6078,8 +6078,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for supervising rehabilitation, upgrading to two lanes, and strengthening of the Kotdwar-Pauri Srinagar road section (NH-119).",
     "coordinates": [
-      29.6871,
-      79.2324
+      30.1875,
+      79.3741
     ],
     "geo_source": "centroid"
   },
@@ -6104,8 +6104,8 @@
     "category": "Safety",
     "summary": "Project treats landslide zones on NH-09 and NH-125 in Uttarakhand for safety.",
     "coordinates": [
-      30.1958,
-      78.6563
+      30.3276,
+      79.0798
     ],
     "geo_source": "centroid"
   },
@@ -6130,8 +6130,8 @@
     "category": "Maintenance",
     "summary": "Short-term maintenance contract for NH 702A (45 km stretch) for the year 2026-27.",
     "coordinates": [
-      26.5273,
-      94.3202
+      26.2629,
+      94.2164
     ],
     "geo_source": "centroid"
   },
@@ -6156,8 +6156,8 @@
     "category": "Maintenance",
     "summary": "Short term maintenance for NH 702A (10.54 Km) in Mokokchung, Nagaland for 2026-27.",
     "coordinates": [
-      26.0689,
-      94.8464
+      26.5274,
+      94.8357
     ],
     "geo_source": "centroid"
   },
@@ -6208,8 +6208,8 @@
     "category": "Maintenance",
     "summary": "Short-term maintenance contract for 45 km of NH 702A in Nagaland for the fiscal year 2026-27.",
     "coordinates": [
-      26.4564,
-      94.7575
+      26.2951,
+      94.4194
     ],
     "geo_source": "centroid"
   },
@@ -6312,8 +6312,8 @@
     "category": "Bridge",
     "summary": "Constructing a diversion causeway for damaged bridges on NH 333A at Nariyana and Mangobandar.",
     "coordinates": [
-      25.0059,
-      85.2779
+      25.1533,
+      85.0304
     ],
     "geo_source": "centroid"
   },
@@ -6364,8 +6364,8 @@
     "category": "Road Expansion",
     "summary": "Upgrade NH 548D section (Adhalgaon to Jamkhed) to two lanes with paved shoulders configuration.",
     "coordinates": [
-      19.9478,
-      75.4885
+      19.9585,
+      75.7507
     ],
     "geo_source": "centroid"
   },
@@ -6453,7 +6453,7 @@
     "organization": "P4 Delhi",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH",
     "published_date": "14-May-2026 02:30 PM",
-    "closing_date": "31-Aug-2026 11:00 AM",
+    "closing_date": "30-Sep-2026 11:00 AM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sw%2FAc0DSefiB5%2FcCP5jdxQw%3D%3D",
@@ -6494,8 +6494,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for supervision of upgrading an existing Class 5 road (NH 505) to intermediate lane standards.",
     "coordinates": [
-      30.807,
-      77.1423
+      30.7227,
+      77.0687
     ],
     "geo_source": "centroid"
   },
@@ -6546,8 +6546,8 @@
     "category": "Consultancy",
     "summary": "Consultancy services for supervising the construction of an elevated corridor/grade separator between two squares.",
     "coordinates": [
-      12.2849,
-      79.9946
+      11.6651,
+      80.0501
     ],
     "geo_source": "centroid"
   },
@@ -6676,8 +6676,8 @@
     "category": "Maintenance",
     "summary": "Procurement of JCB with operator and fuel for monsoon mud cleaning along NH 309 B.",
     "coordinates": [
-      29.9173,
-      79.1517
+      30.3881,
+      78.7606
     ],
     "geo_source": "centroid"
   },
@@ -6702,8 +6702,8 @@
     "category": "Maintenance",
     "summary": "Cleaning debris on NH 309A from km 93-110 and 130-136 during monsoon using JCB machine and operator.",
     "coordinates": [
-      29.8073,
-      78.843
+      29.7538,
+      79.0324
     ],
     "geo_source": "centroid"
   },
@@ -6728,8 +6728,8 @@
     "category": "Maintenance",
     "summary": "Monsoon cleaning of dung and debris on NH 309A for road maintenance using JCB and tipper.",
     "coordinates": [
-      30.3087,
-      79.3787
+      30.3888,
+      79.3254
     ],
     "geo_source": "centroid"
   },
@@ -6754,8 +6754,8 @@
     "category": "Maintenance",
     "summary": "Supply JCB with operator and fuel for monsoon cleaning of NH 309 B (Km 0-30) near Barechhina.",
     "coordinates": [
-      29.8752,
-      79.3781
+      30.0336,
+      78.6204
     ],
     "geo_source": "centroid"
   },
@@ -6780,8 +6780,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for preparing DPR for 2LPS project on NH-143 (Old NH-23) near Gumla, Kolebira, Biramitrapur, JH-Odisha border.",
     "coordinates": [
-      23.2193,
-      85.06
+      23.4079,
+      85.6509
     ],
     "geo_source": "centroid"
   },
@@ -6806,8 +6806,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR of 4-laning projects on NH-220 and NH-20 sections in Jharkhand.",
     "coordinates": [
-      23.4003,
-      84.9613
+      23.253,
+      85.2765
     ],
     "geo_source": "centroid"
   },
@@ -6832,8 +6832,8 @@
     "category": "Maintenance",
     "summary": "Procurement of JCB machine, operator, and fuel for monsoon mud cleaning along NH 309 B.",
     "coordinates": [
-      30.4335,
-      79.3029
+      30.1631,
+      78.6542
     ],
     "geo_source": "centroid"
   },
@@ -6858,8 +6858,8 @@
     "category": "Bridge",
     "summary": "Construction of a new 2-lane Rail Over Bridge (ROB) replacing a level crossing in Nalgonda District.",
     "coordinates": [
-      18.2929,
-      78.7294
+      17.8877,
+      78.8573
     ],
     "geo_source": "centroid"
   },
@@ -6884,8 +6884,8 @@
     "category": "Maintenance",
     "summary": "Monsoon season cleaning of NH 87 Extension (km 80-105) using JCB and tipper with operator and fuel.",
     "coordinates": [
-      30.2928,
-      79.2901
+      30.185,
+      79.0632
     ],
     "geo_source": "centroid"
   },
@@ -6910,8 +6910,8 @@
     "category": "Maintenance",
     "summary": "Supply JCB with operator and fuel for monsoon mud cleaning on NH 87 Ext/109 from km 105 to 134.",
     "coordinates": [
-      29.7259,
-      78.7479
+      29.6963,
+      78.8434
     ],
     "geo_source": "centroid"
   },
@@ -6962,8 +6962,8 @@
     "category": "Maintenance",
     "summary": "Monsoon season mud cleaning on NH 87 Extension (New 109) Chuakhutia, Uttarakhand, using a JCB machine with operator and fuel.",
     "coordinates": [
-      30.4314,
-      78.7973
+      30.0986,
+      79.0298
     ],
     "geo_source": "centroid"
   },
@@ -6988,8 +6988,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for Detailed Project Report (DPR) for development of NH-143B and NH-143A national highways.",
     "coordinates": [
-      23.5094,
-      85.1207
+      23.4406,
+      85.3846
     ],
     "geo_source": "centroid"
   },
@@ -7014,8 +7014,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR preparation for Godda bypass (NH 333A) and realignment of NH 218 sections.",
     "coordinates": [
-      23.5607,
-      85.434
+      23.852,
+      85.5374
     ],
     "geo_source": "centroid"
   },
@@ -7248,8 +7248,8 @@
     "category": "Safety",
     "summary": "Installing galvanized iron barbed wire fencing for 5.2429 Ha of proposed CA land in Mahabubnagar District.",
     "coordinates": [
-      18.2762,
-      78.7128
+      18.4369,
+      79.3102
     ],
     "geo_source": "centroid"
   },
@@ -7274,8 +7274,8 @@
     "category": "Road Expansion",
     "summary": "Widening a section of NH-73 to a 4-lane highway with paved shoulders in Karnataka.",
     "coordinates": [
-      15.7095,
-      75.8369
+      15.2366,
+      75.4639
     ],
     "geo_source": "centroid"
   },
@@ -7300,8 +7300,8 @@
     "category": "Bridge",
     "summary": "Construction of a 2-lane Road Over Bridge replacing LC No 32 on the Narketpally-Munugode Road in Nalgonda District.",
     "coordinates": [
-      17.8006,
-      79.2643
+      18.107,
+      78.7745
     ],
     "geo_source": "centroid"
   },
@@ -7326,8 +7326,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for DPR preparation for 4-laning of NH 163 section from Manneguda to Ravulapally.",
     "coordinates": [
-      18.2093,
-      78.7988
+      17.9096,
+      79.4082
     ],
     "geo_source": "centroid"
   },
@@ -7404,8 +7404,8 @@
     "category": "Road Expansion",
     "summary": "Widening and strengthening a road from Gurajala to Chollaramaram in YadadriBhongir District (balance work).",
     "coordinates": [
-      18.1879,
-      78.9289
+      18.2592,
+      78.7519
     ],
     "geo_source": "centroid"
   },
@@ -7430,8 +7430,8 @@
     "category": "Maintenance",
     "summary": "Emergency repair of service and approach roads along NH 727 for the year 2025-26.",
     "coordinates": [
-      25.1811,
-      85.6558
+      24.8538,
+      85.2362
     ],
     "geo_source": "centroid"
   },
@@ -7560,8 +7560,8 @@
     "category": "Road Expansion",
     "summary": "Widening and strengthening existing road network in Yadadri Bhongir District, Telangana (balance work).",
     "coordinates": [
-      18.0888,
-      79.0926
+      18.2092,
+      79.1993
     ],
     "geo_source": "centroid"
   },
@@ -7612,8 +7612,8 @@
     "category": "Consultancy",
     "summary": "Consultancy for feasibility study and DPR for upgrading Mirzapur-Bhadohi section of NH 135A to 4/6 lane.",
     "coordinates": [
-      27.126,
-      80.6831
+      26.6998,
+      81.2157
     ],
     "geo_source": "centroid"
   },
@@ -7797,8 +7797,8 @@
     "summary": "Upgradation of existing two- lane with paved shoulders carriageway of Nagaur-Bikaner  Section of NH-62 from design km 161/000 to km…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.7486,
-      74.5916
+      26.7049,
+      74.0381
     ],
     "geo_source": "centroid"
   },
@@ -7878,8 +7878,8 @@
     "summary": "Consultancy Services for Feasibility Study and Preparation of Detailed Project Report DPR for 4L 6L of Kathipudi to Ongole Stretch of NH…",
     "enrichment_source": "rules",
     "coordinates": [
-      16.2265,
-      79.8573
+      16.1359,
+      79.9662
     ],
     "geo_source": "centroid"
   },
@@ -7986,8 +7986,8 @@
     "summary": "Providing consultancy services for DPR, FWD, wherever applicable, NSV, reports, other required investigations for Strengthening,…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.4815,
-      75.7007
+      15.3034,
+      75.4903
     ],
     "geo_source": "centroid"
   },
@@ -8040,8 +8040,8 @@
     "summary": "RFP for Appointment of Safety Consultant for the project of Four Laning of Navelim to Cuncolim section of NH-66 from Km.554.245 to Km…",
     "enrichment_source": "rules",
     "coordinates": [
-      19.722,
-      75.7384
+      20.1262,
+      75.4654
     ],
     "geo_source": "centroid"
   },
@@ -8094,8 +8094,8 @@
     "summary": "Authority Engineer Services for the Consultancy and Supervision of Construction of 2 new ROBs in parallel in lieu of LC. 6 at Km 284 3.4…",
     "enrichment_source": "rules",
     "coordinates": [
-      19.6211,
-      75.4491
+      19.6179,
+      76.1046
     ],
     "geo_source": "centroid"
   },
@@ -8121,8 +8121,8 @@
     "summary": "Construction of temporary diversion road for existing bridge at km 50/125 of NH-927C in the state of  Gujarat on Item rate mode.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.4684,
-      71.5052
+      22.0001,
+      71.1492
     ],
     "geo_source": "centroid"
   },
@@ -8175,8 +8175,8 @@
     "summary": "Consultancy services for preparation of Detailed Project Report for 4 laning of Outer Ring Road to Medak section of NH 765D from Km…",
     "enrichment_source": "rules",
     "coordinates": [
-      18.0949,
-      79.1523
+      18.4039,
+      79.1803
     ],
     "geo_source": "centroid"
   },
@@ -8229,8 +8229,8 @@
     "summary": "Providing consultancy services for preparation of Detailed project report DPR including, design calculation for pavement with supporting…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.6796,
-      75.778
+      15.4744,
+      75.8585
     ],
     "geo_source": "centroid"
   },
@@ -8256,8 +8256,8 @@
     "summary": "ProvidingconsultancyservicesforpreparationofDetailedProject…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.2992,
-      75.8495
+      15.6282,
+      75.8357
     ],
     "geo_source": "centroid"
   },
@@ -8337,8 +8337,8 @@
     "summary": "Maintenance of Bhadohi Varanasi section of NH 731B  from Km 54.800 to Km 89.285 under Special Repair under Maintenance and Repair on …",
     "enrichment_source": "rules",
     "coordinates": [
-      27.1545,
-      81.2651
+      26.4637,
+      80.7637
     ],
     "geo_source": "centroid"
   },
@@ -8391,8 +8391,8 @@
     "summary": "Consultancy Services for preparation of Detailed Project Report for Widening to two lane with PS from Chare to Akhegwo (Length 244 km)…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.1022,
-      93.0022
+      26.3929,
+      93.0569
     ],
     "geo_source": "centroid"
   },
@@ -8418,8 +8418,8 @@
     "summary": "Bhalej Ode Ahima Road Km 0/00 to 14/700 FDR, Asphalt work, CC \r\nRoad,Structure  work, RCC Rain water gutter, Crass Barriar and road…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3912,
-      78.967
+      20.4972,
+      78.9985
     ],
     "geo_source": "centroid"
   },
@@ -8445,8 +8445,8 @@
     "summary": "Short Term Maintenance Work from Km 0.00 (Mohania) to Km 10.80 (Total Length - 10.80 Km) of NH-219 under Short Term Maintenance Contract…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.7296,
-      85.2329
+      24.9284,
+      85.524
     ],
     "geo_source": "centroid"
   },
@@ -8472,8 +8472,8 @@
     "summary": "Repair and Rehabilitation of the existing major bridge at Km. 52/045 of NH-351G in the state of Gujarat on Item Rate Mode.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.2508,
-      70.9881
+      22.1013,
+      70.9365
     ],
     "geo_source": "centroid"
   },
@@ -8499,8 +8499,8 @@
     "summary": "Short Term Maintenance of NH-34 (Hirapur Damoh Road Section) from Km 36.000 to Km 43.000, Km 51.000 to Km 55.000, and Km 72.200 to Km…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.7738,
-      78.3825
+      23.119,
+      78.8227
     ],
     "geo_source": "centroid"
   },
@@ -8526,8 +8526,8 @@
     "summary": "Short Term Maintenance of NH-539 from Km 0.000 to Km 141.100 (selected reaches), having a Total Length of 40.400 Km, in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.8274,
-      78.9096
+      22.8869,
+      78.7034
     ],
     "geo_source": "centroid"
   },
@@ -8553,8 +8553,8 @@
     "summary": "Emergency work for Repairs to Roads and Bridges on NH-141 bet. Km. 5/560 to Km. 14/535  and NH-754K bet. Km. 00/00 to Km. 278/00  and …",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3104,
-      79.1329
+      20.2675,
+      79.196
     ],
     "geo_source": "centroid"
   },
@@ -8580,8 +8580,8 @@
     "summary": "Emergency work for Painting Center Lines, Zebra Crossings, and road furniture etc on NH-141 bet. Km. 5/560 to Km. 14/535  and NH-754K…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3543,
-      78.9637
+      20.4001,
+      79.1177
     ],
     "geo_source": "centroid"
   },
@@ -8607,8 +8607,8 @@
     "summary": "Emergency work for Supplying Of Sign Boards/ Road Furniture on NH-141 bet. Km. 5/560 to Km. 14/535  and NH-754K bet. Km. 00/00 to Km.…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.4626,
-      78.9526
+      20.7031,
+      78.597
     ],
     "geo_source": "centroid"
   },
@@ -8634,8 +8634,8 @@
     "summary": "Emergency work for Supplying  Quarry Materials on NH-141 bet. Km. 5/560 to Km. 14/535 and NH-754K bet. Km. 00/00 to Km. 278/00 and…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.8265,
-      79.0031
+      20.3852,
+      78.7333
     ],
     "geo_source": "centroid"
   },
@@ -8688,8 +8688,8 @@
     "summary": "Emergency work for Supplying Mix Materials for Bituminous patch work on NH-141 bet. Km. 5/560 to Km. 14/535  and NH-754K bet. Km. 00/00…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3248,
-      79.0422
+      20.2373,
+      78.8906
     ],
     "geo_source": "centroid"
   },
@@ -8715,8 +8715,8 @@
     "summary": "Short Term Maintenance Contract STMC of NH-122A (Vishwanathpur Chowk Ch. KM 0.000 to Kharka Basant Ch. KM 31.820) on Existing Alignment…",
     "enrichment_source": "rules",
     "coordinates": [
-      25.057,
-      85.1833
+      25.4391,
+      85.6022
     ],
     "geo_source": "centroid"
   },
@@ -8742,8 +8742,8 @@
     "summary": "CONSULTANCY SERVICES FOR AUTHORITYS ENGINEER FOR SUPERVISION OF THE WORK OF CONSTRUCTION\r\nOF 4-LANE WITH PAVED SHOULDER OF SRI MUKTSAR…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.7595,
-      75.4326
+      31.2302,
+      75.5169
     ],
     "geo_source": "centroid"
   },
@@ -8796,8 +8796,8 @@
     "summary": "RE-CONSTRUCTION  OF DECK  SLAB  OF  BRIDGE OVER  RIVER  NGENGPUI  AT 47.500 KMP OF NH-502A",
     "enrichment_source": "rules",
     "coordinates": [
-      25.8098,
-      93.237
+      26.5068,
+      92.9643
     ],
     "geo_source": "centroid"
   },
@@ -8850,8 +8850,8 @@
     "summary": "Strengthening of Tarsada-Kadod-Bardoli-Sarbhon-Navsari road Ch. 33/10 to 75/00 (W.S. Ch. 53/00 to 59/00 and 64/60 to 68/00) Dist.Surat.…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3803,
-      78.7822
+      20.5932,
+      78.9094
     ],
     "geo_source": "centroid"
   },
@@ -8877,8 +8877,8 @@
     "summary": "Strengthening work from 0.00 Paswan chowk to 58.450 Musharigharari of NH 103 New NH 322 on EPC Mode in state of Bihar Repair on Risk and…",
     "enrichment_source": "rules",
     "coordinates": [
-      25.3448,
-      85.0908
+      25.1162,
+      85.3646
     ],
     "geo_source": "centroid"
   },
@@ -8904,8 +8904,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.2816,
-      78.8812
+      20.9466,
+      79.1748
     ],
     "geo_source": "centroid"
   },
@@ -8931,8 +8931,8 @@
     "summary": "Special repair at essential locations on NH2 and NH306A",
     "enrichment_source": "rules",
     "coordinates": [
-      25.8187,
-      92.7555
+      25.9889,
+      92.5523
     ],
     "geo_source": "centroid"
   },
@@ -8958,8 +8958,8 @@
     "summary": "Performance Based Maintenance Contract for the Maintenance from Km 64.00 (Parsauni) to Km 97 and from Km 97 to Km 104.20 of NH 727 Under…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.9796,
-      84.9822
+      25.3859,
+      85.6712
     ],
     "geo_source": "centroid"
   },
@@ -8985,8 +8985,8 @@
     "summary": "Supply, Installation Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.7952,
-      85.6477
+      23.3754,
+      85.3064
     ],
     "geo_source": "centroid"
   },
@@ -9039,8 +9039,8 @@
     "summary": "Consultancy Services for Feasibility Study and Preparation of Detailed Project Report Widening and strengthening of Existing 2L to 2L PS…",
     "enrichment_source": "rules",
     "coordinates": [
-      21.3019,
-      85.4123
+      20.7253,
+      85.2272
     ],
     "geo_source": "centroid"
   },
@@ -9066,8 +9066,8 @@
     "summary": "Consultancy Services for Feasibility Study and Preparation of Detailed Project Report (DPR) Widening to 4L road of Barpalli- Balangir…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7056,
-      85.0437
+      20.9246,
+      84.9551
     ],
     "geo_source": "centroid"
   },
@@ -9093,8 +9093,8 @@
     "summary": "Consultancy Services for Feasibility Study and Preparation of Detailed Project Report (DPR) for construction 4 lane road from 0.000 km…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.9259,
-      85.1002
+      20.949,
+      85.0496
     ],
     "geo_source": "centroid"
   },
@@ -9174,8 +9174,8 @@
     "summary": "Consultancy Services for Engineering Road Safety Audit and Black Spot Rectification on NHs entrusted to Roads and Building Department in…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.6208,
-      80.0259
+      16.0032,
+      79.9534
     ],
     "geo_source": "centroid"
   },
@@ -9201,8 +9201,8 @@
     "summary": "CONSTRUCTION OF THE BOUNDARY OF THE DIVERTED FOREST LAND BY ERECTING FOUR FEET HIGH REINFORCED CEMENT CONCRETE PILLARS, EACH INSCRIBED…",
     "enrichment_source": "rules",
     "coordinates": [
-      27.2152,
-      74.0148
+      26.9897,
+      74.0358
     ],
     "geo_source": "centroid"
   },
@@ -9228,8 +9228,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.8406,
-      85.399
+      24.7221,
+      84.9314
     ],
     "geo_source": "centroid"
   },
@@ -9239,7 +9239,7 @@
     "organization": "P5 Delhi / LWE",
     "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH",
     "published_date": "15-Jul-2026 02:10 PM",
-    "closing_date": "01-Sep-2026 05:00 PM",
+    "closing_date": "30-Oct-2026 05:00 PM",
     "state": "Jharkhand",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S%2B0qY%2FAye1AhJZ5xrMaFMog%3D%3D",
@@ -9282,8 +9282,8 @@
     "summary": "Rehabilitation and Upgradation of existing road between km 0.00 to km 76.00 (Bhairoghati-Nelong-Naga-Sonam-PDA-Medikey) from…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.4,
-      78.714
+      30.3218,
+      78.9514
     ],
     "geo_source": "centroid"
   },
@@ -9336,8 +9336,8 @@
     "summary": "Short Term Maintenance of Sabalgarh-Morena Section of NH 552 Ext from KM 289 to Km 327 Length 39 Km under STMC Contract in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.0024,
-      78.6737
+      22.7307,
+      78.3275
     ],
     "geo_source": "centroid"
   },
@@ -9363,8 +9363,8 @@
     "summary": "Short Term Maintenance of Sabalgarh-Morena Section of NH 552 Ext from KM 328 to Km 360 Length 33 Km under STMC Contract in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.9894,
-      78.3612
+      23.1814,
+      78.5052
     ],
     "geo_source": "centroid"
   },
@@ -9390,8 +9390,8 @@
     "summary": "Short Term Maintenance of SHYAMPUR SABALGARH section of NH 552 Ext from KM 239 to Km 288 Length 50Km under STMC Contract in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.7521,
-      78.519
+      23.0194,
+      78.3459
     ],
     "geo_source": "centroid"
   },
@@ -9444,8 +9444,8 @@
     "summary": "Work of Short term Road and structures maintenance works and activities on section 21/03 Km to 66/03Km (Total 45.0 Km) Ganpati Chokdi…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.513,
-      78.9696
+      20.8454,
+      78.9196
     ],
     "geo_source": "centroid"
   },
@@ -9471,8 +9471,8 @@
     "summary": "Consultancy Services for Authority Engineer for supervision of Widening to Two Lane Paved Shoulders from Km 0.000 Mudigere to Km 26.326…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.2238,
-      75.4366
+      15.6194,
+      75.4815
     ],
     "geo_source": "centroid"
   },
@@ -9579,8 +9579,8 @@
     "summary": "Work of Short term Road and structures maintenance works and activities on section 66/03 Km to 122/20 Km Total 56.17 Km Kapadvanj Bayad…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.8109,
-      79.041
+      20.3587,
+      79.1651
     ],
     "geo_source": "centroid"
   },
@@ -9606,8 +9606,8 @@
     "summary": "Work of Short Term Road and maint works and on sec 1) 2) 3) 4) Aslali-Matar section 5) Boriavi-Lambhvel-Anand city section 6)…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.5947,
-      78.5907
+      20.7405,
+      78.9805
     ],
     "geo_source": "centroid"
   },
@@ -9633,8 +9633,8 @@
     "summary": "Consultancy Service for proof checking, assisting supervision of the work, QC of work of proposed ROB and its approaches in replacement…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.9031,
-      79.0989
+      20.4456,
+      78.9421
     ],
     "geo_source": "centroid"
   },
@@ -9698,7 +9698,7 @@
     "organization": "NH Division-Akola",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Akola - MoRTH",
     "published_date": "13-Jul-2026 01:00 PM",
-    "closing_date": "27-Aug-2026 05:30 PM",
+    "closing_date": "15-Sep-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SEN7L2rXVC5wiOqcr9SBkQA%3D%3D",
@@ -9741,8 +9741,8 @@
     "summary": "Strengthing work from Ch. 240.200 to Ch. 245.400 of NH-120 Dumraon Bazar for the F.Y 2026-27 in the state of Bihar",
     "enrichment_source": "rules",
     "coordinates": [
-      25.4021,
-      84.9678
+      24.8079,
+      85.4635
     ],
     "geo_source": "centroid"
   },
@@ -9768,8 +9768,8 @@
     "summary": "Short Term Maintenance of NH-543 (Balaghat Nainpur Section) from Km 1.000 to Km 63.000 (selected reaches), Total Length 31.600 Km, in…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.2888,
-      78.2996
+      22.7397,
+      78.2775
     ],
     "geo_source": "centroid"
   },
@@ -9795,8 +9795,8 @@
     "summary": "Short Term Maintenance of Anjad-Badwani Road Section of NH-347B from Km 36.00 to Km 51.10 (Length 15.10 Km) and Anjad-Thikri Road…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.6038,
-      78.8397
+      22.8483,
+      78.6762
     ],
     "geo_source": "centroid"
   },
@@ -9833,7 +9833,7 @@
     "organization": "NH Division-Salem",
     "org_chain": "Ministry of Road Transport and Highways||P7 Delh - MoRTH||RO Chennai - MoRTH||NH Division-Salem - MoRTH",
     "published_date": "10-Jul-2026 05:30 PM",
-    "closing_date": "27-Aug-2026 03:00 PM",
+    "closing_date": "07-Sep-2026 03:00 PM",
     "state": "Tamil Nadu",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SaRF3waVG3E%2BI8VKQ5NpgDA%3D%3D",
@@ -9887,11 +9887,11 @@
     "organization": "NH Division-Gandhidham",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Gandhidham - MoRTH",
     "published_date": "10-Jul-2026 05:00 PM",
-    "closing_date": "24-Aug-2026 04:00 PM",
+    "closing_date": "07-Sep-2026 04:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sjj3tZcKUFnvXERa3DvXMRg%3D%3D",
-    "status": "archived",
+    "status": "active",
     "contract_type": "Works",
     "work_description": "Short Term Maintenance of NH -754K on Section from Ghaduli to Zara Km. 19/900 to Km. 32/200 and Hajipir to Khavda Km. 54/000 to Km. 113/000 on NH-754K in the State of Gujarat.",
     "tender_value": "9,52,67,093",
@@ -9903,8 +9903,8 @@
     "summary": "Short Term Maintenance of NH -754K on Section from Ghaduli to Zara Km. 19/900 to Km. 32/200 and Hajipir to Khavda Km. 54/000 to Km.…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.2811,
-      70.9145
+      22.1893,
+      71.5066
     ],
     "geo_source": "centroid"
   },
@@ -9930,8 +9930,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.4796,
-      93.0652
+      26.078,
+      92.7452
     ],
     "geo_source": "centroid"
   },
@@ -9957,8 +9957,8 @@
     "summary": "Providing three Foot over Bridges FoBs from Km 9.900 to 17.10 and road safety intervention from Km 21.150 to Km 22.300 on Hyderabad…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.9304,
-      79.1714
+      17.9349,
+      78.9615
     ],
     "geo_source": "centroid"
   },
@@ -9972,7 +9972,7 @@
     "state": "Punjab",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SCK7%2BN78rHJYcNREZlctxfw%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway Lighting on National Highways entrusted to Punjab State PWD on Five 05 Year Contract Basis",
     "tender_value": "NA",
@@ -9984,8 +9984,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      31.3172,
-      75.6137
+      31.133,
+      75.7096
     ],
     "geo_source": "centroid"
   },
@@ -10011,8 +10011,8 @@
     "summary": "Repair to unrectified maintenance works of NH 26 from KM 351480 to 367480 and from Km 376480 to 434767 KM Koraput to Sunki Ghat",
     "enrichment_source": "rules",
     "coordinates": [
-      21.1235,
-      84.775
+      21.0233,
+      84.8101
     ],
     "geo_source": "centroid"
   },
@@ -10038,8 +10038,8 @@
     "summary": "Consultancy Services for Engineering Road Safety Audit and Black Spot Rectification on NHs entrusted to Roads and Building Department in…",
     "enrichment_source": "rules",
     "coordinates": [
-      16.2934,
-      79.8696
+      16.2834,
+      79.7573
     ],
     "geo_source": "centroid"
   },
@@ -10200,8 +10200,8 @@
     "summary": "Consultancy Services for feasibility study and preparation of (DPR) for Widening/Upgradation to 2L/4L PS from barabanki to Lakhimpur of…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.5704,
-      81.3055
+      26.5052,
+      81.3281
     ],
     "geo_source": "centroid"
   },
@@ -10227,8 +10227,8 @@
     "summary": "Consultancy Services for Preparation of DPR for widening to Four lane with Paved Shoulder from Two lane with Paved Shoulder from Km.0.00…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.2073,
-      76.0257
+      15.6713,
+      75.9346
     ],
     "geo_source": "centroid"
   },
@@ -10254,8 +10254,8 @@
     "summary": "Maintenance of road from Km.39.100 to Km.85.560 of NH-143AG for year 2026-27 in the State of Jharkhand under SR",
     "enrichment_source": "rules",
     "coordinates": [
-      23.6653,
-      85.2082
+      23.4694,
+      85.2793
     ],
     "geo_source": "centroid"
   },
@@ -10265,7 +10265,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "08-Jul-2026 09:00 AM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "10-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SEbtvsjFbYMPsO1nzlBs0rQ%3D%3D",
@@ -10292,7 +10292,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "08-Jul-2026 09:00 AM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SPPfCl8N2azQgc88dI7qDhA%3D%3D",
@@ -10319,7 +10319,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "08-Jul-2026 09:00 AM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SKGf1CRYypDg7%2FCWco3sFUg%3D%3D",
@@ -10335,8 +10335,8 @@
     "summary": "Short Term Improvement and Routine Maintenance work Road Pavement Repairs work on Section Dhasa-Gadhada-Botad road (Between Km. 74/00 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.293,
-      70.8409
+      22.486,
+      71.3675
     ],
     "geo_source": "centroid"
   },
@@ -10346,7 +10346,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 06:50 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "10-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SHcZISGZetIxQjwd24jogag%3D%3D",
@@ -10373,7 +10373,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 06:35 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SrZyZL8YQxed8EDp827FPrQ%3D%3D",
@@ -10400,7 +10400,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 06:15 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S91fWWhgfh3ZKAgMrsS6MmA%3D%3D",
@@ -10427,7 +10427,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 06:05 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S%2FwL%2BRHQ1b7oNYQL6ctScnA%3D%3D",
@@ -10443,8 +10443,8 @@
     "summary": "Short Term Maintenance on NH-351G Between Km. 169/220 to Km. 203/620 (Kamlapur-Chotila Section) in the state of Gujarat.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.1781,
-      71.2265
+      22.0899,
+      71.2336
     ],
     "geo_source": "centroid"
   },
@@ -10454,7 +10454,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 06:00 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SyaHy3Is6mo68fFb4Bv%2B4QA%3D%3D",
@@ -10470,8 +10470,8 @@
     "summary": "Short Term Improvement and Routine Maintenance of Km. 78/700 to 116/600 (For Amreli-Babra section) of NH-351G in the state of Gujarat.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.4673,
-      71.1146
+      22.0741,
+      71.3084
     ],
     "geo_source": "centroid"
   },
@@ -10481,7 +10481,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 05:50 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sxnzo5q7Cjle2p%2BCXJH9meg%3D%3D",
@@ -10497,8 +10497,8 @@
     "summary": "Short Term Maintenance of NH-351G Km. 0/00 to 62/200 Nageshree-Khambha-Chalala Road in the state of Gujarat.",
     "enrichment_source": "rules",
     "coordinates": [
-      21.876,
-      71.0554
+      22.5037,
+      71.3952
     ],
     "geo_source": "centroid"
   },
@@ -10524,8 +10524,8 @@
     "summary": "Independent Engineer Services for Upgradation of Tikamgarh Badagon Ghuwara Shahgarh Section of NH-539 (Km 75.000 to 155.700, Length…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.9808,
-      78.9516
+      23.2307,
+      78.8663
     ],
     "geo_source": "centroid"
   },
@@ -10535,7 +10535,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 05:10 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "10-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S28OjonLg8oJ89AwdE9CH6Q%3D%3D",
@@ -10562,7 +10562,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "07-Jul-2026 04:55 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "15-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sae8UW7f24cJSIg%2B4G5q%2FEQ%3D%3D",
@@ -10578,8 +10578,8 @@
     "summary": "Short Term Improvement and Routine Maintenance of Km. 34/480 to 74/00 (for Vartej Dhasa section) of NH-51 in the state of Gujarat.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.021,
-      71.2788
+      22.252,
+      71.3533
     ],
     "geo_source": "centroid"
   },
@@ -10659,8 +10659,8 @@
     "summary": "Consultancy Services for Authority Engineer for supervision of Widening of existing 2 lane to 4 lane with paved shoulder from design…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.3078,
-      75.5344
+      15.5773,
+      75.4735
     ],
     "geo_source": "centroid"
   },
@@ -10686,8 +10686,8 @@
     "summary": "Consultancy Services for Authority Engineer for supervision of Widening to 2L PS from Km. 0.00 to 37.850 except 24.45 To 27.20 of NH…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.4501,
-      75.7328
+      15.3552,
+      75.5708
     ],
     "geo_source": "centroid"
   },
@@ -10767,8 +10767,8 @@
     "summary": "Consultancy Services for DPR preparation for 2LPS of NH-320D from Km 0.00 to Km 86.00 in the State of Jharkhand.",
     "enrichment_source": "rules",
     "coordinates": [
-      23.5313,
-      85.5741
+      23.7591,
+      85.1548
     ],
     "geo_source": "centroid"
   },
@@ -10794,8 +10794,8 @@
     "summary": "Short Term Maintenance of MP/UP Border-Chitrangi Section of NH-135C from Km 0.00 to Km 54.00 (Total Length 54.00 Km) in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.6422,
-      78.8885
+      22.7631,
+      78.4881
     ],
     "geo_source": "centroid"
   },
@@ -10821,8 +10821,8 @@
     "summary": "Short Term Maintenance of NH-135B Rewa-Sirmour-Dabhoura Section from Km 38.00 to Km 75.00 (total length of 38.00 km) in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.0555,
-      78.5901
+      22.6352,
+      78.4961
     ],
     "geo_source": "centroid"
   },
@@ -10875,8 +10875,8 @@
     "summary": "Short Term Maintenance of NH 135 BD near Sirmour, Kolha, Rajgarh, Kyoti, Bagahaiya, Lalgaon, Pangadi and termination at its junction…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.2624,
-      78.6213
+      22.9837,
+      78.3114
     ],
     "geo_source": "centroid"
   },
@@ -10902,8 +10902,8 @@
     "summary": "Consultancy Services for preparation of Detailed Project Report (DPR) for 2LPS of NH-133A , NH-333A ,  Godda bypass on NH-333A and…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.2666,
-      85.2897
+      23.7781,
+      85.6122
     ],
     "geo_source": "centroid"
   },
@@ -10929,8 +10929,8 @@
     "summary": "Short Term Maintenance of Bargarh-Dabhoura Road from Km 0.00 to Km 8.00 of NH-135BB in the State of Madhya Pradesh.",
     "enrichment_source": "rules",
     "coordinates": [
-      23.2606,
-      78.4028
+      22.9119,
+      78.7876
     ],
     "geo_source": "centroid"
   },
@@ -10956,8 +10956,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.7761,
-      81.3227
+      26.5541,
+      80.9805
     ],
     "geo_source": "centroid"
   },
@@ -10983,8 +10983,8 @@
     "summary": "Widening and Strengthening of Single and Intermediate lane to 2 Lane with paved shoulder from existing Chainage (Km 53.873 to Km 59.700)…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.3945,
-      79.3224
+      29.6712,
+      78.6549
     ],
     "geo_source": "centroid"
   },
@@ -11064,8 +11064,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.1992,
-      93.0321
+      26.0456,
+      92.7159
     ],
     "geo_source": "centroid"
   },
@@ -11091,8 +11091,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.1352,
-      93.2413
+      26.0938,
+      92.9304
     ],
     "geo_source": "centroid"
   },
@@ -11118,8 +11118,8 @@
     "summary": "Widening to 2 Lane paved shoulder from Existing Chainage 12.000 to Km 40.500 Badhwala to Lakhwar Bend Realignment from km. 12.00 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.0469,
-      79.3796
+      30.4655,
+      78.7375
     ],
     "geo_source": "centroid"
   },
@@ -11145,8 +11145,8 @@
     "summary": "Short Term Maintenance of Nainpur-Balaghat on NH-543 (4 to 7,8.6 to17, 21 to 25, 28, 29, 45, 49 to 52, 54, 55, 57 to 61, 64 to 80.60)…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.9044,
-      78.9017
+      22.6114,
+      78.5781
     ],
     "geo_source": "centroid"
   },
@@ -11199,8 +11199,8 @@
     "summary": "Short term maintenance  Garra Waraseoni   to Tumsar MH border road from  km 0 to 46.98 km (Total length-46.98Km) of NH-543K in the State…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.6126,
-      78.7575
+      23.293,
+      78.7976
     ],
     "geo_source": "centroid"
   },
@@ -11280,8 +11280,8 @@
     "summary": "Short Term Maintenance of Spacial Repair of Existing MH/MP Border to Jasondhi road section of NH-161G from Km 0.00  to km 13.8 (Total…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.9787,
-      78.8848
+      22.646,
+      78.5735
     ],
     "geo_source": "centroid"
   },
@@ -11361,8 +11361,8 @@
     "summary": "One Time Improvement Bypassed stretches of Chennamsettipalle Bethamcherla and Dhone from Km. 0.000 to 0.664 11.000 to 19.800 and Km.…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.9412,
-      79.682
+      15.7634,
+      79.5883
     ],
     "geo_source": "centroid"
   },
@@ -11415,8 +11415,8 @@
     "summary": "Short Term Maintenance of Rigid Pavement of NH 347C Dhar to Gujri section from Km 0/000 to Km 49.985 (length 49.985 km) in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.6385,
-      78.9813
+      22.5907,
+      78.7132
     ],
     "geo_source": "centroid"
   },
@@ -11442,8 +11442,8 @@
     "summary": "Short Term Maintenance of km 35.00 to  68.68 Km  i/c road safety work on NH 548C Betul (Khedi to MP/MH border Paratwara Road (Total…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.3375,
-      78.9766
+      23.1482,
+      78.8871
     ],
     "geo_source": "centroid"
   },
@@ -11469,8 +11469,8 @@
     "summary": "Short Term Maintenance of Betul (Khedi to MP/MH border Paratwara Road of NH-548C from km 0.00 to Km 35Km (Length 35Km) in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.0053,
-      78.694
+      23.3278,
+      78.5837
     ],
     "geo_source": "centroid"
   },
@@ -11523,8 +11523,8 @@
     "summary": "Short Term Maintenance estimate for highway from km 1 to 35, 44 to 50 and 56 to 71 Total length 58 Km on NH - 34 Damoh-Hirapur Road in…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.7017,
-      78.8846
+      22.6444,
+      78.9434
     ],
     "geo_source": "centroid"
   },
@@ -11534,7 +11534,7 @@
     "organization": "RO Jaipur",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Jaipur - MoRTH",
     "published_date": "30-Jun-2026 05:30 PM",
-    "closing_date": "27-Aug-2026 03:00 PM",
+    "closing_date": "07-Sep-2026 03:00 PM",
     "state": "Rajasthan",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Svhkl2budt0lFFQYZ3o3TpQ%3D%3D",
@@ -11550,8 +11550,8 @@
     "summary": "Supply Installation Testing, Commissioning Operation and Maintenance of Centralized Control and Monitoring System CCMS for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      27.3671,
-      74.342
+      27.4208,
+      74.6087
     ],
     "geo_source": "centroid"
   },
@@ -11561,7 +11561,7 @@
     "organization": "NH Division-Rajkot",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
     "published_date": "30-Jun-2026 04:00 PM",
-    "closing_date": "27-Aug-2026 02:00 PM",
+    "closing_date": "10-Sep-2026 02:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SQOJ0yAbPOBLU317rkk0AsQ%3D%3D",
@@ -11577,8 +11577,8 @@
     "summary": "Short Term Improvement and Routine Maintenance work on Tad-Kesariya section (Between Km. 11/00 to Km. 19/00) of NH-251 in the state of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.5275,
-      71.3009
+      22.6132,
+      71.1397
     ],
     "geo_source": "centroid"
   },
@@ -11604,8 +11604,8 @@
     "summary": "Short Term Maintenance estimate for highway from km 4 to 30 length 27.00 Km on NH-539 Orchha-Tikamgarh Road and  km 109,110 and 127 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.1627,
-      78.6825
+      23.0834,
+      78.816
     ],
     "geo_source": "centroid"
   },
@@ -11712,8 +11712,8 @@
     "summary": "widening of existing Single / Intermediate lane to 2- lane with paved shoulder from km 0.00 to km 175.00 (Tyuni to Bataghat) of…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.3668,
-      78.6658
+      30.4342,
+      79.1192
     ],
     "geo_source": "centroid"
   },
@@ -11739,8 +11739,8 @@
     "summary": "Widening of existing single /intermediate lane to 2 lane and 2 lane with paved shoulder from Km. 0.00 to 80.00 Ghat to Udiyari Bend of…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.361,
-      78.9963
+      29.6988,
+      78.9839
     ],
     "geo_source": "centroid"
   },
@@ -11750,7 +11750,7 @@
     "organization": "NH Uttarakhand PWD-NH-Section-Dehradun",
     "org_chain": "Ministry of Road Transport and Highways||P1 Delhi - MoRTH||RO Dehradun - MoRTH||NH Uttarakhand PWD-NH-Section-Dehradun - MoRTH",
     "published_date": "27-Jun-2026 05:00 PM",
-    "closing_date": "26-Aug-2026 05:00 PM",
+    "closing_date": "09-Sep-2026 05:00 PM",
     "state": "Uttarakhand",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SxiagJRMKwjKfRN2He99ffQ%3D%3D",
@@ -11766,8 +11766,8 @@
     "summary": "Widening of existing single /intermediate lane to 2 lane and 2 lane with paved shoulder from Km. 0.00 to 235.00 Jyolikot to Karanprayag…",
     "enrichment_source": "rules",
     "coordinates": [
-      29.8124,
-      78.8142
+      29.8665,
+      78.6207
     ],
     "geo_source": "centroid"
   },
@@ -11793,8 +11793,8 @@
     "summary": "SSupply Installation Testing  Commissioning  Operation and Maintenance of Centralized Control and Monitoring System CCMS for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      16.1042,
-      79.7309
+      16.171,
+      79.5906
     ],
     "geo_source": "centroid"
   },
@@ -11820,8 +11820,8 @@
     "summary": "Improvement of the existing damaged pavement of NH 702D from Km 0.000 to Km 63.000 under PWD NH Div Mokokchung in the state of Nagaland",
     "enrichment_source": "rules",
     "coordinates": [
-      25.9236,
-      93.2203
+      26.3046,
+      93.0359
     ],
     "geo_source": "centroid"
   },
@@ -11847,8 +11847,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.5032,
-      93.3073
+      26.1091,
+      93.0309
     ],
     "geo_source": "centroid"
   },
@@ -11874,8 +11874,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.1204,
-      93.2657
+      25.8379,
+      92.5705
     ],
     "geo_source": "centroid"
   },
@@ -11901,8 +11901,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.0329,
-      93.061
+      26.063,
+      92.6339
     ],
     "geo_source": "centroid"
   },
@@ -11982,8 +11982,8 @@
     "summary": "Consultancy services for Authoritys Engineer for Supervision of Work of Upgradation of Shahgarh Buxwaha Narsinghgarh Damoh section of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.7521,
-      78.7725
+      22.8582,
+      78.3969
     ],
     "geo_source": "centroid"
   },
@@ -12009,8 +12009,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.2676,
-      92.8097
+      25.9087,
+      93.1393
     ],
     "geo_source": "centroid"
   },
@@ -12020,11 +12020,11 @@
     "organization": "NH Division-Gandhidham",
     "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Gandhidham - MoRTH",
     "published_date": "24-Jun-2026 06:30 PM",
-    "closing_date": "24-Aug-2026 04:00 PM",
+    "closing_date": "07-Sep-2026 04:00 PM",
     "state": "Gujarat",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SQGzcwpUHnYRUhd1At4d2tw%3D%3D",
-    "status": "archived",
+    "status": "active",
     "contract_type": "Works",
     "work_description": "Short term Maintenance between Km. 221/800 to 290/200 Naliya - Narayan Sarovar Road of NH-41 in the State of Gujarat.",
     "tender_value": "6,39,10,069",
@@ -12036,8 +12036,8 @@
     "summary": "Short term Maintenance between Km. 221/800 to 290/200 Naliya - Narayan Sarovar Road of NH-41 in the State of Gujarat.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.1982,
-      71.128
+      22.4525,
+      71.266
     ],
     "geo_source": "centroid"
   },
@@ -12063,8 +12063,8 @@
     "summary": "Open Tender Document for E-Procurement of Laboratory Equipment (NDT, Epoxy, Thermoplastic, Sign Board and Sheeting, Metal Beam Crash…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.975,
-      79.272
+      20.6946,
+      79.016
     ],
     "geo_source": "centroid"
   },
@@ -12090,8 +12090,8 @@
     "summary": "Pamol Khadol Road. Km.0/00 to 4/200. (FDR,  Asphaltic Work, CC Road, Structure Work, Road  Furniture and Miscellaneous Work) CRIF Work…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.5117,
-      78.996
+      20.3414,
+      78.8049
     ],
     "geo_source": "centroid"
   },
@@ -12117,8 +12117,8 @@
     "summary": "Widening and strengthening to 2-Lane with Paved Shoulder of NH-322 Musrigharari to Darbhanga (Km 72.05 to Km 96.00) in the state of…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.8179,
-      84.9435
+      25.2859,
+      85.5678
     ],
     "geo_source": "centroid"
   },
@@ -12144,8 +12144,8 @@
     "summary": "Widening of existing single /intermediate lane to 2-lane with paved shoulder from km. 175.00 to 311.00 (Bataghat to Maletha) on NH-707A…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.352,
-      79.2186
+      29.9986,
+      78.8731
     ],
     "geo_source": "centroid"
   },
@@ -12225,8 +12225,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.2077,
-      93.2771
+      26.2402,
+      93.067
     ],
     "geo_source": "centroid"
   },
@@ -12360,8 +12360,8 @@
     "summary": "Short Term Maintenance of Hyderabad  Srisailam road at stretches from Km 128.600 to Km 142.000  Km 146.000 to Km 148.000  Km 149.000 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.7946,
-      78.714
+      18.2781,
+      78.901
     ],
     "geo_source": "centroid"
   },
@@ -12414,8 +12414,8 @@
     "summary": "Dimensional Consignments (HT-03) of 12-axle configuration carrying approx 100 Tonne Wire Ropes on bridge approaches and curves for the…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.4513,
-      78.8767
+      29.946,
+      78.9013
     ],
     "geo_source": "centroid"
   },
@@ -12441,8 +12441,8 @@
     "summary": "Consultancy services for Authoritys Engineer for supervision of Upgradation and construction of Ambua to MP/Gujrat Border road section…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.9082,
-      78.4091
+      22.725,
+      78.4362
     ],
     "geo_source": "centroid"
   },
@@ -12468,8 +12468,8 @@
     "summary": "Consultancy services for Authoritys Engineer for supervision of Upgradation of Multai to MP/MH Boarder section of NH-347A from 0.00 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.889,
-      78.9008
+      22.6678,
+      78.4654
     ],
     "geo_source": "centroid"
   },
@@ -12495,8 +12495,8 @@
     "summary": "Performance Based Maintenance Contract from Km 58.125 to Km 93.68 on NH373 Hassan Tanniruhalla Holenarasipura town pertaining to…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.5021,
-      75.5459
+      15.4788,
+      75.3583
     ],
     "geo_source": "centroid"
   },
@@ -12576,8 +12576,8 @@
     "summary": "As per tender",
     "enrichment_source": "rules",
     "coordinates": [
-      26.3233,
-      92.6715
+      25.9997,
+      93.264
     ],
     "geo_source": "centroid"
   },
@@ -12603,8 +12603,8 @@
     "summary": "Consultancy Services For Authoritys Engineer for Supervision of Work of Upgradation and Reconstruction of Sirmaur-Dabhaura Section of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.9087,
-      78.5995
+      23.1635,
+      78.306
     ],
     "geo_source": "centroid"
   },
@@ -12657,8 +12657,8 @@
     "summary": "Strengthening and Reconstruction of NH-6 (Spur) from Km 0.00 to Km 38.80 in the state of Mizoram",
     "enrichment_source": "rules",
     "coordinates": [
-      26.3998,
-      92.6386
+      25.8705,
+      92.8465
     ],
     "geo_source": "centroid"
   },
@@ -12765,8 +12765,8 @@
     "summary": "As Per Tender Document",
     "enrichment_source": "rules",
     "coordinates": [
-      26.4805,
-      80.6627
+      27.1078,
+      80.9028
     ],
     "geo_source": "centroid"
   },
@@ -12819,8 +12819,8 @@
     "summary": "Four Laning of Cuncolim- Bendordem (Including Cuncolim- Bali bypass) Section of NH-66 from Km. 561.480 to Km. 570.190 in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      19.4392,
-      76.054
+      19.5244,
+      75.7884
     ],
     "geo_source": "centroid"
   },
@@ -12900,8 +12900,8 @@
     "summary": "Consultancy Services of Authoritys Engineer for supervision of Rehabilitation and up-gradation to 2-lane configuration of Kangarchina to…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.4632,
-      78.8503
+      30.1812,
+      79.3973
     ],
     "geo_source": "centroid"
   },
@@ -12927,8 +12927,8 @@
     "summary": "Consultancy Services for Authoritys Engineer for supervision of Rehabilitation and up-gradation to 2lane configuration of NH309A from km…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.0385,
-      78.8757
+      30.3223,
+      78.8911
     ],
     "geo_source": "centroid"
   },
@@ -12954,8 +12954,8 @@
     "summary": "Consultancy Services for preparation of DPR for upgradation of NH30 Chilpi to Simga Section km 0 to km 117538 for 2 Lane to 4 Lane with…",
     "enrichment_source": "rules",
     "coordinates": [
-      21.3673,
-      82.0017
+      21.542,
+      81.4984
     ],
     "geo_source": "centroid"
   },
@@ -13008,8 +13008,8 @@
     "summary": "Consultancy Services for Authority Engineer for supervision of i Widening to 4L PS of NH 548B from Km. 80.000 Near Murgundi to Km.…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.3942,
-      75.9934
+      15.6753,
+      75.6058
     ],
     "geo_source": "centroid"
   },
@@ -13035,8 +13035,8 @@
     "summary": "Rehabilitation and Upgradation of existing road between km 29.300 to km 86.120 Jhala to Heena from existing/single lane to double lane…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.2952,
-      79.0098
+      29.8554,
+      79.2544
     ],
     "geo_source": "centroid"
   },
@@ -13062,8 +13062,8 @@
     "summary": "Balance Work Estimate of Rehabilitation and Upgradation of NH78_New NH43 from Km 468600 to Km 531250 Pathalgaon to Kunkuri Section to 2…",
     "enrichment_source": "rules",
     "coordinates": [
-      21.5632,
-      82.1411
+      21.1114,
+      81.9102
     ],
     "geo_source": "centroid"
   },
@@ -13089,8 +13089,8 @@
     "summary": "Widening to 2 lane with paved shoulder from existing chainage 12.00 to 40.50 (Badwala to Lakhwar Bend) (realignment from km 12.00 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.179,
-      78.9376
+      30.4084,
+      79.3634
     ],
     "geo_source": "centroid"
   },
@@ -13116,8 +13116,8 @@
     "summary": "Short Term Maintenance of (i) Kalyan - Nirmal - Jagtial road (NH-61) from Km 707/055 to 753/890 (ii) Nizamabad - Jagadalpur section of…",
     "enrichment_source": "rules",
     "coordinates": [
-      18.0672,
-      79.2543
+      18.4479,
+      79.0064
     ],
     "geo_source": "centroid"
   },
@@ -13143,8 +13143,8 @@
     "summary": "Short Term Maintenance of Alinagar Miryalaguda Kodad Section of NH 167 from km 157.707 to 234.434 along with 320m link road in…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.8216,
-      79.4105
+      18.0151,
+      78.7373
     ],
     "geo_source": "centroid"
   },
@@ -13170,8 +13170,8 @@
     "summary": "Construction of diversion (length 685m) due to damaged H.L. Bridge (9x25m) over Batane River in Km. 141.00 of NH-139 for the year 2026-27.",
     "enrichment_source": "rules",
     "coordinates": [
-      25.1748,
-      85.3541
+      25.3894,
+      85.3614
     ],
     "geo_source": "centroid"
   },
@@ -13251,8 +13251,8 @@
     "summary": "One time Improvements of realigned charakonda bypassed stretch on Kalwakurthy Mallepally Section of NH 167  erstwhile SH 18 from km…",
     "enrichment_source": "rules",
     "coordinates": [
-      18.113,
-      79.0878
+      18.2728,
+      78.9518
     ],
     "geo_source": "centroid"
   },
@@ -13278,8 +13278,8 @@
     "summary": "One time improvement of bypass stretches on Kalwakurthy from Km 1.400 to 3.600  on Existing road Kalwakurthy Nagarkurnool  Nagarkurnool…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.7733,
-      79.0217
+      18.2035,
+      79.3345
     ],
     "geo_source": "centroid"
   },
@@ -13305,8 +13305,8 @@
     "summary": "One time improvement of bypassed stretches from existing km 13.568 to 18.010 erstwhile chainages on NH 161B in the State of Telangana",
     "enrichment_source": "rules",
     "coordinates": [
-      17.8826,
-      78.9816
+      18.3299,
+      79.0413
     ],
     "geo_source": "centroid"
   },
@@ -13332,8 +13332,8 @@
     "summary": "Construction of Uni-Directional twin tunnels including approach roads across Fotu La Pass on NH-01 (Leh-Kargil Highway) in the Union…",
     "enrichment_source": "rules",
     "coordinates": [
-      31.1984,
-      75.0255
+      31.4947,
+      75.5694
     ],
     "geo_source": "centroid"
   },
@@ -13359,8 +13359,8 @@
     "summary": "Performance Based Maintenance Contract Work of on Flexible and Rigid Pavement of Maksudangarh - Sironj Section Km 42.510 to 92.640 of…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.7519,
-      78.2885
+      23.1654,
+      78.9977
     ],
     "geo_source": "centroid"
   },
@@ -13440,8 +13440,8 @@
     "summary": "RFP for Construction of 4 Laning of NH-727 from Km. 4.115 to km 23.800 i/c Padrauna bypass and 2 lane with ps from km 23.800 to km…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.5355,
-      80.777
+      26.7523,
+      80.6995
     ],
     "geo_source": "centroid"
   },
@@ -13467,8 +13467,8 @@
     "summary": "Consultancy Services for Authority Engineer for supervision of Widening to 2LPS From Km 156.900 to Km 175.00 Dugadda to Gumkhal of…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.1854,
-      78.9731
+      30.342,
+      78.7181
     ],
     "geo_source": "centroid"
   },
@@ -13478,7 +13478,7 @@
     "organization": "NH Division-Nagpur",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Nagpur - MoRTH",
     "published_date": "27-Jul-2026 05:50 PM",
-    "closing_date": "25-Aug-2026 05:00 PM",
+    "closing_date": "27-Aug-2026 05:00 PM",
     "state": "Maharashtra",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SIEtdkARxfOGCsDNHjFrWjA%3D%3D",
@@ -13521,8 +13521,8 @@
     "summary": "Construction of Retaining Wall at selected 5 location of NH 75 B C Road Vellore Section",
     "enrichment_source": "rules",
     "coordinates": [
-      15.3672,
-      75.587
+      15.3081,
+      75.9707
     ],
     "geo_source": "centroid"
   },
@@ -13548,8 +13548,8 @@
     "summary": "Providing Barbed Wire Fencing around the proposed CA Land at Kothakonda, H/o. Ramchandrapuram Village, Bayyaram Mandal, Mahabubabad…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.8331,
-      79.2194
+      18.4348,
+      78.7642
     ],
     "geo_source": "centroid"
   },
@@ -13575,8 +13575,8 @@
     "summary": "Performance Based Maintenance Contract from Km 99.200 to Km 113.710 on NH 73 Kottigehara to Mudigere Handpost pertaining to Executive…",
     "enrichment_source": "rules",
     "coordinates": [
-      14.9646,
-      75.554
+      15.6795,
+      75.3898
     ],
     "geo_source": "centroid"
   },
@@ -13656,8 +13656,8 @@
     "summary": "Consultancy services for preparation of Detailed Project Report (DPR) for 4 laning of Manneguda to Ravulapally section of NH-163 from Km…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.9152,
-      79.2042
+      18.359,
+      78.9407
     ],
     "geo_source": "centroid"
   },
@@ -13737,8 +13737,8 @@
     "summary": "RFP for Appointment of Safety Consultant for Four Laning of Benordem - Start of\r\nCanacona Bypass (km 570.190 to km 584.880) and End of…",
     "enrichment_source": "rules",
     "coordinates": [
-      19.4817,
-      75.716
+      19.6574,
+      75.9099
     ],
     "geo_source": "centroid"
   },
@@ -13845,8 +13845,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.8794,
-      87.8825
+      22.8555,
+      87.8227
     ],
     "geo_source": "centroid"
   },
@@ -13872,8 +13872,8 @@
     "summary": "Reconstruction of minor Bridge at ch. Km. 166-400 of NH-41 in the state of Gujarat.",
     "enrichment_source": "rules",
     "coordinates": [
-      22.395,
-      71.4055
+      22.4815,
+      71.3629
     ],
     "geo_source": "centroid"
   },
@@ -13899,8 +13899,8 @@
     "summary": "Emergency work for Repairs to Roads and Bridges to  NH-41 bet. Km. 122.200 to 291.450 Section Mundra-Mandvi- Naliya- Narayan Sarovar Road.",
     "enrichment_source": "rules",
     "coordinates": [
-      20.5208,
-      78.8749
+      20.7082,
+      78.989
     ],
     "geo_source": "centroid"
   },
@@ -13926,8 +13926,8 @@
     "summary": "Emergency work for Painting Center Lines, Zebra Crossings, and road furniture etc on NH-41 bet. Km. 122.200 to 291.450 Section…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.841,
-      79.2511
+      20.774,
+      78.8227
     ],
     "geo_source": "centroid"
   },
@@ -13953,8 +13953,8 @@
     "summary": "Emergency work for Supplying Of Sign Boards/ Road Furniture on NH-41 bet. Km. 122.200 to 291.450 Section Mundra-Mandvi- Naliya- Narayan…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7424,
-      78.8989
+      20.4383,
+      79.0937
     ],
     "geo_source": "centroid"
   },
@@ -13980,8 +13980,8 @@
     "summary": "Emergency work for Supplying  Quarry Materials on NH-41 bet. Km. 122.200 to 291.450 Section Mundra-Mandvi- Naliya- Narayan Sarovar Road.",
     "enrichment_source": "rules",
     "coordinates": [
-      20.6777,
-      79.1735
+      20.5584,
+      79.0432
     ],
     "geo_source": "centroid"
   },
@@ -14007,8 +14007,8 @@
     "summary": "Emergency work for Supplying Mix Materials for Bituminous patch work on NH-41 bet. Km. 122.200 to 291.450 Section Mundra-Mandvi- Naliya-…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.6752,
-      78.8474
+      20.9546,
+      78.8691
     ],
     "geo_source": "centroid"
   },
@@ -14034,8 +14034,8 @@
     "summary": "M and R to All National Highways under jurisdiction of National Highway Division Rajkot for Electrification Work",
     "enrichment_source": "rules",
     "coordinates": [
-      20.5176,
-      78.9984
+      20.7566,
+      78.7384
     ],
     "geo_source": "centroid"
   },
@@ -14061,8 +14061,8 @@
     "summary": "Risk and Cost work for work of Sarvardevla to Pal (MP/MH Border) Road section of NH-347C from Design Chainage 81.600 km to 137.400 km…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.7767,
-      78.8936
+      22.912,
+      79.0503
     ],
     "geo_source": "centroid"
   },
@@ -14088,8 +14088,8 @@
     "summary": "STMC Work in K.M. 35 to K.M. 63.25 (Total length 29.25 KM) of NH 333A for the Year 2026-27.",
     "enrichment_source": "rules",
     "coordinates": [
-      24.9113,
-      85.2857
+      24.8656,
+      85.1848
     ],
     "geo_source": "centroid"
   },
@@ -14142,8 +14142,8 @@
     "summary": "Engagement of supporting staff in the Office of the Assistant Commissioner CALA Sagar through placement agency in the Project of…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.0862,
-      75.6595
+      15.3515,
+      75.5463
     ],
     "geo_source": "centroid"
   },
@@ -14169,8 +14169,8 @@
     "summary": "Treatment of 30 nos of landslide locations from km 64.380 to km 186.085 on NH-09 (Old NH-125) in the State of Uttarakhand under EPC mode…",
     "enrichment_source": "rules",
     "coordinates": [
-      29.9584,
-      78.8556
+      30.014,
+      78.8414
     ],
     "geo_source": "centroid"
   },
@@ -14196,8 +14196,8 @@
     "summary": "Construction of Four-Lane access control Arwal Bypass from km 54.200 To Km 66.500 (Design ch. 67.680) of existing NH-139 on Naubatpur-…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.9683,
-      85.2251
+      25.0544,
+      85.4875
     ],
     "geo_source": "centroid"
   },
@@ -14223,8 +14223,8 @@
     "summary": "IE for consultancy service for 4 Laning of Jhunjhunu-Chirawa-Pacheri Sec. of NH-11 from design km 0.0 to km 66.700 incl. Chirawa…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.8755,
-      73.8663
+      27.1405,
+      74.0868
     ],
     "geo_source": "centroid"
   },
@@ -14250,8 +14250,8 @@
     "summary": "Construction of 4 Lane Access Controlled Bypass to Tiruvannamalai Town starting from Design km 75.150 of new NH38 and ending at Design…",
     "enrichment_source": "rules",
     "coordinates": [
-      10.8661,
-      78.7483
+      11.0548,
+      78.9335
     ],
     "geo_source": "centroid"
   },
@@ -14277,8 +14277,8 @@
     "summary": "STMC Work From Km. 5th(P) to Km. 37th (P) of NH-133E  for the Year 2026-27",
     "enrichment_source": "rules",
     "coordinates": [
-      25.0833,
-      85.3819
+      25.2307,
+      85.113
     ],
     "geo_source": "centroid"
   },
@@ -14304,8 +14304,8 @@
     "summary": "Widening and Strengthening Of Existing 2 Lane to 2 lane with Paved Shoulder from Km. 205.373 to Km. 311.700 of NH-326 in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      21.165,
-      85.2378
+      21.1242,
+      84.9528
     ],
     "geo_source": "centroid"
   },
@@ -14331,8 +14331,8 @@
     "summary": "Widening and Strengthening of Existing 2 Lane to 2 Lane with Paved Shoulder from Km. 68.600 to Km. 162.700 and Km. 178.400 to Km.…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7817,
-      85.1428
+      20.9926,
+      85.4532
     ],
     "geo_source": "centroid"
   },
@@ -14358,8 +14358,8 @@
     "summary": "Independent Engineer Services for Construction of 4 Lane PS from Km 140.200 to 167.326 Chikkodi Gotur section including Chikkodi Bypass…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.4455,
-      76.1099
+      15.3807,
+      76.0508
     ],
     "geo_source": "centroid"
   },
@@ -14385,8 +14385,8 @@
     "summary": "STMC Work in K.M. 53 to K.M. 89 (Total length 36 KM) of NH 33(old NH-110) for the Year 2026-27.",
     "enrichment_source": "rules",
     "coordinates": [
-      24.958,
-      85.192
+      25.392,
+      84.9765
     ],
     "geo_source": "centroid"
   },
@@ -14493,8 +14493,8 @@
     "summary": "Annual Rates for works of National Highway No. 147 Km. 0/00 to 44/040 (Chiloda-Gandhinagar-Sarkhej Highway) for Providing and…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.5352,
-      79.2985
+      20.8224,
+      78.8022
     ],
     "geo_source": "centroid"
   },
@@ -14520,8 +14520,8 @@
     "summary": "Annual Rates for works of National Highway No. 147 Km. 0/00 to 44/040 (Chiloda-Gandhinagar- Sarkhej Highway) for Providing Asphalt…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.6808,
-      79.2989
+      20.4057,
+      79.1815
     ],
     "geo_source": "centroid"
   },
@@ -14601,8 +14601,8 @@
     "summary": "Performance Based Maintenance Contract\r\n(P.B.M.C.) work of NH from Km 52.350 to 61.750,\r\n70.750 to 72.900, 79.350 to 83.00, 134.00 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      29.794,
-      79.2094
+      29.9699,
+      78.6605
     ],
     "geo_source": "centroid"
   },
@@ -14655,8 +14655,8 @@
     "summary": "Construction of RCC Drain at km 140, km 183, km 204 and Guard or Toe wall of at Ch. 151.200 of NH-\r\n23 (New NH-143)\r\nunder NH Division,…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.3624,
-      84.9621
+      23.8328,
+      85.6621
     ],
     "geo_source": "centroid"
   },
@@ -14682,8 +14682,8 @@
     "summary": "Strengthening work from 0.00 (Paswan chowk) to 58.450 (Musharigharari) of NH 103 (New NH 322) on EPC Mode in state of Bihar Repair on…",
     "enrichment_source": "rules",
     "coordinates": [
-      25.4321,
-      85.4682
+      25.4327,
+      85.2331
     ],
     "geo_source": "centroid"
   },
@@ -14736,8 +14736,8 @@
     "summary": "Consultancy Services for preparation of Detailed Project Report for Widening of 2L to 2LPS from Km.351.480 to Km.367.480 and Km.376.480…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7359,
-      85.2486
+      20.8937,
+      84.934
     ],
     "geo_source": "centroid"
   },
@@ -14817,8 +14817,8 @@
     "summary": "Annual Rates for works of National Highway No. 147 Km. 0/00 to 44/040 (Chiloda-Gandhinagar-Sarkhej Highway) for Providing Various…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7528,
-      78.8196
+      20.3704,
+      78.6731
     ],
     "geo_source": "centroid"
   },
@@ -14871,8 +14871,8 @@
     "summary": "Constructions of 2 lane pavement with paved shoulders from km 168.000 to 183.783 (Yisemyong to Unger) on Mokokchung to Tuli section of…",
     "enrichment_source": "rules",
     "coordinates": [
-      25.9345,
-      93.0096
+      25.8111,
+      92.6685
     ],
     "geo_source": "centroid"
   },
@@ -14898,8 +14898,8 @@
     "summary": "Road Safety Work of NH-135C in Forest Portion from Ch. 84.600 to 85.290, Ch. 85.750 to 86.950, Ch. 87.210 to 87.360 and Ch. 105.000 to…",
     "enrichment_source": "rules",
     "coordinates": [
-      26.6566,
-      81.2963
+      26.4553,
+      81.3392
     ],
     "geo_source": "centroid"
   },
@@ -14952,8 +14952,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.8177,
-      79.11
+      20.2486,
+      78.8499
     ],
     "geo_source": "centroid"
   },
@@ -14979,8 +14979,8 @@
     "summary": "Construction of Bypasses at Sheikhpura and Khaira along with 1 no. of realignment at Sikandra to two lane with paved shoulders standard…",
     "enrichment_source": "rules",
     "coordinates": [
-      25.1755,
-      84.9448
+      25.1419,
+      85.3274
     ],
     "geo_source": "centroid"
   },
@@ -15114,8 +15114,8 @@
     "summary": "CS for AE for Construction of 6 no of Mangobandhar, Kendua, Tolesono, Jhajha, Narganjo and Bhairoganj Bypasses(Total length…",
     "enrichment_source": "rules",
     "coordinates": [
-      25.4522,
-      85.3416
+      24.7991,
+      85.3358
     ],
     "geo_source": "centroid"
   },
@@ -15141,8 +15141,8 @@
     "summary": "Pamol Khadol Road. Km.0/00 to 4/200. (FDR, Asphaltic Work, CC Road, Structure Work, Road Furniture and Miscellaneous Work) CRIF Work…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7726,
-      79.3305
+      20.3805,
+      78.9834
     ],
     "geo_source": "centroid"
   },
@@ -15249,8 +15249,8 @@
     "summary": "CONSULTANCY SERVICES FOR PREPARATION OF  DPR AND PRE-CONSTRUCTION SERVICES FOR UPGRADATION OF DHAR- UDHAMPUR FROM KM 0.00 TO KM 130.00…",
     "enrichment_source": "rules",
     "coordinates": [
-      31.0132,
-      75.4448
+      30.7843,
+      74.9962
     ],
     "geo_source": "centroid"
   },
@@ -15303,8 +15303,8 @@
     "summary": "Consultancy Services for Authority Engineer for Supervision of Upgradation of existing single/intermediate lane carriageway to Two lane…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.6027,
-      78.6511
+      20.948,
+      78.7506
     ],
     "geo_source": "centroid"
   },
@@ -15384,8 +15384,8 @@
     "summary": "Repair work of old Major Bridge near Kinjer Bazar on punpun river in Km 19th of NH-33 (Old NH-110) for the year 2026-27.",
     "enrichment_source": "rules",
     "coordinates": [
-      24.7563,
-      85.2096
+      24.7385,
+      84.9391
     ],
     "geo_source": "centroid"
   },
@@ -15411,8 +15411,8 @@
     "summary": "Consultancy services of Independent Engineer for Four Lanning of NH-114A from Km 65.500(Tower Chowk, Dumka) to Km 87.475 (Basukinath)…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.8045,
-      85.4468
+      23.2309,
+      85.5682
     ],
     "geo_source": "centroid"
   },
@@ -15438,8 +15438,8 @@
     "summary": "Maintenance Works from Km 658   824 to 666   124 of    NH    150A    Jevargi    Chamarajanagara section    in the state of Karnataka",
     "enrichment_source": "rules",
     "coordinates": [
-      14.9654,
-      75.4809
+      15.314,
+      75.325
     ],
     "geo_source": "centroid"
   },
@@ -15492,8 +15492,8 @@
     "summary": "Construction of Cement Concrete road of 2 lane with paved shoulder configuration from Km. 168.180 Shitala Mata Mandir to Km 168.920…",
     "enrichment_source": "rules",
     "coordinates": [
-      19.8348,
-      75.4581
+      19.4317,
+      76.0369
     ],
     "geo_source": "centroid"
   },
@@ -15546,8 +15546,8 @@
     "summary": "Construction of 4 Lane Mukundra Bypass on Kota-Jhalawar Section of NH-52 in the State of\r\nRajasthan on EPC Mode.",
     "enrichment_source": "rules",
     "coordinates": [
-      27.1403,
-      74.1716
+      27.0065,
+      73.8957
     ],
     "geo_source": "centroid"
   },
@@ -15573,8 +15573,8 @@
     "summary": "Resurfacing of Victor Dungar Asarana Road k.m. 4.4 to 23.200  Ta. Rajula, Dist. Amreli.",
     "enrichment_source": "rules",
     "coordinates": [
-      20.9815,
-      78.8338
+      20.8738,
+      79.0853
     ],
     "geo_source": "centroid"
   },
@@ -15600,8 +15600,8 @@
     "summary": "Resurfacing of Rajula Vijapadi Road k.m. 1/0 to 17/200 Ta. Rajula, Dist. Amreli.",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3271,
-      79.1374
+      20.4482,
+      79.2409
     ],
     "geo_source": "centroid"
   },
@@ -15627,8 +15627,8 @@
     "summary": "Resurfacing of Hindorana Katar Dedan Road k.m. 0.0 to 15.0  Ta. Rajula, Dist. Amreli",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7498,
-      78.7033
+      20.8125,
+      79.1059
     ],
     "geo_source": "centroid"
   },
@@ -15654,8 +15654,8 @@
     "summary": "As per Tender",
     "enrichment_source": "rules",
     "coordinates": [
-      25.8613,
-      92.7563
+      26.3025,
+      93.1246
     ],
     "geo_source": "centroid"
   },
@@ -15681,8 +15681,8 @@
     "summary": "Resurfacing of Chanch Khera Patva Samdhiyala Road k.m. 0.0 to 16.800 Ta. Rajula, Dist. Amreli.",
     "enrichment_source": "rules",
     "coordinates": [
-      20.7186,
-      78.5811
+      20.3315,
+      78.8484
     ],
     "geo_source": "centroid"
   },
@@ -15708,8 +15708,8 @@
     "summary": "Consultancy Services for DPR preparation for 2L PS from Km 66.00 to Km 119.00 (Hazaribagh- Chatra section) of NH-522(NH-100) in the…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.495,
-      85.4585
+      23.3765,
+      85.3348
     ],
     "geo_source": "centroid"
   },
@@ -15723,7 +15723,7 @@
     "state": "Karnataka",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SM2La2T47%2BTWujNOUisoxSQ%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Percentage",
     "work_description": "Providing Man power Services to National Highway Division, Shivamogga and Sub Divisions on outsource basis \r\nfrom 01-04-2026 to 31-03-2027",
     "tender_value": "NA",
@@ -15816,8 +15816,8 @@
     "summary": "STMC estimate from Km. 0.000 to 73.250 Km. Angul AThagarh of NH 655 in the State of Odisha for the year 2026 27",
     "enrichment_source": "rules",
     "coordinates": [
-      21.3026,
-      85.3557
+      21.3236,
+      85.0608
     ],
     "geo_source": "centroid"
   },
@@ -15951,8 +15951,8 @@
     "summary": "Rehabilitation and Upgradation of Nehru Nagar to Kothagudem Section from Km 178.500 to 230.580 of NH 930P in Telangana Sub work…",
     "enrichment_source": "rules",
     "coordinates": [
-      17.7516,
-      78.6205
+      18.0789,
+      78.9709
     ],
     "geo_source": "centroid"
   },
@@ -15978,8 +15978,8 @@
     "summary": "Consultancy Services for feasi.study and prep.of (DPR)for(i)capacity augment.from 2L PS to 4 lane/6 ofBanda-Karw(chitrakoot) section…",
     "enrichment_source": "rules",
     "coordinates": [
-      27.2263,
-      80.8777
+      26.5497,
+      80.5997
     ],
     "geo_source": "centroid"
   },
@@ -16248,8 +16248,8 @@
     "summary": "One Time Improvement of existing road from Km 34.450 to 35.400 of Kodad Khammam Section of NH 365A under Road Safety in the State of…",
     "enrichment_source": "rules",
     "coordinates": [
-      18.3543,
-      78.8842
+      18.0791,
+      78.9355
     ],
     "geo_source": "centroid"
   },
@@ -16275,8 +16275,8 @@
     "summary": "Consultancy Services for Preparation of Detailed Project Report DPR for Rehabilitation of Tambakhani Tunnel of Length 358.50 m at Km…",
     "enrichment_source": "rules",
     "coordinates": [
-      29.7944,
-      79.0231
+      29.9586,
+      78.9633
     ],
     "geo_source": "centroid"
   },
@@ -16302,8 +16302,8 @@
     "summary": "Performance Based Maintenance Contract for Pachore-Shujalpur Section of NH-752C from Km 2/700 to Km 33/000, including White Topping in…",
     "enrichment_source": "rules",
     "coordinates": [
-      23.2167,
-      78.5183
+      23.1715,
+      78.5215
     ],
     "geo_source": "centroid"
   },
@@ -16329,8 +16329,8 @@
     "summary": "Procurement of Computers, Printers, Online UPS and Zerox machine to Executive Engineer, National Highway Division, Belagavi and…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.4936,
-      75.7527
+      15.0696,
+      75.4649
     ],
     "geo_source": "centroid"
   },
@@ -16356,8 +16356,8 @@
     "summary": "Procurement of office furnitures for office use to Chief Engineer N.H North Zone office Belagavi and Executive Engineer, National…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.1116,
-      75.5663
+      15.1784,
+      75.8206
     ],
     "geo_source": "centroid"
   },
@@ -16383,8 +16383,8 @@
     "summary": "Widening and strengthening to two lane with paved shoulders from Km 8.0 to 25.0 of Sironcha to Mahadevpur Section of NH 353C in…",
     "enrichment_source": "rules",
     "coordinates": [
-      18.069,
-      78.93
+      18.3654,
+      78.9104
     ],
     "geo_source": "centroid"
   },
@@ -16410,8 +16410,8 @@
     "summary": "Providing consultancy services for design calculations for payment with supporting FWD NSV test and reports as applicable for…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.5562,
-      75.7957
+      15.0305,
+      75.4693
     ],
     "geo_source": "centroid"
   },
@@ -16464,8 +16464,8 @@
     "summary": "CRIF to Waghai-Saputara Road Km 61/0 to 103/3 Dist.Dang (Providing and Fixing Roller Crash Barrier)",
     "enrichment_source": "rules",
     "coordinates": [
-      20.3549,
-      78.8301
+      20.5879,
+      78.9901
     ],
     "geo_source": "centroid"
   },
@@ -16518,8 +16518,8 @@
     "summary": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and\r\nMonitoring System (CCMS) for Highway…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.6321,
-      75.9612
+      14.9498,
+      76.0152
     ],
     "geo_source": "centroid"
   },
@@ -16653,8 +16653,8 @@
     "summary": "Rehabilitation and Upgradation of existing road between km 0.00 to km 86.00 Gangotri to Heena from existing/single lane to double lane…",
     "enrichment_source": "rules",
     "coordinates": [
-      29.8034,
-      78.7213
+      30.1066,
+      79.2739
     ],
     "geo_source": "centroid"
   },
@@ -16680,8 +16680,8 @@
     "summary": "Supply of Laboratory Equipment (NDT, Epoxy, Thermoplastic, Sign Board and Sheeting, Metal Beam Crash Barriers)",
     "enrichment_source": "rules",
     "coordinates": [
-      20.2311,
-      78.7194
+      20.3195,
+      78.8866
     ],
     "geo_source": "centroid"
   },
@@ -16734,8 +16734,8 @@
     "summary": "Construction of Damaged Retaining,Breast Wall and box Culvert at Various Location From Km 0.00 to Km 84.00 on NH 107A Under 2026-2027 in…",
     "enrichment_source": "rules",
     "coordinates": [
-      30.44,
-      78.9276
+      30.4284,
+      78.9455
     ],
     "geo_source": "centroid"
   },
@@ -16761,8 +16761,8 @@
     "summary": "Construction of Damaged Retaining , Breast wall and cross drainage work from ch 349.800 to 355.495 , Kaliyasaur to Khankra of NH-07…",
     "enrichment_source": "rules",
     "coordinates": [
-      29.6743,
-      79.0115
+      29.7632,
+      79.364
     ],
     "geo_source": "centroid"
   },
@@ -16815,8 +16815,8 @@
     "summary": "STMC work from Km 4 th (Ramnagar) TO Km 28 th ( Bahedi Bazar ) of NH 527E UNDER NH Division Samastipur for the year 2026-27 in the state…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.79,
-      85.1865
+      25.4292,
+      85.4549
     ],
     "geo_source": "centroid"
   },
@@ -16896,8 +16896,8 @@
     "summary": "Strengthening of NH - 543K  MP and MH border-Bapera-Tumsar-Mohadi-Bhandara in Section Km. 73.00 Khairlanji to Km. 82.00 Khapa Actual…",
     "enrichment_source": "rules",
     "coordinates": [
-      19.6939,
-      75.8701
+      19.5088,
+      75.7173
     ],
     "geo_source": "centroid"
   },
@@ -17031,8 +17031,8 @@
     "summary": "Providing consultancy services for conducting FWD tests, NSV and CBR values etc. for Resurfacing OR strengthening OR…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.0103,
-      75.9195
+      15.2914,
+      75.6971
     ],
     "geo_source": "centroid"
   },
@@ -17166,8 +17166,8 @@
     "summary": "Special Repairs in the stretch from Km105.780 to Km15.330 Yedegowdanahalli to Bilikere section of NH 373 in the State of Karnataka in…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.2021,
-      75.3615
+      14.9568,
+      75.5675
     ],
     "geo_source": "centroid"
   },
@@ -17274,8 +17274,8 @@
     "summary": "Consultancy Services for Preparation of DPR for OTI of Following Stretches, Pawai, Kaithi and Patna-Tamoli of NH-943 (Length 19 Km),…",
     "enrichment_source": "rules",
     "coordinates": [
-      22.8623,
-      78.5185
+      22.9401,
+      78.6888
     ],
     "geo_source": "centroid"
   },
@@ -17301,8 +17301,8 @@
     "summary": "Special Repair work from km 0.00 to km 71.60 of NH 275 (Mani Sampaje section) in the State of Karnataka in EPC mode (Job No.…",
     "enrichment_source": "rules",
     "coordinates": [
-      15.0065,
-      75.8873
+      15.1653,
+      75.6646
     ],
     "geo_source": "centroid"
   },
@@ -17328,8 +17328,8 @@
     "summary": "Interior Furnishing Works in Additional Directors Room, Reception Lobby Atrium and Toilets at IAHE Campus, Noida",
     "enrichment_source": "rules",
     "coordinates": [
-      20.2045,
-      79.175
+      20.8265,
+      79.273
     ],
     "geo_source": "centroid"
   },
@@ -17409,8 +17409,8 @@
     "summary": "Providing and Fixing of welded steel wire\r\nFencing to Cover ROW under Ajabpur\r\nROB in Km 161 on NH-07 (Old NH-72)",
     "enrichment_source": "rules",
     "coordinates": [
-      29.9998,
-      79.0853
+      30.0172,
+      78.7438
     ],
     "geo_source": "centroid"
   },
@@ -17436,8 +17436,8 @@
     "summary": "Strenthening work of Mohkampur ROB\r\nboth Side Service Lane with DBM and BC from 164.000 to 164.625 on NH-07 (Old No. 72)",
     "enrichment_source": "rules",
     "coordinates": [
-      30.3291,
-      78.8128
+      30.0879,
+      78.9983
     ],
     "geo_source": "centroid"
   },
@@ -17652,8 +17652,8 @@
     "summary": "Construction of New Box culvert on local khadi on Jamankuwa-Rataniya-Nanicher-Moticher-Limdgha road Km 0/0 to 12/0 (Km 3/90 to 4/00)…",
     "enrichment_source": "rules",
     "coordinates": [
-      20.6654,
-      78.7974
+      20.8072,
+      79.2206
     ],
     "geo_source": "centroid"
   },
@@ -17733,9 +17733,198 @@
     "summary": "CS for FS and Prep. of DPR for improvement to 2 lane with PS from Mishraulia to Bhengari of NH 727B and CS for Prep. of DPR for…",
     "enrichment_source": "rules",
     "coordinates": [
-      24.7197,
-      85.0548
+      25.2372,
+      85.1646
     ],
     "geo_source": "centroid"
+  },
+  {
+    "tender_id": "2026_MoRTH_923662_1",
+    "title": "Consultancy Services for DPR Preparation for OTI of Jirapur-Khilchipur and Biaora-Sironj Sections of NH-752B and Upgradation of 06 Existing Bridges/Culverts on NH-347C in the State of Madhya Pradesh.",
+    "organization": "RO Bhopal",
+    "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH||RO Bhopal - MoRTH",
+    "published_date": "25-Aug-2026 06:30 PM",
+    "closing_date": "07-Oct-2026 05:30 PM",
+    "state": "Madhya Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SYQRCVLsIvynNVbuT0Ha0NA%3D%3D",
+    "status": "active",
+    "contract_type": "Works",
+    "work_description": "Consultancy Services for DPR Preparation for OTI of Jirapur-Khilchipur and Biaora-Sironj Sections of NH-752B and Upgradation of 06 Existing Bridges/Culverts on NH-347C in the State of Madhya Pradesh.",
+    "tender_value": "0.00",
+    "product_category": "Consultancy",
+    "period_of_work": "150",
+    "location_city": "Jirapur-Khilchipur, Biaora-Sironj",
+    "pincode": "465679",
+    "category": "Bridge",
+    "summary": "Consultancy Services for DPR Preparation for OTI of Jirapur-Khilchipur and Biaora-Sironj Sections of NH-752B and Upgradation of 06…",
+    "enrichment_source": "rules",
+    "coordinates": [
+      23.2574,
+      78.6597
+    ],
+    "geo_source": "centroid"
+  },
+  {
+    "tender_id": "2026_MoRTH_923510_1",
+    "title": "Performance Based Maintenance Contract PBMC work from Km 34.00 to Km 56.00 Km 64.00 to Km 80.00 Km 94.500 to Km 111.710 of NH 117 new NH 12 except Karanjali Jorapole and Kalnagini Bridge in the district of South 24 parganas West Bengal Job No NH12 Ol",
+    "organization": "NH West Bengal PWD-Kolkata Directorate",
+    "org_chain": "Ministry of Road Transport and Highways||P3 Delhi - MoRTH||RO Kolkata - MoRTH||NH West Bengal PWD-Kolkata Directorate - MoRTH",
+    "published_date": "25-Aug-2026 06:15 PM",
+    "closing_date": "08-Oct-2026 02:00 PM",
+    "state": "West Bengal",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sleyd0UjVsZ%2FNU5Nk%2Bvv6rA%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Performance Based Maintenance Contract PBMC work from Km 34.00 to Km 56.00 Km 64.00 to Km 80.00 Km 94.500 to Km 111.710 of NH 117 new NH 12 except Karanjali Jorapole and Kalnagini Bridge in the district of South 24 parganas West Bengal Job No NH12 Ol",
+    "tender_value": "66,59,48,349",
+    "product_category": "Civil Works - Roads",
+    "period_of_work": "1095",
+    "location_city": "South 24 Parganas",
+    "pincode": "700086",
+    "category": "Bridge",
+    "summary": "Performance Based Maintenance Contract PBMC work from Km 34.00 to Km 56.00 Km 64.00 to Km 80.00 Km 94.500 to Km 111.710 of NH 117 new NH…",
+    "enrichment_source": "rules",
+    "coordinates": [
+      22.17767,
+      88.53079
+    ],
+    "geo_source": "nominatim"
+  },
+  {
+    "tender_id": "2026_MoRTH_923598_1",
+    "title": "Consultancy Services for DPR Preparation for OTI of NH-43, NH-543 and NH-45 (Total Length 25.15 Km) in the State of Madhya Pradesh",
+    "organization": "RO Bhopal",
+    "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH||RO Bhopal - MoRTH",
+    "published_date": "25-Aug-2026 05:30 PM",
+    "closing_date": "07-Oct-2026 05:30 PM",
+    "state": "Madhya Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S0Er9DtnnCXwbxs%2BI0cbJdw%3D%3D",
+    "status": "active",
+    "contract_type": "Works",
+    "work_description": "Consultancy Services for DPR Preparation for OTI of Budhar-Umaria (NH-43), Ponda Nala-Shahdol Bypass and Chilman Chowk-Dindori-Mandla Road (NH-543), and Dindori-Mandla Road NH-45 Junction and NH-543 Junction Dindori-Kabirchabutra Road (NH-45)",
+    "tender_value": "NA",
+    "product_category": "Consultancy",
+    "period_of_work": "150",
+    "location_city": "NH-43, NH-543 and NH-45",
+    "pincode": "481880",
+    "category": "Consultancy",
+    "summary": "Consultancy Services for DPR Preparation for OTI of Budhar-Umaria (NH-43), Ponda Nala-Shahdol Bypass and Chilman Chowk-Dindori-Mandla…",
+    "enrichment_source": "rules",
+    "coordinates": [
+      22.7951,
+      78.6662
+    ],
+    "geo_source": "centroid"
+  },
+  {
+    "tender_id": "2026_MoRTH_923615_1",
+    "title": "Construction of Digital Bus Shelter at Ravinagar Square on Nagpur Amravati Road",
+    "organization": "NH Maharashtra PWD-Nagpur",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Maharashtra PWD-Nagpur - MoRTH",
+    "published_date": "25-Aug-2026 04:45 PM",
+    "closing_date": "01-Sep-2026 05:00 PM",
+    "state": "Maharashtra",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S%2F3kEG6HowEzvzoBO9nw6ig%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Construction of Digital Bus Shelter at Ravinagar Square on Nagpur Amravati Road",
+    "tender_value": "20,99,797",
+    "product_category": "Civil Works",
+    "period_of_work": "90",
+    "location_city": "Nagpur Amravati Road",
+    "pincode": "440001",
+    "category": "Maintenance",
+    "summary": "Construction of Digital Bus Shelter at Ravinagar Square on Nagpur Amravati Road",
+    "enrichment_source": "rules",
+    "coordinates": [
+      21.13862,
+      78.93148
+    ],
+    "geo_source": "nominatim"
+  },
+  {
+    "tender_id": "2026_MoRTH_923417_1",
+    "title": "Special Repairs from Km. 123.80 to Km. 153.00 of NH 169 Tanikodu to Malagate section in the State of Karnataka in EPC Mode Job No.NH-169-KNT-Shimoga-Special Repairs-2026-27-03",
+    "organization": "EE NH Division Shivamogga",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH||EE NH Division Shivamogga - MoRTH",
+    "published_date": "25-Aug-2026 04:00 PM",
+    "closing_date": "24-Sep-2026 04:00 PM",
+    "state": "Karnataka",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sxp2FhhME2z4IuWLM%2BFIivg%3D%3D",
+    "status": "active",
+    "contract_type": "Lump-sum",
+    "work_description": "Special Repairs from Km. 123.80 to Km. 153.00 of NH 169 Tanikodu to Malagate section in the State of Karnataka in EPC Mode Job No.NH-169-KNT-Shimoga-Special Repairs-2026-27-03",
+    "tender_value": "NA",
+    "product_category": "Civil Works - Bridges",
+    "period_of_work": "270",
+    "location_city": "Tanikodu to Malagate section",
+    "pincode": "577201",
+    "category": "Bridge",
+    "summary": "Special Repairs from Km. 123.80 to Km. 153.00 of NH 169 Tanikodu to Malagate section in the State of Karnataka in EPC Mode Job…",
+    "enrichment_source": "rules",
+    "coordinates": [
+      15.5387,
+      75.6263
+    ],
+    "geo_source": "centroid"
+  },
+  {
+    "tender_id": "2026_MoRTH_923585_1",
+    "title": "Short Term Maintenance work on NH-151AD Khambhaliya - Advana - Porbandar road km. 0.00 to 66.00 in the state of Gujarat.",
+    "organization": "NH Division-Rajkot",
+    "org_chain": "Ministry of Road Transport and Highways||P4 Delhi - MoRTH||RO Gandhinagar - MoRTH||NH Division-Rajkot - MoRTH",
+    "published_date": "25-Aug-2026 02:40 PM",
+    "closing_date": "16-Sep-2026 02:00 PM",
+    "state": "Gujarat",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S1VJkbn0PoGJ3RqSXlwTy3w%3D%3D",
+    "status": "active",
+    "contract_type": "Works",
+    "work_description": "Short Term Maintenance work on NH-151AD Khambhaliya - Advana - Porbandar road km. 0.00 to 66.00 in the state of Gujarat.",
+    "tender_value": "9,56,18,374",
+    "product_category": "Civil Works - Highways",
+    "period_of_work": "365",
+    "location_city": "Khambhaliya Advana Road",
+    "pincode": "360590",
+    "category": "Maintenance",
+    "summary": "Short Term Maintenance work on NH-151AD Khambhaliya - Advana - Porbandar road km. 0.00 to 66.00 in the state of Gujarat.",
+    "enrichment_source": "rules",
+    "coordinates": [
+      22.5179,
+      70.9022
+    ],
+    "geo_source": "centroid"
+  },
+  {
+    "tender_id": "2026_MoRTH_923537_1",
+    "title": "Supply, Installation, Testing, Commissioning, Operation And Maintenance of Centralized Control And Monitoring System (CCMS) for Highway Lighting on National Highways under the Jurisdiction of National Highway Circle, Pune,  in the State of Maharashtr",
+    "organization": "NH Maharashtra PWD-Pen",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Maharashtra PWD-Pen - MoRTH",
+    "published_date": "25-Aug-2026 01:00 PM",
+    "closing_date": "23-Sep-2026 05:00 PM",
+    "state": "Maharashtra",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=S8hLApak%2B1jDV97daoqs%2BkA%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Supply, Installation, Testing, Commissioning, Operation And Maintenance of Centralized Control And Monitoring System (CCMS) for Highway Lighting on National Highways under the Jurisdiction of National Highway Circle, Pune,  in the State of Maharashtr",
+    "tender_value": "0.00",
+    "product_category": "Civil Works",
+    "period_of_work": "365",
+    "location_city": "PEN",
+    "pincode": "402107",
+    "category": "Maintenance",
+    "summary": "Supply, Installation, Testing, Commissioning, Operation And Maintenance of Centralized Control And Monitoring System (CCMS) for Highway…",
+    "enrichment_source": "rules",
+    "coordinates": [
+      18.73539,
+      73.08682
+    ],
+    "geo_source": "nominatim"
   }
 ]
