@@ -12,16 +12,16 @@
     "generated_at": "2026-08-27"
   },
   "Odisha": {
-    "text": "The dominant infrastructure focus in Odisha's tenders is on enhancing the road network, notably through the construction and reconstruction of numerous bridges (9 out of 22 tenders) and the widening/strengthening of existing National Highways. This pattern highlights a regional priority towards improving connectivity and traffic flow by overcoming geographical barriers and increasing the capacity and safety of key arterial routes, with significant investment also directed at planning future highway upgrades.",
-    "tender_count": 22,
+    "text": "The dominant infrastructure focus in Odisha is on enhancing road connectivity and capacity, with a notable pattern of heavy investment in constructing new major bridges and widening/strengthening existing two-lane national highways to include paved shoulders. A data-backed observation highlights National Highway 26 as a key regional priority, featuring prominently in multiple bridge and road improvement projects across diverse districts like Balangir, Bargarh, Kalahandi, and Nabarangpur.",
+    "tender_count": 23,
     "total_value_crore": 96347.0,
     "top_categories": [
       "Bridge",
       "Road Expansion",
       "Consultancy"
     ],
-    "source_hash": "fb7e28d61995d0cf",
-    "generated_at": "2026-08-29"
+    "source_hash": "017660cdf0496fb8",
+    "generated_at": "2026-08-30"
   },
   "Madhya Pradesh": {
     "text": "The procurement data for Madhya Pradesh overwhelmingly focuses on road infrastructure, specifically the extensive network of National Highways. A notable pattern is the high volume of 'Short Term Maintenance' tenders, comprising 19 out of the 25 listed projects, which strongly indicates a regional priority on preserving and ensuring the immediate usability of existing roads rather than significant new construction.",

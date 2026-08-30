@@ -8860,7 +8860,7 @@
     "organization": "NH Circle Lucknow",
     "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Circle Lucknow - MoRTH",
     "published_date": "03-Jul-2026 04:00 PM",
-    "closing_date": "31-Aug-2026 03:00 PM",
+    "closing_date": "07-Sep-2026 03:00 PM",
     "state": "Uttar Pradesh",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sh6SyiwBRdcivSim7UOpnDA%3D%3D",
@@ -15034,6 +15034,28 @@
     "pincode": "761016",
     "category": "Maintenance",
     "summary": "Short Term Maintenance Contract (STMC) estimate from Km 38/000 to 45/000, Km 50/000 to 60/000  and Km 65/000 to 70/000 of NH-326(A) in…",
+    "enrichment_source": "rules"
+  },
+  {
+    "tender_id": "2026_MoRTH_924110_1",
+    "title": "STMC estimate from Km. 28.500 to 48.000 of NH 316 Puri Satapada Link",
+    "organization": "NH Division-Bhubaneswar",
+    "org_chain": "Ministry of Road Transport and Highways||P5 Delhi / LWE - MoRTH||RO Bhubaneswar - MoRTH||NH Division-Bhubaneswar - MoRTH",
+    "published_date": "29-Aug-2026 04:00 PM",
+    "closing_date": "18-Sep-2026 05:30 PM",
+    "state": "Odisha",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SoPdgIOf1S7IudsHKuaOiWw%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "STMC estimate from Km. 28.500 to 48.000 of NH 316 Puri Satapada Link in the State of Odisha for the year 2026 27.",
+    "tender_value": "3,16,08,935",
+    "product_category": "Civil Works - Highways",
+    "period_of_work": "365",
+    "location_city": "Puri Satapada Link",
+    "pincode": "752010",
+    "category": "Maintenance",
+    "summary": "STMC estimate from Km. 28.500 to 48.000 of NH 316 Puri Satapada Link in the State of Odisha for the year 2026 27.",
     "enrichment_source": "rules"
   }
 ]
