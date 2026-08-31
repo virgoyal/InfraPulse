@@ -12,16 +12,16 @@
     "generated_at": "2026-08-27"
   },
   "Odisha": {
-    "text": "The dominant infrastructure focus in Odisha is on enhancing road connectivity and capacity, with a notable pattern of heavy investment in constructing new major bridges and widening/strengthening existing two-lane national highways to include paved shoulders. A data-backed observation highlights National Highway 26 as a key regional priority, featuring prominently in multiple bridge and road improvement projects across diverse districts like Balangir, Bargarh, Kalahandi, and Nabarangpur.",
-    "tender_count": 23,
-    "total_value_crore": 96347.0,
+    "text": "Odisha's infrastructure tenders reveal a dominant focus on upgrading and expanding the state's road network, notably through heavy investment in the construction and reconstruction of major bridges alongside the widening and strengthening of existing National Highways. This pattern highlights a regional priority towards enhancing connectivity and capacity on key arterial routes, with multiple projects concentrated on NH-26, NH-326/326A, and NH-59, indicating a strategic effort to improve access and development in districts like Balangir, Kalahandi, and Nabarangpur.",
+    "tender_count": 22,
+    "total_value_crore": 90859.0,
     "top_categories": [
       "Bridge",
       "Road Expansion",
       "Consultancy"
     ],
-    "source_hash": "017660cdf0496fb8",
-    "generated_at": "2026-08-30"
+    "source_hash": "444d6861633be87f",
+    "generated_at": "2026-08-31"
   },
   "Madhya Pradesh": {
     "text": "The procurement data for Madhya Pradesh overwhelmingly focuses on road infrastructure, specifically the extensive network of National Highways. A notable pattern is the high volume of 'Short Term Maintenance' tenders, comprising 19 out of the 25 listed projects, which strongly indicates a regional priority on preserving and ensuring the immediate usability of existing roads rather than significant new construction.",
@@ -211,5 +211,16 @@
     ],
     "source_hash": "66e5cab61486e0b0",
     "generated_at": "2026-08-29"
+  },
+  "Chhattisgarh": {
+    "text": "These tenders clearly indicate a dominant infrastructure focus on road development and maintenance across Chhattisgarh. The state is heavily investing in upgrading existing highways, implementing smart control systems for efficiency, and crucially, strengthening strategic routes like NH-30 connecting Jagdalpur, Sukma, and Konta. This pattern highlights a regional priority towards enhancing robust road connectivity, ranging from urban capacity expansion to critical access in more remote or challenging areas.",
+    "tender_count": 3,
+    "total_value_crore": 0.0,
+    "top_categories": [
+      "Maintenance",
+      "Consultancy"
+    ],
+    "source_hash": "ec3e4342e7be3e2d",
+    "generated_at": "2026-08-31"
   }
 }
