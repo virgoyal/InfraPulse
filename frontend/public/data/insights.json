@@ -190,15 +190,15 @@
     "generated_at": "2026-08-29"
   },
   "Chhattisgarh": {
-    "text": "The dominant infrastructure focus in Chhattisgarh is overwhelmingly on roads and highways, with a notable pattern of heavy investment directed towards upgrading, strengthening, and maintaining existing national highways. These tenders specifically highlight a regional priority of enhancing the longevity, safety, and operational efficiency of key routes such as NH-30, NH-63, and NH-12A, covering areas from Raipur to Jagdalpur and the MP border.",
-    "tender_count": 5,
+    "text": "The dominant infrastructure focus in these Chhattisgarh tenders is overwhelmingly on roads and highways. A notable pattern reveals heavy investment across the entire road infrastructure lifecycle, encompassing planning for upgrades, implementing advanced control systems, and substantial maintenance and strengthening work, particularly on National Highways like NH-30 and NH-63. This data-backed observation highlights that improving and sustaining road connectivity is a paramount regional priority for the state.",
+    "tender_count": 6,
     "total_value_crore": 0.0,
     "top_categories": [
       "Maintenance",
       "Consultancy",
       "Flood Mitigation"
     ],
-    "source_hash": "13a344bccb23fd34",
-    "generated_at": "2026-09-12"
+    "source_hash": "c9560f1fad9c39b2",
+    "generated_at": "2026-09-13"
   }
 }
