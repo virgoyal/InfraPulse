@@ -120,27 +120,26 @@
     "generated_at": "2026-09-11"
   },
   "Rajasthan": {
-    "text": "These tenders predominantly highlight a strong focus on enhancing Rajasthan's national highway infrastructure, encompassing both significant upgradation and new four-lane construction projects alongside essential short-term maintenance. A notable pattern is the balanced investment in expanding road capacity and improving existing stretches, with projects like the Mukundra Bypass and Nagaur upgradations complementing ongoing upkeep on NH-168 and NH-52. This data clearly indicates a regional priority on improving overall road connectivity, traffic flow, and the quality of the state's arterial road network.",
-    "tender_count": 5,
+    "text": "The dominant infrastructure focus across these tenders is unequivocally on road development, with a clear pattern of heavy investment in upgrading and expanding Rajasthan's National Highway network to multi-lane carriageways. This data highlights a regional priority towards enhancing connectivity and traffic flow on key routes, exemplified by projects on NH-52 and NH-62, encompassing both new construction and essential maintenance.",
+    "tender_count": 4,
     "total_value_crore": 0.0,
     "top_categories": [
       "Road Expansion",
       "Maintenance"
     ],
-    "source_hash": "d24e1ff3840b6d6e",
-    "generated_at": "2026-09-11"
+    "source_hash": "a0b8df094c357fec",
+    "generated_at": "2026-09-14"
   },
   "Arunachal Pradesh": {
-    "text": "The dominant infrastructure focus in Arunachal Pradesh is overwhelmingly on road construction and its supervision, specifically for the extensive Frontier Highway NH 913 project. A notable pattern is the heavy and continuous investment in various sections of this single highway, with 12 out of 14 tenders explicitly related to its construction or consultancy services, often under the EPC mode. This clearly indicates a significant regional priority placed on developing strategic road infrastructure and enhancing connectivity along its frontier regions.",
-    "tender_count": 14,
+    "text": "The dominant infrastructure focus in Arunachal Pradesh is overwhelmingly on new road construction, specifically the Frontier Highway NH 913. A notable pattern is the concentrated investment in this single strategic highway, with 12 out of 13 tenders dedicated to supervising various sections of its construction, often through Authority Engineer and consultancy services on an EPC basis. This data clearly reflects a regional priority on enhancing road connectivity and developing this crucial border highway.",
+    "tender_count": 13,
     "total_value_crore": 0.0,
     "top_categories": [
       "Consultancy",
-      "Maintenance",
       "Flood Mitigation"
     ],
-    "source_hash": "445b269b72a83cac",
-    "generated_at": "2026-08-18"
+    "source_hash": "326d284cfa701553",
+    "generated_at": "2026-09-14"
   },
   "Jharkhand": {
     "text": "The dominant infrastructure focus in these Jharkhand tenders is clearly on the development and maintenance of the National Highway network. A notable pattern reveals a balanced investment in both major upgrades, such as widening and four-laning, and extensive maintenance work, with half of the tenders dedicated to various repairs and upkeep. This underscores a clear regional priority in Jharkhand to enhance and sustain its critical road network, particularly National Highways like NH-522 and NH-133, across various divisions.",
