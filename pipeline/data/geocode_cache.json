@@ -1054,5 +1054,17 @@
   "KESHKAL||Chhattisgarh": [
     20.08328,
     81.58906
+  ],
+  "New Delhi||Madhya Pradesh": null,
+  "New Delhi||Chhattisgarh": null,
+  "New Delhi||Assam": null,
+  "New Delhi||Andhra Pradesh": null,
+  "Jalpaiguri||West Bengal": [
+    26.62628,
+    88.73345
+  ],
+  "Hoshiarpur||Punjab": [
+    31.60929,
+    75.84598
   ]
 }
