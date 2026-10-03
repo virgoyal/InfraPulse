@@ -48,16 +48,16 @@
     "generated_at": "2026-10-02"
   },
   "Uttar Pradesh": {
-    "text": "The tenders predominantly showcase a focus on enhancing Uttar Pradesh's National Highway network through significant upgrades and capacity expansion, rather than routine maintenance. A notable pattern is the heavy investment in widening existing roads to two, four, or even six lanes, alongside \"One Time Improvement\" and \"Rehabilitation\" projects, often preceded by extensive consultancy for detailed project reports. This data indicates a strategic regional priority on bolstering inter-district and state-level connectivity by modernizing core transportation corridors across various regions of Uttar Pradesh.",
-    "tender_count": 14,
+    "text": "The dominant infrastructure focus in Uttar Pradesh is road development, particularly the widening, upgradation, and construction of new sections and bypasses for National Highways to achieve multi-lane configurations. This indicates a notable pattern of heavy investment in enhancing inter-city road capacity and quality, with projects ranging from detailed project report preparation to direct construction and maintenance, distributed broadly across diverse regions such as Sitapur, Gonda, Agra, and Maharajganj, signifying a state-wide priority for improved connectivity.",
+    "tender_count": 12,
     "total_value_crore": 34770.0,
     "top_categories": [
-      "Road Expansion",
       "Consultancy",
-      "Maintenance"
+      "Maintenance",
+      "Road Expansion"
     ],
-    "source_hash": "157cec73dbab6872",
-    "generated_at": "2026-09-30"
+    "source_hash": "7b02b6744f51324e",
+    "generated_at": "2026-10-03"
   },
   "Karnataka": {
     "text": "Karnataka's active infrastructure tenders are overwhelmingly focused on the expansion and improvement of its National Highway network, with a strong emphasis on widening existing roads and constructing bypasses. A notable pattern is the heavy investment in increasing road capacity, as evidenced by multiple projects to upgrade highways like NH 169A, 167N, and 75 to two or four lanes with paved shoulders, alongside new bypasses for towns. This clearly signals a regional priority towards enhancing inter-city connectivity and improving traffic flow across the state's arterial road infrastructure.",
