@@ -4329,7 +4329,7 @@
     "period_of_work": "1095",
     "location_city": "New Delhi",
     "pincode": "110001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2023_MoRTH_775185_1",
@@ -7951,7 +7951,7 @@
     "state": "Himachal Pradesh",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SucST9gg3QVbrScRIjzDBdQ%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Works",
     "work_description": "Consultancy Services for Preparation of DPR for Widening to 2lane from km 31.0 to km 46.0 and km 63.0 to km 97.0 of NH 305 in the State of Himachal Pradesh.",
     "tender_value": "4,51,54,500",
@@ -16938,7 +16938,7 @@
     "state": "Uttarakhand",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sqn3gj63fCjLvdyGX6qnQ2Q%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Filling of potholes and patch repair work from 235.250 to 266.100 on NH 07",
     "tender_value": "NA",
@@ -18409,5 +18409,24 @@
     "period_of_work": "365",
     "location_city": "Paralakhemundi",
     "pincode": "751003"
+  },
+  {
+    "tender_id": "2026_MoRTH_929898_1",
+    "title": "Maintenance and repair work for the office building of Executive Engineer, NH Division, PWD, Ghaziabad in the State of Uttar Pradesh.",
+    "organization": "NH Circle Barelly",
+    "org_chain": "Ministry of Road Transport and Highways||P2 Delhi - MoRTH||RO Lucknow - MoRTH||NH Circle Barelly - MoRTH",
+    "published_date": "12-Oct-2026 01:00 PM",
+    "closing_date": "10-Nov-2026 12:00 PM",
+    "state": "Uttar Pradesh",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SfnKZozgJqlKATJYPhRvWWQ%3D%3D",
+    "status": "active",
+    "contract_type": "Percentage",
+    "work_description": "Maintenance and repair work for the office building of Executive Engineer, NH Division, PWD, Ghaziabad in the State of Uttar Pradesh.",
+    "tender_value": "5,00,000",
+    "product_category": "Civil Works - Buildings",
+    "period_of_work": "45",
+    "location_city": "Dasna",
+    "pincode": "201015"
   }
 ]
