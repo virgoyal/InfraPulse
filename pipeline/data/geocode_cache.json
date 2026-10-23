@@ -1396,5 +1396,22 @@
   "New Delhi||Uttar Pradesh": [
     28.63361,
     77.22348
+  ],
+  "Ramnagar||West Bengal": [
+    21.67688,
+    87.55393
+  ],
+  "Lathi||Unknown": null,
+  "Tarikere||Karnataka": [
+    13.70623,
+    75.81836
+  ],
+  "Ooty||Tamil Nadu": [
+    11.41268,
+    76.70305
+  ],
+  "Arsikere||Karnataka": [
+    13.31378,
+    76.2532
   ]
 }
