@@ -19841,7 +19841,7 @@
     "organization": "NH Division-Ratnagiri",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Ratnagiri - MoRTH",
     "published_date": "17-Oct-2026 03:40 PM",
-    "closing_date": "09-Nov-2026 05:30 PM",
+    "closing_date": "13-Nov-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Sc1wbqIGU0dwcf66L8%2BtYQQ%3D%3D",
@@ -19974,7 +19974,7 @@
     "organization": "NH Division-Ratnagiri",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Ratnagiri - MoRTH",
     "published_date": "19-Oct-2026 10:00 AM",
-    "closing_date": "09-Nov-2026 05:30 PM",
+    "closing_date": "13-Nov-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SnQ5lr5dB7xoDGVtlTQ7MgA%3D%3D",
@@ -25059,5 +25059,24 @@
     "period_of_work": "180",
     "location_city": "Honnunasagi",
     "pincode": "583236"
+  },
+  {
+    "tender_id": "2026_MoRTH_933675_1",
+    "title": "Hiring of Commercial Vehicles 1 One no  Innova Crysta Top  V or Z Model  AC  and  1 One Kia Carens Top Model  AC or  Creta Top Model AC and 1 One Kia Carens Top Model  AC or Hundai Alcazar on monthly hire  basis.",
+    "organization": "NH Maharashtra PWD-SOLAPUR",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Maharashtra PWD-SOLAPUR - MoRTH",
+    "published_date": "09-Nov-2026 10:00 AM",
+    "closing_date": "23-Nov-2026 05:30 PM",
+    "state": "Maharashtra",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SmsVqYEBzZEP4B4mEx5%2Bmhw%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Hiring of Commercial Vehicles 1 One no  Innova Crysta Top  V or Z Model  AC  and  1 One Kia Carens Top Model  AC or  Creta Top Model AC and 1 One Kia Carens Top Model  AC or Hundai Alcazar on monthly hire  basis.",
+    "tender_value": "44,22,238",
+    "product_category": "Civil Works",
+    "period_of_work": "450",
+    "location_city": "Solapur",
+    "pincode": "413003"
   }
 ]
