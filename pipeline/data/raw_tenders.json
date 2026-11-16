@@ -1137,7 +1137,7 @@
     "period_of_work": "458",
     "location_city": "NH-07",
     "pincode": "248001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_906820_1",
@@ -1441,7 +1441,7 @@
     "period_of_work": "545",
     "location_city": "NH-134",
     "pincode": "248001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905921_1",
@@ -1840,7 +1840,7 @@
     "period_of_work": "545",
     "location_city": "NH-534",
     "pincode": "248001",
-    "status": "active"
+    "status": "archived"
   },
   {
     "tender_id": "2026_MoRTH_905250_1",
@@ -11447,7 +11447,7 @@
     "state": "Uttar Pradesh",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SZCf5GwdhAsnOnVYwsayLVA%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Lump-sum",
     "work_description": "Consultancy Services for feasi.study and prep.of (DPR)for(i)capacity augment.from 2L PS to 4 lane/6 ofBanda-Karw(chitrakoot) section form Ch.37.000to107 of NH35(ii) C/O MajorBridge at Ch.128.235 On NH35,atKm49.050of NH135C, at Km38.600 NH124C in UP.",
     "tender_value": "4,33,47,500",
@@ -11500,7 +11500,7 @@
     "organization": "NH Division-Akola",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Akola - MoRTH",
     "published_date": "12-Aug-2026 01:00 PM",
-    "closing_date": "16-Nov-2026 05:30 PM",
+    "closing_date": "16-Dec-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SOswGTKqlajntAIr3ieVviA%3D%3D",
@@ -12146,7 +12146,7 @@
     "organization": "NH Division-Akola",
     "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Mumbai - MoRTH||NH Division-Akola - MoRTH",
     "published_date": "18-Aug-2026 09:10 AM",
-    "closing_date": "16-Nov-2026 05:30 PM",
+    "closing_date": "16-Dec-2026 05:30 PM",
     "state": "Maharashtra",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SyWev4grmcvPa3roLw3741Q%3D%3D",
@@ -17014,7 +17014,7 @@
     "state": "Himachal Pradesh",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SdYS1%2BZbJlPN1OO%2F47ckQAA%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Special Repair to NH 305 Sainj Luhri Aut Road Km 63.00 to 94.800 in the State of Himachal Pradesh.",
     "tender_value": "6,74,46,761",
@@ -17052,7 +17052,7 @@
     "state": "Himachal Pradesh",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Slj4kMsg3l5s%2FWVmK25ZXIQ%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Special Repair to NH 305 Sainj Luhri Aut Road Km 0.00 to Km 53.00 in the State of Himachal Pradesh",
     "tender_value": "8,06,23,638",
@@ -19351,7 +19351,7 @@
     "state": "Uttarakhand",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=Smr3zBJDf7nzHjvRXZ2ykCw%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Maintenance work on NH-707 from km 133.150 to 173.600 in the State of Uttarakhand under Special Repair 2026-27 (Length- 40.450 km)",
     "tender_value": "1,61,77,000",
@@ -22448,7 +22448,7 @@
     "state": "Karnataka",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SGdEjdHB4LcYjSI9dkCipZw%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "CRIF works 2026-27 for Package- 02 Job no. 344 and 341",
     "tender_value": "NA",
@@ -24614,7 +24614,7 @@
     "state": "Jammu and Kashmir",
     "value": "",
     "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SuobVPz%2FUDZrd%2B1kDAks6HQ%3D%3D",
-    "status": "active",
+    "status": "archived",
     "contract_type": "Item Rate",
     "work_description": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Highway Lighting on National Highways under PWD (RnB) Central Kashmir in Union Territory of Jammu and Kashmir on Five Year",
     "tender_value": "1",
@@ -26180,5 +26180,24 @@
     "period_of_work": "180",
     "location_city": "Chhatrapati Sambhajinagar",
     "pincode": "431005"
+  },
+  {
+    "tender_id": "2026_MoRTH_934405_1",
+    "title": "Improvements to Huilgol Balaganur Lingdal Road MDR Km.11.90 to Km.12.40 Gadag Taluk Gadag Dist under Central Road Infrastructure Fund (Job No CRF-KNT-2026-27-244)",
+    "organization": "NH Division-Hubli",
+    "org_chain": "Ministry of Road Transport and Highways||P6 Delhi - MoRTH||RO Bangalore - MoRTH||NH Division-Hubli - MoRTH",
+    "published_date": "16-Nov-2026 01:30 PM",
+    "closing_date": "15-Dec-2026 04:00 PM",
+    "state": "Karnataka",
+    "value": "",
+    "detail_url": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndViewTender&service=direct&session=T&sp=SuojDljk8LSd%2FfokElmp0Dg%3D%3D",
+    "status": "active",
+    "contract_type": "Item Rate",
+    "work_description": "Improvements to Huilgol Balaganur Lingdal Road MDR Km.11.90 to Km.12.40 Gadag Taluk Gadag Dist under Central Road Infrastructure Fund (Job No CRF-KNT-2026-27-244)",
+    "tender_value": "97,87,803",
+    "product_category": "Civil Works - Roads",
+    "period_of_work": "180",
+    "location_city": "Huilgol",
+    "pincode": "582102"
   }
 ]
